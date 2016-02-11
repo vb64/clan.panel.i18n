@@ -1,0 +1,26 @@
+{% extends "clan/online.html" %}
+{% load i18n %}
+
+{% block online_content %}
+В календарях показано число участников клана, у которых были бои в определенный день.
+{% endblock %}
+
+{% block online_to_premium %}
+В премиум режиме вы можете просматривать сводный онлайн клана по часам суток, <a target="_blank"  href="http://wot-clans.appspot.com/clan/ru/1/online">как здесь</a>.
+{% endblock %}
+
+{% block online_hourly %}
+График боев участников клана по часам суток.
+{% endblock %}
+
+{% block online_tip %}
+Кликните на столбике часа для просмотра активных участников за этот час
+{% endblock %}
+
+{% block day_click_info %}
+Кликните на ячейке календаря для просмотра подробных данных за этот день.
+{% endblock %}
+
+{% block online_hour_view %}
+Кроме данных за текущий час. Эти данные будут доступны в начале следующего часа.
+{% endblock %}
