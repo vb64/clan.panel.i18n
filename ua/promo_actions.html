@@ -1,12 +1,12 @@
-{% include "ru/doc/attendance_content.html" %}
+﻿{% include "ru/doc/attendance_content.html" %}
 
 <p>
-Эта функция недоступна в бесплатном режиме. 
+Ця функція недоступна в безкоштовному режимі. 
 </p>
 
 {% if not clan.19 %}
 <p>
-<a class="btn btn-success" href="{% url clans_trial server=clan.1 clanid=clan.0 %}">Бесплатный триал</a>
+<a class="btn btn-success" href="{% url clans_trial server=clan.1 clanid=clan.0 %}">Безкоштовний тріал</a>
 </p>
 {% endif %}
 
