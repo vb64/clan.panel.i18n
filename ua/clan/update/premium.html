@@ -3,17 +3,17 @@
 
 {% block service_mode_text %}
 <p>
-Вы собираетесь оплатить для клана <strong>[{{clan.5}}]</strong> обслуживание в премиум режиме.
+Ви збираєтеся сплатити для клану <strong>[{{clan.5}}]</strong> обслуговування в преміум режимі.
 </p>
 
 <p>
-Премиум режим включает в себя все возможности <a target="_blank" href="{% url action_doc_page page='pricing' %}">базового режима</a>.
-Кроме того, премиум режим включает: 
-{% include "ru/text_prem.html" %}
+Преміум режим включає в себе всі можливості <a target="_blank" href="{% url action_doc_page page='pricing' %}">базового режима</a>.
+Крім того, преміум режим включає: 
+{% include "ua/text_prem.html" %}
 </p>
 
 <p>
-Стоимость обслуживания в премиум режиме составляет <strong>{{prem_mode_rur}} рублей за {{prem_mode_days}} дней</strong>.
+Вартість обслуговування в преміум режимі становить <strong>{{prem_mode_rur}} рублів за {{prem_mode_days}} днів</strong>.
 </p>
 {% endblock %}
 

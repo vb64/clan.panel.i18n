@@ -1,31 +1,31 @@
-{% extends "ru/doc/main.html" %}
+﻿{% extends "ru/doc/main.html" %}
 {% load i18n %}
 
-{% block h_title %}Клан-панель: режимы обслуживания и цены{% endblock %}
+{% block h_title %}Клан-панель: режими обслуговування і ціни{% endblock %}
 
 {% block content %}
 
-<h2>Цены за обслуживание</h2>
+<h2>Ціни за обслуговування</h2>
 
 <p>
-Клан-панель полностью бесплатна для новых пользователей. Но для тех, кому необходимо больше возможностей, "Базовый" и "Премиумный" режимы обслуживания предлагают дополнительные функции за приемлемую цену.
-</p>
+Клан-панель повністю безкоштовна для нових користувачів. Але для тих, кому необхідно більше можливостей, "Базовий" і "Преміумний" режими обслуговування пропонують додаткові функції за прийнятну ціну.
+</ P>
 
 <div class="table-container table-responsive">
 <table class="table table-hover">
 
 <thead>
-<tr><th></th><th>Бесплатный режим</th><th>Базовый режим</th><th>Премиум режим</th></tr>
+<tr><th></th><th>Безкоштовний режим</th><th>Базовий режим</th><th>Преміум режим</th></tr>
 </thead>
 
 <tr>
 <td>
 <ul>
-<li>Отслеживание <a href="{% url action_doc_page page='clan_news' %}">событий в клане</a></li>
-<li><a href="{% url action_doc_page page='top_vehicles' %}">Учет топ-танков</a></li>
-<li>Отслеживание <a href="{% url action_doc_page page='members_activity' %}">текущей игровой активности</a> участников</li>
-<li>Формирование и поддержка <a href="{% url action_doc_page page='company' %}">танковых рот</a></li>
-<li>Координация <a href="{% url action_doc_page page='stronghold' %}">защиты Укрепрайона</a></li>
+<li>ВІдстеження <a href="{% url action_doc_page page='clan_news' %}">подій в клані</a></li>
+<li><a href="{% url action_doc_page page='top_vehicles' %}">Облік топ-танків</a></li>
+<li>Відстеження <a href="{% url action_doc_page page='members_activity' %}">поточної ігрової активності</a> учасників</li>
+<li>Формування та підтримка <a href="{% url action_doc_page page='company' %}">танкових рот</a></li>
+<li>Координація <a href="{% url action_doc_page page='stronghold' %}">захисту Укріпрайону</a></li>
 </ul>
 </td>
 <td><img alt="Да" src="/media/img/true.gif"></td>
@@ -36,45 +36,45 @@
 <tr>
 <td>
 <ul>
-<li>Обновление данных</li>
+<li>Поновлення даних</li>
 </ul>
 </td>
-<td>Вручную, один раз в три дня</td>
-<td>Автоматически, ежедневно</td>
-<td>Автоматически, ежедневно</td>
+<td>Вручну, один раз в три дні</td>
+<td>Автоматично, щоденно</td>
+<td>Автоматично, щоденно</td>
 </tr>
 
 <tr>
 <td>
 {% include "ru/text_base.html" %}
 </td>
-<td><img alt="Нет" src="/media/img/false.gif"></td>
-<td><img alt="Да" src="/media/img/true.gif"></td>
-<td><img alt="Да" src="/media/img/true.gif"></td>
+<td><img alt="Ні" src="/media/img/false.gif"></td>
+<td><img alt="Так" src="/media/img/true.gif"></td>
+<td><img alt="Так" src="/media/img/true.gif"></td>
 </tr>
 
 <tr>
 <td>
 {% include "ru/text_prem.html" %}
 </td>
-<td><img alt="Нет" src="/media/img/false.gif"></td>
-<td><img alt="Нет" src="/media/img/false.gif"></td>
-<td><img alt="Да" src="/media/img/true.gif"></td>
+<td><img alt="Ні" src="/media/img/false.gif"></td>
+<td><img alt="Ні" src="/media/img/false.gif"></td>
+<td><img alt="Так" src="/media/img/true.gif"></td>
 </tr>
 
 <tr class="info">
-<td><strong>Цена</strong></td>
-<td><strong>Бесплатно</strong></td>
-<td><strong>{{base_mode_rur}} рублей за {{base_mode_days}} дней</strong></td>
-<td><strong>{{prem_mode_rur}} рублей за {{prem_mode_days}} дней</strong></td>
+<td><strong>Ціна</strong></td>
+<td><strong>Безкоштовно</strong></td>
+<td><strong>{{base_mode_rur}} рублів за {{base_mode_days}} днів</strong></td>
+<td><strong>{{prem_mode_rur}} рублів за {{prem_mode_days}} днів</strong></td>
 </tr>
 
 </table>
 </div>
 
 <p>
-<strong>Как платить.</strong> 
-Перейти на любую страницу нужного вам клана, затем нажать кнопку "Улучшить до базового режима" или "Улучшить до премиум режима" в верхней части страницы.
-</p>
+<strong>Як платити.</strong> 
+Перейти на будь-яку сторінку потрібного вам клану, потім натиснути кнопку "Поліпшити до базового режиму" або "Поліпшити до преміум режиму" в верхній частині сторінки.
+</ P>
 
 {% endblock %}
