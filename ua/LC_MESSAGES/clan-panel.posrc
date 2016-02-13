@@ -1,56 +1,56 @@
-msgid "%m/%d/%Y"
+﻿msgid "%m/%d/%Y"
 msgstr "%d.%m.%Y"
 
 msgid "Clan-panel"
 msgstr "Клан-панель"
 
 msgid "%s changed nickname '%s' -> '%s'"
-msgstr "%s изменил игровой ник '%s' -> '%s'"
+msgstr "%s змінив ігровий нік '%s' -> '%s'"
 
 msgid "%s gained 'Ace Tanker' badge: %s"
-msgstr "%s получил знак классности Мастер: %s"
+msgstr "%s отримав знак класності Майстер: %s"
 
 msgid "%s gained new top vehicle: '%s'"
-msgstr "%s приобрел новый топ-танк: '%s'."
+msgstr "%s придбав новий топ-танк: '%s'."
 
 msgid "%s gained new maximum experience: %d (previous: %d)"
-msgstr "%s поставил новый личный рекорд макс.опыта: %d (предыдущий: %d)."
+msgstr "%s встановив новий особистий рекорд макс.досвіду: %d (предыдущий: %d)."
 
 msgid "New clan member: %s (position: '%s')"
-msgstr "В клане новый участник: %s (должность: %s)."
+msgstr "В клані новий учасник: %s (должность: %s)."
 
 msgid "%s left the clan member"
-msgstr "Участник %s покинул клан."
+msgstr "Участник %s покинув клан."
 
 msgid "%s change clan role from '%s' to '%s'"
-msgstr "%s перемещен с должности '%s' на должность '%s'."
+msgstr "%s переведений з посади '%s' на посаду '%s'."
 
 msgid "World of Tanks clans management"
-msgstr "World of Tanks: управление кланами"
+msgstr "World of Tanks: управління кланами"
 
 msgid "clan information"
-msgstr "информация о клане"
+msgstr "інформація про клан"
 
 msgid "Created"
-msgstr "Создан"
+msgstr "Створено"
 
 msgid "Data updated now"
-msgstr "Данные обновляются сейчас"
+msgstr "Дані оновлюються зараз"
 
 msgid "Data updated"
-msgstr "Данные обновлены"
+msgstr "Дані оновлені"
 
 msgid "Details by members"
-msgstr "Подробности по участникам"
+msgstr "Подробиці про учасників"
 
 msgid "Member"
-msgstr "Участник"
+msgstr "Учасник"
 
 msgid "Total"
-msgstr "Всего"
+msgstr "Разом"
 
 msgid "Heavy"
-msgstr "Тяжи"
+msgstr "Тяжі"
 
 msgid "Medium"
 msgstr "СТ"
@@ -62,76 +62,76 @@ msgid "TD"
 msgstr "ПТ"
 
 msgid "Details by vehicles"
-msgstr "Подробности по технике"
+msgstr "Подробиці про техніку"
 
 msgid "Icon"
 msgstr "Контур"
 
 msgid "Name"
-msgstr "Название"
+msgstr "Назва"
 
 msgid "Number"
-msgstr "Количество"
+msgstr "Кількість"
 
 msgid "Members"
-msgstr "Участники"
+msgstr "Учасники"
 
 msgid "Heavy tanks"
-msgstr "Тяжелые танки"
+msgstr "Важкі танки"
 
 msgid "Medium tanks"
-msgstr "Средние танки"
+msgstr "Середні танки"
 
 msgid "Tank Destroyers"
 msgstr "ПТ САУ"
 
 msgid "Light tanks"
-msgstr "Легкие танки"
+msgstr "Легкі танки"
 
 msgid "Self propelled guns"
 msgstr "САУ"
 
 msgid "types:"
-msgstr "типов:"
+msgstr "типів:"
 
 msgid "%d (from %d) clan members have %d top vehicles."
-msgstr "%d (из %d) участников клана имеют %d единиц топовой техники."
+msgstr "%d (из %d) учасників клану мають %d одиниць топової техніки."
 
 msgid "Clan events"
-msgstr "События в клане"
+msgstr "Події в клані"
 
 msgid "Chief"
 msgstr "Командир"
 
 msgid "Commander"
-msgstr "Командующий"
+msgstr "Командуючий"
 
 msgid "Executive Officer"
-msgstr "Заместитель командующего"
+msgstr "Заступник командуючого"
 
 msgid "Recruitment Officer"
-msgstr "Офицер по кадрам"
+msgstr "Офіцер з кадрів"
 
 msgid "Quartermaster"
-msgstr "Офицер снабжения"
+msgstr "Офіцер з постачання"
 
 msgid "Intelligence Officer"
-msgstr "Офицер разведки"
+msgstr "Офіцер розвідки"
 
 msgid "Combat Officer"
-msgstr "Командир подразделения"
+msgstr "Командир підрозділу"
 
 msgid "Personnel Officer"
-msgstr "Офицер штаба"
+msgstr "Офіцер штабу"
 
 msgid "Junior Officer"
-msgstr "Младший офицер"
+msgstr "Молодший офіцер"
 
 msgid "Private"
-msgstr "Боец"
+msgstr "Боєць"
 
 msgid "Recruit"
-msgstr "Новобранец"
+msgstr "Новобранець"
 
 msgid "Reservist"
 msgstr "Резервист"
@@ -140,10 +140,10 @@ msgid "Leader"
 msgstr "Командир"
 
 msgid "Vice-leader"
-msgstr "Зам.командира"
+msgstr "Заст.командиру"
 
 msgid "Recruiter"
-msgstr "Вербовщик"
+msgstr "Вербувальник"
 
 msgid "Treasurer"
 msgstr "Казначей"
@@ -152,121 +152,121 @@ msgid "Diplomat"
 msgstr "Дипломат"
 
 msgid "Commandant"
-msgstr "Полевой"
+msgstr "Польовий"
 
 msgid "Officer"
-msgstr "Офицер"
+msgstr "Офіцер"
 
 msgid "Sergeant"
 msgstr "Сержант"
 
 msgid "account information"
-msgstr "данные об игроке"
+msgstr "дані про гравця"
 
 msgid "Member of clan:"
-msgstr "Состоит в клане:"
+msgstr "Учасник клану:"
 
 msgid "Battles"
-msgstr "Бои"
+msgstr "Бої"
 
 msgid "Victories, %"
-msgstr "Победы, %"
+msgstr "Перемоги, %"
 
 msgid "Victories"
-msgstr "Победы"
+msgstr "Перемоги"
 
 msgid "Days"
-msgstr "Дней"
+msgstr "Днів"
 
 msgid "Maximum experience"
-msgstr "Максимальный опыт"
+msgstr "Максимальний досвід"
 
 msgid "Activity for the period"
-msgstr "Активность за период"
+msgstr "Активність за період"
 
 msgid "Battles for the period"
-msgstr "Бои за период"
+msgstr "Бої за період"
 
 msgid "News"
-msgstr "Новости"
+msgstr "Новини"
 
 msgid "Top vehicles"
-msgstr "Топ техника"
+msgstr "Топ техніка"
 
 msgid "Members with tops"
-msgstr "Участники с топами"
+msgstr "Учасники з топами"
 
 msgid "Members without tops"
-msgstr "Участники без топов"
+msgstr "Учасники без топів"
 
 msgid "Members without top vehicles"
-msgstr "Участники без топовой техники"
+msgstr "Учасники без топової техніки"
 
 msgid "Clan"
 msgstr "Клан"
 
 msgid "Account history"
-msgstr "История аккаунта"
+msgstr "Історія аккаунта"
 
 msgid "History"
-msgstr "История"
+msgstr "Історія"
 
 msgid "Activity"
-msgstr "Активность"
+msgstr "Активність"
 
 msgid "Top vehicle: '%s'"
 msgstr "Топ танк: '%s'"
 
 msgid "Maximum experience: %d -> %d"
-msgstr "Максимальный опыт за бой: %d -> %d"
+msgstr "Максимальний досвід за бій: %d -> %d"
 
 msgid "Clan member: %s (position: '%s')"
-msgstr "Член клана: %s (должность: '%s')"
+msgstr "Член клану: %s (должность: '%s')"
 
 msgid "Left the clan %s"
-msgstr "Покинул клан %s"
+msgstr "Залишив клан %s"
 
 msgid "Change clan %s role from '%s' to '%s'"
-msgstr "В клане %s поменял должность '%s' на '%s'"
+msgstr "В клані %s змінив посаду '%s' на '%s'"
 
 msgid "Home"
-msgstr "На главную"
+msgstr "На головну"
 
 msgid "Hi"
-msgstr "Привет"
+msgstr "Привіт"
 
 msgid "Sign out"
-msgstr "Выйти"
+msgstr "Вийти"
 
 msgid "Sign in"
-msgstr "Войти"
+msgstr "Увійти"
 
 msgid "Wargaming.net clans news"
-msgstr "Новости кланов Wargaming.net"
+msgstr "Новини кланів Wargaming.net"
 
 msgid "News of the Wargaming.net clans from last week"
-msgstr "Новости кланов Wargaming.net за последнюю неделю"
+msgstr "Новини кланів Wargaming.net за останній тиждень"
 
 msgid "Russia"
-msgstr "Россия"
+msgstr "Росія"
 
 msgid "North America"
-msgstr "Северная Америка"
+msgstr "Північна Америка"
 
 msgid "Europe"
-msgstr "Европа"
+msgstr "Європа"
 
 msgid "Southeast Asia"
-msgstr "Юго-Восточная Азия"
+msgstr "Південно-східна Азія"
 
 msgid "Management"
-msgstr "Управление"
+msgstr "Управління"
 
 msgid "Clan settings"
-msgstr "Настройки клана"
+msgstr "Налаштування клану"
 
 msgid "Save settings"
-msgstr "Сохранить настройки"
+msgstr "Зберегти налаштування"
 
 msgid "Server"
 msgstr "Сервер"
@@ -275,475 +275,475 @@ msgid "Account"
 msgstr "Аккаунт"
 
 msgid "Only clanmates can visit my pages"
-msgstr "Мои страницы могут просматривать только соклановцы"
+msgstr "Мої сторінки можуть переглядати тільки сокланівці"
 
 msgid "Account settings"
-msgstr "Настройки аккаунта"
+msgstr "Налаштування аккаунту"
 
 msgid "Settings"
-msgstr "Настройки"
+msgstr "Налаштування"
 
 msgid "Email address"
-msgstr "Email адрес"
+msgstr "Email адреса"
 
 msgid "email verification"
-msgstr "подтверждение адреса email"
+msgstr "підтвердження адреси email"
 
 msgid "clan news"
-msgstr "новости клана"
+msgstr "новини клану"
 
 msgid "Vehicles"
-msgstr "Техника"
+msgstr "Техніка"
 
 msgid "Which vehicles are present in your garage now (except top-tanks)?"
-msgstr "Какая техника имеется у вас в ангаре сейчас (кроме топ-танков)?"
+msgstr "Яка техніка наявна у вас в ангарі зараз (окрім топ-танків)?"
 
 msgid "Vehicles in the garage (according information from player) at"
-msgstr "Техника в ангаре (по данным игрока) на"
+msgstr "Техніка в ангарі (за даними гравця) станом на"
 
 msgid "World of Tanks and Wargaming.net are registered trademarks or trademarks of Wargaming.net LLP."
-msgstr "World of Tanks и Wargaming.net являются зарегистрированными торговыми марками Wargaming.net LLP."
+msgstr "World of Tanks та Wargaming.net є зареєстрованими торговими марками Wargaming.net LLP."
 
 msgid "This website is in no way associated with Wargaming.net"
-msgstr "Этот сайт никак не связан с Wargaming.net."
+msgstr "Цей сайт ніяк не пов'язаний з Wargaming.net."
 
 msgid "The player did not provided data on their non-top tanks"
-msgstr "Игрок не предоставил данных о своих не топовых танках"
+msgstr "Гравець не надав дані про свої не топові танки"
 
 msgid "Position"
-msgstr "Должность"
+msgstr "Посада"
 
 msgid "today"
-msgstr "сегодня"
+msgstr "сьогодні"
 
 msgid "Profile"
 msgstr "Профиль"
 
 msgid "Age, days"
-msgstr "Возраст, дни"
+msgstr "Вік, дні"
 
 msgid "Your clan rss feed url"
-msgstr "Адрес RSS канала новостей вашего клана"
+msgstr "Адреса RSS каналу новин вашого клану"
 
 msgid "%s [%s] clan news"
-msgstr "%s [%s] новости клана"
+msgstr "%s [%s] новини клану"
 
 msgid "News of the %s [%s] clan"
-msgstr "Новостная лента клана %s [%s]"
+msgstr "Стрічка новин клану %s [%s]"
 
 msgid "Demo mode"
 msgstr "Демо-режим"
 
 msgid "Free plan"
-msgstr "Бесплатный режим"
+msgstr "Безкоштовний режим"
 
 msgid "Base plan"
-msgstr "Базовый режим"
+msgstr "Базовий режим"
 
 msgid "Premium plan"
-msgstr "Премиум режим"
+msgstr "Преміум режим"
 
 msgid "The next update will be available through"
-msgstr "Вы сможете обновить данные через"
+msgstr "Ви зможете оновити дані за"
 
 msgid "You can now update data for this clan"
-msgstr "Вы можете обновить данные клана сейчас"
+msgstr "Ви можете оновити дані зараз"
 
 msgid "Expired"
-msgstr "Истекает"
+msgstr "Закінчується"
 
 msgid "The data will be updated throughout the day"
-msgstr "Данные будут обновлены в течение суток"
+msgstr "Дані будуть новлені протягом доби"
 
 msgid "hour(s)"
-msgstr "час."
+msgstr "година."
 
 msgid "Update data"
-msgstr "Обновить данные"
+msgstr "Оновити дані"
 
 msgid "Upgrade to base plan"
-msgstr "Улучшить до базового режима"
+msgstr "Покращити до базового режиму"
 
 msgid "Upgrade to premium plan"
-msgstr "Улучшить до премиум режима"
+msgstr "Покращити до преміум режиму"
 
 msgid "Refresh data"
-msgstr "Обновить данные"
+msgstr "Оновити дані"
 
 msgid "The task is queued in"
-msgstr "Задача поставлена в очередь"
+msgstr "Завдання поставлене в чергу"
 
 msgid "Find clan"
-msgstr "Найти клан"
+msgstr "Знайти клан"
 
 msgid "Clan page URL"
-msgstr "Адрес страницы клана"
+msgstr "Адреса сторінки клану"
 
 msgid "Looks like wrong link"
-msgstr "Похоже, введен неверный адрес"
+msgstr "Схоже, введено невірну адресу"
 
 msgid "Can't get information about [%s] clan (id %s) from WorldOfTanks server"
-msgstr "Не могу получить данные о клане [%s] (id %s) с сервера WorldOfTanks"
+msgstr "Не можу отримати дані про клан [%s] (id %s) з серверу WorldOfTanks"
 
 msgid "WOT server '%s' not supported"
-msgstr "Сервер '%s' не поддерживается сервисом"
+msgstr "Сервер '%s' не підтримується сервісом"
 
 msgid "Clan has been added to task queue"
-msgstr "Клан добавлен в очередь задач"
+msgstr "Клан додано до черги завдань"
 
 msgid "Wot clan statistics"
-msgstr "Статистика клана WOT"
+msgstr "Статистика клану WOT"
 
 msgid "Prolongation of the base plan"
-msgstr "Продление базового режима"
+msgstr "Продовження базового режиму"
 
 msgid "Prolongation of the premium plan"
-msgstr "Продление премиум режима"
+msgstr "Продовження преміум режиму"
 
 msgid "Quantity of the top vehicles"
-msgstr "Количество топов, шт."
+msgstr "Кількість топів, шт."
 
 msgid "Too many selected items in list: %s. Please select only the most suitable."
-msgstr "Слишком много элементов выбрано в списке: %s. Выберите только наиболее подходящие."
+msgstr "Забагато елементів вибрано у списку: %s. Оберіть тільки ті, які найбільше підходять."
 
 msgid "Badge"
 msgstr "Знак"
 
 msgid "Tank companies"
-msgstr "Танковые роты"
+msgstr "Танкові роти"
 
 msgid "Companies"
-msgstr "Роты"
+msgstr "Роти"
 
 msgid "Company"
 msgstr "Рота"
 
 msgid "Rename"
-msgstr "Переименовать"
+msgstr "Перейменувати"
 
 msgid "Rename company"
-msgstr "Переименовать роту"
+msgstr "Перейменувати роту"
 
 msgid "Add members"
-msgstr "Добавить участников"
+msgstr "Додати учасників"
 
 msgid "Add selected"
-msgstr "Добавить выбранных"
+msgstr "Додати вибраних"
 
 msgid "For selected members"
-msgstr "Отмеченных участников"
+msgstr "Учасників, що позначені"
 
 msgid "Select action"
-msgstr "Выберите действие"
+msgstr "Оберіть дію"
 
 msgid "Remove from company"
-msgstr "Удалить из роты"
+msgstr "Видалити з роти"
 
 msgid "Remove from key stuff"
-msgstr "Удалить из основного состава"
+msgstr "Видалити з основного складу"
 
 msgid "Add to key stuff"
-msgstr "Добавить в основной состав"
+msgstr "Додати до основного складу"
 
 msgid "Save members roles in setup"
-msgstr "Сохранить штатное расписание сетапа"
+msgstr "Зберегти штатний розклад сетапу"
 
 msgid "Execute"
-msgstr "Выполнить"
+msgstr "Виконати"
 
 msgid "Select members for company"
-msgstr "Выберите участников для роты"
+msgstr "Оберіть учасників для роти"
 
 msgid "New setup"
-msgstr "Новый сетап"
+msgstr "Новий сетап"
 
 msgid "Company members"
-msgstr "Участники роты"
+msgstr "Учасники роти"
 
 msgid "Remove company"
-msgstr "Удалить роту"
+msgstr "Видалити роту"
 
 msgid "Company setups"
-msgstr "Ротные сетапы"
+msgstr "Ротні сетапи"
 
 msgid "Company setup"
-msgstr "Ротный сетап"
+msgstr "Ротний сетап"
 
 msgid "Back to company edit"
-msgstr "Вернуться в редактор роты"
+msgstr "Повернутися до редактору роти"
 
 msgid "Back to setup view"
-msgstr "Вернуться в просмотр сетапа"
+msgstr "Повернутися до перегляду сетапу"
 
 msgid "Back to clan management page"
-msgstr "Назад к управлению кланом"
+msgstr "Назад до управління кланом"
 
 msgid "Current setup for company cannot be removed"
-msgstr "Текущий ротный сетап удалить нельзя"
+msgstr "Поточний ротний сетап видалити неможливо"
 
 msgid "Save"
-msgstr "Сохранить"
+msgstr "Зберегти"
 
 msgid "Remove setup"
-msgstr "Удалить сетап"
+msgstr "Видалити сетап"
 
 msgid "New company"
-msgstr "Новая рота"
+msgstr "Нова рота"
 
 msgid "For daily automatic updates of data, you can switch to the base plan"
-msgstr "Для ежедневного автоматического обновления данных, вы можете включить базовый режим обслуживания"
+msgstr "Для щоденного автоматичного оновлення даних, ви можете включити базовий режим обслуговування"
 
 msgid "With premium mode, you can view detailed info about models of tanks, which used by player, for these periods"
-msgstr "В премиум режиме обслуживания клана, здесь будут доступны детальные данные о числе боев на каждом из танков, использованных игроком в эти периоды"
+msgstr "В преміум режимі обслуговування клану будуть доступні детальні дані про кількість боїв на кожному з танків, що були використані гравцем за ці періоди"
 
 msgid "Tag"
-msgstr "Тэг"
+msgstr "Тег"
 
 msgid "Form a company"
-msgstr "Сформировать роту"
+msgstr "Сформувати роту"
 
 msgid "Select members for new company"
-msgstr "Выберите участников новой роты"
+msgstr "Оберіть учасників нової роти"
 
 msgid "Description"
-msgstr "Описание"
+msgstr "Опис"
 
 msgid "Default company setup"
-msgstr "Ротный сетап по умолчанию"
+msgstr "Ротний сетап за замовчуванням"
 
 msgid "Type"
 msgstr "Тип"
 
 msgid "Tier"
-msgstr "Уровень"
+msgstr "Рівень"
 
 msgid "absolute"
-msgstr "абсолютный"
+msgstr "абсолютний"
 
 msgid "champion"
-msgstr "чемпионский"
+msgstr "чемпіонський"
 
 msgid "middle"
-msgstr "средний"
+msgstr "середній"
 
 msgid "junior"
-msgstr "юниорский"
+msgstr "юніорський"
 
 msgid "No tank has been selected"
-msgstr "Не выбрано ни одного танка"
+msgstr "Жодного танку не вибрано"
 
 msgid "Company TAG must bee latin character or digit"
-msgstr "Ротный Тэг должен быть из одной цифры или латинской буквы"
+msgstr "Ротний Тег повинен бути з однієї цифри або латинської літери"
 
 msgid "Cancel"
-msgstr "Отказ"
+msgstr "Відмова"
 
 msgid "Apply"
-msgstr "Применить"
+msgstr "Застосувати"
 
 msgid "Common data"
-msgstr "Общие данные"
+msgstr "Загальні дані"
 
 msgid "Click on name or tamk icon for edit or delete setup"
-msgstr "Кликните на названии или иконке танка для редактирования или удаления сетапа"
+msgstr "Натисніть на назву або іконку танка для редагування сетапу"
 
 msgid "[C]"
 msgstr "[Р]"
 
 msgid "Duplicate company tag"
-msgstr "Повторяющийся тэг роты"
+msgstr "Тег роти повторюється"
 
 msgid "Membership in companies (by tags)"
-msgstr "Участие в ротах (по тэгам)"
+msgstr "Участь в ротах (по тегам)"
 
 msgid "Number of battles for last 7 days"
-msgstr "Количество боев за последние 7 дней"
+msgstr "Кількість боїв за останні 7 днів"
 
 msgid "Number of battles for last 30 days"
-msgstr "Количество боев за последние 30 дней"
+msgstr "Кількість боїв за останні 30 днів"
 
 msgid "Win rate in battles for last 7 days"
-msgstr "Процент побед за последние 7 дней"
+msgstr "Відсоток перемог за останні 7 днів"
 
 msgid "Win rate in battles for last 30 days"
-msgstr "Процент побед за последние 30 дней"
+msgstr "Відсоток перемог за останні 30 днів"
 
 msgid "Total number of battles on account"
-msgstr "Общее количество боев на аккаунте"
+msgstr "Загальна кількість боїв на аккаунті"
 
 msgid "Total win rate on account"
-msgstr "Общий процент побед на аккаунте"
+msgstr "Загальний відсоток перемог на аккаунті"
 
 msgid "Total win rate on vehicle / Total number of battles on vehicle"
-msgstr "Общий процент побед на танке / Общее число боев на танке"
+msgstr "Загальний відсоток перемог на танку / Загальна кількість боїв на танку"
 
 msgid "User's status from clan-panel profile"
-msgstr "Статус пользователя из его профиля в клан-панели"
+msgstr "Статус користувача з його профілю в клан-панелі"
 
 msgid "How many days ago, a user has updated his profile in clan-panel"
-msgstr "Сколько дней назад пользователь обновлял свой профиль в клан-панели"
+msgstr "Скільки днів тому користувач оновлював свій профіль в клан-панелі"
 
 msgid "Wrong value '%s' for tank '%s'. Correct value 1 ... 15"
-msgstr "Неверное значение '%s' для танка '%s'. Допустимые значения 1 ... 15"
+msgstr "Невірне значення '%s' для танку '%s'. Припустимі значення 1 ... 15"
 
 msgid "Wrong total number of tanks in setup: %d. Must be 1 ... 15"
-msgstr "Неверное общее количество танков в сетапе: %d. Допустимые значения 1 ... 15"
+msgstr "Невірна загальна кількість танків в сетапі: %d. Припустимі значення 1 ... 15"
 
 msgid "Edit vehicles"
-msgstr "Редактировать технику"
+msgstr "Редагувати техніку"
 
 msgid "setup"
 msgstr "сетап"
 
 msgid "Stuff list"
-msgstr "Штатное расписание"
+msgstr "Штатний розклад"
 
 msgid "Summary"
-msgstr "Сводка"
+msgstr "Зведення"
 
 msgid "By models of tanks"
-msgstr "По моделям танков"
+msgstr "По моделях танків"
 
 msgid "Status"
 msgstr "Статус"
 
 msgid "Tops"
-msgstr "Топы"
+msgstr "Топи"
 
 msgid "Membership in clan, days"
-msgstr "Членство в клане, дни"
+msgstr "Членство в клані, дні"
 
 msgid "Show/Hide"
-msgstr "Скрыть/Показать"
+msgstr "Приховати/Показати"
 
 msgid "Attendance"
-msgstr "Посещалка"
+msgstr "Відвідування"
 
 msgid "Clan actions"
-msgstr "Клановые мероприятия"
+msgstr "Кланові заходи"
 
 msgid "New report"
-msgstr "Новый отчет"
+msgstr "Новий звіт"
 
 msgid "Date"
 msgstr "Дата"
 
 msgid "Duration"
-msgstr "Длительность"
+msgstr "Тривалість"
 
 msgid "commander"
 msgstr "командир"
 
 msgid "Compiler"
-msgstr "Подготовил"
+msgstr "Підготував"
 
 msgid "Approve"
-msgstr "Утвердить"
+msgstr "Затвердити"
 
 msgid "Approved"
-msgstr "Утвердил"
+msgstr "Затвердив"
 
 msgid "Note"
-msgstr "Примечание"
+msgstr "Примітка"
 
 msgid "Training"
-msgstr "Тренировка"
+msgstr "Тренування"
 
 msgid "CW battles"
-msgstr "ГК бои"
+msgstr "ГК бої"
 
 msgid "Absolute company"
-msgstr "Абсолютная рота"
+msgstr "Абсолютна рота"
 
 msgid "Not absolute company"
-msgstr "Не абсолютная рота"
+msgstr "Не абсолютна рота"
 
 msgid "Stronghold"
-msgstr "Укрепрайон"
+msgstr "Укріпрайон"
 
 msgid "New clan action"
-msgstr "Новое клановое мероприятие"
+msgstr "Новий клановий захід"
 
 msgid "Clan action"
-msgstr "Клановое мероприятие"
+msgstr "Клановий захід"
 
 msgid "Start"
-msgstr "Начало"
+msgstr "Початок"
 
 msgid "Finish"
-msgstr "Конец"
+msgstr "Кінець"
 
 msgid "Select participants"
-msgstr "Выберите участников"
+msgstr "Оберіть учасників"
 
 msgid "Participants"
-msgstr "Участники"
+msgstr "Учасники"
 
 msgid "Create report"
-msgstr "Создать отчет"
+msgstr "Створити звіт"
 
 msgid "Time zone"
-msgstr "Часовой пояс"
+msgstr "Часовий пояс"
 
 msgid "training"
-msgstr "тренировка"
+msgstr "тренування"
 
 msgid "CW"
 msgstr "ГК"
 
 msgid "Participated in CW battles"
-msgstr "Участвовал в ГК боях"
+msgstr "Приймав участь в ГК боях"
 
 msgid "absolute company"
-msgstr "абсолютная рота"
+msgstr "абсолютна рота"
 
 msgid "not absolute company"
-msgstr "не абсолютная рота"
+msgstr "не абсолютна рота"
 
 msgid "stronghold"
-msgstr "укрепрайон"
+msgstr "укріпрайон"
 
 msgid "Victories cannot be more than battles"
-msgstr "Побед не может быть больше, чем боев"
+msgstr "Перемог не може бути більше, ніж боїв"
 
 msgid "Action needs to have the one commander"
-msgstr "Мероприятие должно иметь командира"
+msgstr "Захід повинен мати командира"
 
 msgid "The date and time displayed on the time zone:"
-msgstr "Дата и время отображается по часовому поясу:"
+msgstr "Дата та час відображені згідно часового поясу:"
 
 msgid "Add participants of the action"
-msgstr "Добавить участников мероприятия"
+msgstr "Додати учасників заходу"
 
 msgid "Back to action edit"
-msgstr "Вернуться в редактор мероприятия"
+msgstr "Повернутися до редактору заходу"
 
 msgid "Remove entire report"
-msgstr "Удалить весь отчет"
+msgstr "Видалити весь звіт"
 
 msgid "Remove selected members and replays from report"
-msgstr "Удалить выбранных участников и реплеи из отчета"
+msgstr "Видалити обраних учасників та реплеї зі звіту"
 
 msgid "Enter comment for rating (start with '-', if rating is negative)"
-msgstr "Введите комментарий к оценке (начните с '-', если оценка отрицательная)"
+msgstr "Введіть коментар до оцінки (почніть з '-', якщо оцінка негативна)"
 
 msgid "Rollback to editing"
-msgstr "Вернуться к редактированию"
+msgstr "Повернутися до редагування"
 
 msgid "Reports"
-msgstr "Отчеты"
+msgstr "Звіти"
 
 msgid "CA"
 msgstr "КМ"
 
 msgid "Participate in clan events"
-msgstr "Участие в клановых мероприятиях"
+msgstr "Участь у кланових заходах"
 
 msgid "Over the past %d days has been involved in %d of the %d clan events"
-msgstr "За последние %d дней участвовал в %d из %d клановых мероприятиях"
+msgstr "За останні %d днів пиймав участь у %d з %d кланових заходів"
 
 msgid "Activity of commanders"
-msgstr "Активность командиров"
+msgstr "Активність командирів"
 
 msgid "Trn"
 msgstr "Трн"
@@ -752,64 +752,64 @@ msgid "Abs"
 msgstr "Абс"
 
 msgid "Oth"
-msgstr "Прч"
+msgstr "Ін"
 
 msgid "SH"
 msgstr "УР"
 
 msgid "Including"
-msgstr "В том числе"
+msgstr "У тому числі"
 
 msgid "Total number of events, lead by commander"
-msgstr "Общее количество мероприятий под руководством командира"
+msgstr "Загальна кількість заходів під керівництвом командира"
 
 msgid "Number of training sessions, lead by commander"
-msgstr "Количество тренировок под руководством командира"
+msgstr "Кількість тренувань під керівництвом командира"
 
 msgid "Number of CW tournaments, lead by commander"
-msgstr "Количество турниров на ГК под руководством командира"
+msgstr "Кількість турнірів на ГК під керівництвом командира"
 
 msgid "Number of tournaments in random battles between absolute tank companies, lead by commander"
-msgstr "Количество турниров среди рандомных абсолютных рот под руководством командира"
+msgstr "Кількість турнірів серед рандомних абсолютних рот під керівництвом командира"
 
 msgid "Number of tournaments in random battles between non-absolute tank companies, lead by commander"
-msgstr "Количество турниров среди рандомных не абсолютных рот под руководством командира"
+msgstr "Кількість турнірів серед рандомних не абсолютних рот під керівництвом командира"
 
 msgid "Number of tournaments in 7/42 format, lead by commander"
-msgstr "Количество турниров в формате 7/42 под руководством командира"
+msgstr "Кількість турнірів формату 7/42 під керівництвом командира"
 
 msgid "Number of tournaments in Stronghold, lead by commander"
-msgstr "Количество турниров в урепрайоне под руководством командира"
+msgstr "Кількість турнірів в укріпрайоні під керівництвом командира"
 
 msgid "By days"
-msgstr "По дням"
+msgstr "По днях"
 
 msgid "%sToday "
-msgstr "%sСегодня "
+msgstr "%sСьогодні "
 
 msgid "%sStart of data collection "
-msgstr "%sНачало сбора данных "
+msgstr "%sПочаток збору даних "
 
 msgid "%sCustom border for data collection "
-msgstr "%sПользовательская граница сбора данных "
+msgstr "%sМежа збору даних для користувача "
 
 msgid "%sBattles: %d Victories: %d(%d%%) "
-msgstr "%sБоев: %d Побед: %d(%d%%) "
+msgstr "%sБоїв: %d Перемог: %d(%d%%) "
 
 msgid "Full history activity of account"
-msgstr "Полная история активности аккаунта"
+msgstr "Повна історія активності аккаунту"
 
 msgid "Complete history of battles on the tank"
-msgstr "Полная история боев на танке"
+msgstr "Повна історія боїв на танку"
 
 msgid "Account activity"
-msgstr "Активность аккаунта"
+msgstr "Активність аккаунту"
 
 msgid "Replays"
-msgstr "Реплеи"
+msgstr "Реплеї"
 
 msgid "Add replay(s)"
-msgstr "Добавить реплеи"
+msgstr "Додати реплеї"
 
 msgid "Map"
 msgstr "Карта"
@@ -818,190 +818,190 @@ msgid "Tank"
 msgstr "Танк"
 
 msgid "Submit"
-msgstr "Отправить"
+msgstr "Відправити"
 
 msgid "Select replay(s) for upload"
-msgstr "Выберите реплеи для загрузки"
+msgstr "Оберіть реплеї для завантаження"
 
 msgid "Victory"
-msgstr "Победа"
+msgstr "Перемога"
 
 msgid "Countdown to deleting, hours"
-msgstr "Время до удаления, часы"
+msgstr "Час до видалення, години"
 
 msgid "Add another .wotreplay file"
-msgstr "Добавить еще один .wotreplay файл"
+msgstr "Додати ще один .wotreplay файл"
 
 msgid "during the last 30 days"
-msgstr "за последние 30 дней"
+msgstr "за останні 30 днів"
 
 msgid "from scratch"
-msgstr "в редакторе"
+msgstr "в редакторі"
 
 msgid "from .wotreplay file"
-msgstr "из файла .wotreplay"
+msgstr "з файлу .wotreplay"
 
 msgid "Select .wotreplay file for new report"
-msgstr "Выберите .wotreplay файл для нового отчета"
+msgstr "Оберіть .wotreplay файл для нового звіту"
 
 msgid "In what timezone this file was created?"
-msgstr "В каком часовом поясе записан этот файл?"
+msgstr "В якому часовому поясі записано цей файл?"
 
 msgid "In what timezone these files was created?"
-msgstr "В каком часовом поясе записаны эти файлы?"
+msgstr "В якомі часовому поясі записані ці файли?"
 
 msgid "Contacts"
-msgstr "Контакты"
+msgstr "Контакти"
 
 msgid "Read about functions of attendance control"
-msgstr "Почитать о функции контроля посещаемости"
+msgstr "Почитати про функцію контролю відвідування"
 
 msgid "Compare plans"
-msgstr "Сравнение режимов"
+msgstr "Порівняння режимів"
 
 msgid "Available languages"
-msgstr "Доступные языки"
+msgstr "Доступні мови"
 
 msgid "Site news"
-msgstr "Новости сайта"
+msgstr "Новини сайту"
 
 msgid "More news"
-msgstr "Другие новости"
+msgstr "Інші новини"
 
 msgid "Read"
-msgstr "Читать"
+msgstr "Читати"
 
 msgid "Never"
-msgstr "Никогда"
+msgstr "Ніколи"
 
 msgid "Back to company view"
-msgstr "Вернуться к списку роты"
+msgstr "Повернутися до складу роти"
 
 msgid "Read about functions of clan's companies"
-msgstr "Почитать о работе с клановыми ротами"
+msgstr "Почитати про роботу з клановими ротами"
 
 msgid "Help"
-msgstr "Помощь"
+msgstr "Допомога"
 
 msgid "All"
-msgstr "Все"
+msgstr "Усі"
 
 msgid "Personnel"
-msgstr "Кадры"
+msgstr "Кадри"
 
 msgid "Tops purchase"
-msgstr "Покупка топов"
+msgstr "Придбання топів"
 
 msgid "Experience"
-msgstr "Опыт"
+msgstr "Досвід"
 
 msgid "Aces"
-msgstr "Мастера"
+msgstr "Майстри"
 
 msgid "Nicks"
-msgstr "Ники"
+msgstr "Нікі"
 
 msgid "Member's dossiers"
-msgstr "Личные дела участников"
+msgstr "Особові справи учасників"
 
 msgid "Member's dossier"
-msgstr "Личное дело участника"
+msgstr "Особова справа учасника"
 
 msgid "Days in clan"
-msgstr "Дней в клане"
+msgstr "Днів в клані"
 
 msgid "Current status"
-msgstr "Текущий статус"
+msgstr "Поточний статус"
 
 msgid "Dossier"
-msgstr "Досье"
+msgstr "Досьє"
 
 msgid "There is member's dossier"
-msgstr "Есть записи в личном деле участника"
+msgstr "Є записи в особовій справі учасника"
 
 msgid "CW activity for the period"
-msgstr "Активность на ГК за период"
+msgstr "Активність на ГК за період"
 
 msgid "Full history of the CW activity for account"
-msgstr "Полная история активности аккаунта на ГК"
+msgstr "Повна історія активності аккаунту на ГК"
 
 msgid "Activity in CW battles for last %d days"
-msgstr "Активность в боях на ГК за последние %d дней"
+msgstr "Активність в боях на ГК за останні %d днів"
 
 msgid "Player vehicles"
-msgstr "Техника игрока"
+msgstr "Техніка гравця"
 
 msgid "days remaining"
-msgstr "осталось дней"
+msgstr "залишилось днів"
 
 msgid "Exploring World of Tanks clan"
-msgstr "Загрузка данных клана World of Tanks"
+msgstr "Завантаження даних клану World of Tanks"
 
 msgid "Please, complete a small puzzle by dragging the missing elements into place"
-msgstr "Пожалуйста, завершите небольшой пазл, перетащив недостающие элементы на свои места"
+msgstr "Будь ласка, завершіть невеликий пазл, перетягнувши відсутні елементи на свої місця"
 
 msgid "Add clan to database"
-msgstr "Добавить клан"
+msgstr "Додати клан"
 
 msgid "Error on exploring World of Tanks clan"
-msgstr "Ошибка при загрузке данных клана World of Tanks"
+msgstr "Помилка під час завантаження даних клану World of Tanks"
 
 msgid "I can not get info about clan with ID"
-msgstr "Не могу получить данные для клана с ID"
+msgstr "Не можу отримати дані для клану з ID"
 
 msgid "Return to main page"
-msgstr "Вернуться на главную страницу"
+msgstr "Повернутися на головну сторінку"
 
 msgid "Initial data loading"
-msgstr "Первая загрузка данных"
+msgstr "Перше завантаження даних"
 
 msgid "Loading data for a clan may take few minutes, and depend on the current load on the server"
-msgstr "Загрузка данных о клане может длиться несколько минут и зависит от текущей загрузки сервера"
+msgstr "Завантаження даних може тривати кілька хвилин та залежить від поточного завантаження серверу"
 
 msgid "At the moment there is no news"
-msgstr "На данный момент новостей нет"
+msgstr "На даний момент новин немає"
 
 msgid "Data will be updated for few minutes"
-msgstr "Данные будут обновлены в течение нескольких минут"
+msgstr "Дані будуть оновлені протігом кількох хвилин"
 
 msgid "Free trial"
-msgstr "Бесплатный триал"
+msgstr "Безкоштовний тріал"
 
 msgid "Activate the trial period"
-msgstr "Активировать пробный период"
+msgstr "Активувати пробний період"
 
 msgid "Your tanks in hangar"
-msgstr "Ваши танки в ангаре"
+msgstr "Ваші танки в ангарі"
 
 msgid "Replay view"
-msgstr "Просмотр реплея"
+msgstr "Перегляд реплею"
 
 msgid "Please, wait for a few minutes, processing"
-msgstr "Пожалуйста, подождите немного, идет обработка данных"
+msgstr "Будь-ласка, зачекайте, йде обробка даних"
 
 msgid "Download .wotreplay file"
-msgstr "Скачать .wotreplay файл"
+msgstr "Скачати .wotreplay файл"
 
 msgid "Player"
-msgstr "Игрок"
+msgstr "Гравець"
 
 msgid "Version"
-msgstr "Версия"
+msgstr "Версія"
 
 msgid "Result"
 msgstr "Результат"
 
 msgid "Unknown"
-msgstr "Неизвестно"
+msgstr "Невідомо"
 
 msgid "Draw"
-msgstr "Ничья"
+msgstr "Нічия"
 
 msgid "Defeat"
-msgstr "Поражение"
+msgstr "Поразка"
 
 msgid "Battle chat"
-msgstr "Боевой чат"
+msgstr "Бойовий чат"
 
 msgid "Ally"
 msgstr "Союзники"
@@ -1010,175 +1010,175 @@ msgid "Enemy"
 msgstr "Противник"
 
 msgid "Alive"
-msgstr "Выжил"
+msgstr "Вижив"
 
 msgid "Experience points"
-msgstr "Очки опыта"
+msgstr "Очки досвіду"
 
 msgid "Damage"
-msgstr "Урон"
+msgstr "Шкода"
 
 msgid "Shots"
-msgstr "Выстрелы"
+msgstr "Постріли"
 
 msgid "Capture"
-msgstr "Захват"
+msgstr "Захоплення"
 
 msgid "Potential damage received"
-msgstr "Потенциальный принятый урон"
+msgstr "Потенціальна отримана шкода"
 
 msgid "Mileage"
-msgstr "Пробег"
+msgstr "Пробіг"
 
 msgid "Killed"
-msgstr "Убито"
+msgstr "Знищено"
 
 msgid "Damaged"
-msgstr "Повреждено"
+msgstr "Пошкоджено"
 
 msgid "Spotted"
-msgstr "Обнаружено"
+msgstr "Виявлено"
 
 msgid "Dealt"
-msgstr "Нанесено"
+msgstr "Завдано"
 
 msgid "Assisted radio"
-msgstr "По засвету"
+msgstr "За розвідданими"
 
 msgid "Assisted track"
-msgstr "По сбитым гусеницам"
+msgstr "За збитими гусеницями"
 
 msgid "Direct hits"
-msgstr "Попадания"
+msgstr "Попадання"
 
 msgid "Piercings"
-msgstr "Пробития"
+msgstr "Пробиття"
 
 msgid "Dropped capture points"
-msgstr "Сбитые очки захвата"
+msgstr "Збиті очки захоплення"
 
 msgid "Capture points"
-msgstr "Очки захвата"
+msgstr "Очки захоплення"
 
 msgid "Extended data are not available for this .wotreplay file"
-msgstr "Для этого реплея расширенные данные недоступны"
+msgstr "Для цього реплею розширені дані недоступні"
 
 msgid "Return back to report"
-msgstr "Вернуться в отчет"
+msgstr "Повернутися до звіту"
 
 msgid "Explosion hits"
-msgstr "Попаданий сплешем"
+msgstr "Попадань сплешем"
 
 msgid "To obtain information about the contents of the column, place the mouse pointer on the column header"
-msgstr "Для получения подсказки о содержимом столбца, наведите курсор мыши на заголовок столбца"
+msgstr "Для отримання підказки стосовно змісту стовбчика, наведіть курсор миші на його заголовок"
 
 msgid "Discuss on Forum"
-msgstr "Обсудить на форуме"
+msgstr "Обсудити на форумі"
 
 msgid "Try again"
-msgstr "Попробовать еще раз"
+msgstr "Спробувати ще раз"
 
 msgid "OpenID error"
-msgstr "Ошибка OpenID"
+msgstr "Помилка OpenID"
 
 msgid "OpenID verification failed"
-msgstr "Отказ от авторизации по OpenID"
+msgstr "Відмова від авторизації по OpenID"
 
 msgid "These periods are calculated starting from the"
-msgstr "Данные за периоды подсчитаны начиная с"
+msgstr "Дані за періоди підраховані починаючи з"
 
 msgid "Information about your vehicles are temporarily unavailable"
-msgstr "Данные о вашей технике временно не доступны"
+msgstr "Дані про вашу техніку тимчасово не доступні"
 
 msgid "Ace tanker: %s"
-msgstr "Знак Мастер: %s"
+msgstr "Знак Майстер: %s"
 
 msgid "Online"
 msgstr "Онлайн"
 
 msgid "Clan's online"
-msgstr "Онлайн клана"
+msgstr "Онлайн клану"
 
 msgid "Read about clan's online statistic"
-msgstr "Читать про статистику кланового онлайна"
+msgstr "Читати про статистику кланового онлайну"
 
 msgid "%sActive members: %d Average number of battles per member: %0.2f "
-msgstr "%sАктивных участников: %d Среднее число боев на участника: %0.2f "
+msgstr "%sАктивних учасників: %d Середня кількість боїв на учасника: %0.2f "
 
 msgid "Active members"
-msgstr "Активные участники"
+msgstr "Активні учасники"
 
 msgid "Current online activity"
-msgstr "Текущая активность участника"
+msgstr "Поточна активність учасника"
 
 msgid "Data are not available"
-msgstr "Данные недоступны"
+msgstr "Дані недоступні"
 
 msgid "Defense of Stronghold"
-msgstr "Защита Укрепрайона"
+msgstr "Захист Укріпрайону"
 
 msgid "Shedule of stronghold's battles for union"
-msgstr "Расписание сражений за УР союза"
+msgstr "Розклад битв за УР союзу"
 
 msgid "You are member of union, coordinated by"
-msgstr "Вы состоите в союзе, который координирует"
+msgstr "Ви перебуваєте в союзі, який координує"
 
 msgid "You has sent invites for the next clans"
-msgstr "Вы послали приглашения следующим кланам"
+msgstr "Ви відправили запрошення наступним кланам"
 
 msgid "Dismiss the union"
-msgstr "Распустить союз"
+msgstr "Розпустити союз"
 
 msgid "Only clan's leader or vice-leader can dismiss union."
-msgstr "Только командир или заместитель может распустить союз"
+msgstr "Тільки командир або заступник можуть розпустити союз"
 
 msgid "Leave union"
-msgstr "Покинуть союз"
+msgstr "Вийти з союзу"
 
 msgid "Only clan's leader or vice-leader can leave union."
-msgstr "Только командир или заместитель может покинуть союз"
+msgstr "Тільки командир або заступник можуть розпустити союз"
 
 msgid "You have invites to next Unions"
-msgstr "У вас есть приглашения в следующие союзы"
+msgstr "Ви маєте запрошення до наступних союзів"
 
 msgid "You have not invitations to any Union."
-msgstr "У вас нет приглашений в союзы"
+msgstr "Ви не маєте запрошень до союзів"
 
 msgid "Create Union"
-msgstr "Создать союз"
+msgstr "Створити союз"
 
 msgid "You can accept invite from existing union or create new union, coordinated by you."
-msgstr "Вы можете принять приглашение в существующий союз или создать новый союз, который будете координировать сами."
+msgstr "Ви можете прийняти запрошення до існуючого союзу або створити новий союз, який будете координувати особиство."
 
 msgid "Clan's leader or vice-leader can create new stronghold's union or join to existing union."
-msgstr "Командир клана или заместитель может создать новый союз для защиты укрепрайонов или присоединиться к существующему союзу."
+msgstr "Командир клану або заступник може створити новий союз для захисту укріпрайонів або приєднатися до союзу, що вже існує."
 
 msgid "You must have <strong>level 5 stronghold and the defense period must be activated.</strong>"
-msgstr "У вас должен быть <strong>укрепрайон 5 уровня и должен быть установлен период обороны.</strong>"
+msgstr "Ви повинні мати <strong>укріпрайон 5 рівня, а також повинен бути встановлений період оборони.</strong>"
 
 msgid "Invite clan"
-msgstr "Пригласить клан"
+msgstr "Запросити клан"
 
 msgid "Remove"
-msgstr "Удалить"
+msgstr "Видалити"
 
 msgid "Join"
-msgstr "Вступить"
+msgstr "Вступити"
 
 msgid "Actuality"
-msgstr "Актуальность"
+msgstr "Актуальність"
 
 msgid "Coord"
 msgstr "Коорд"
 
 msgid "Level"
-msgstr "Уровень"
+msgstr "Рівень"
 
 msgid "Directions"
-msgstr "Направления"
+msgstr "Напрямки"
 
 msgid "OffDay"
-msgstr "Выходной"
+msgstr "Вихідний"
 
 msgid "Vacation"
 msgstr "Нейтралитет"
@@ -1187,310 +1187,310 @@ msgid "Defence"
 msgstr "Оборона"
 
 msgid "Frozen"
-msgstr "Заморожен"
+msgstr "Заморожений"
 
 msgid "Invited clan already have union membership."
-msgstr "Приглашаемый клан уже состоит в союзе."
+msgstr "Клан, що запрошується, вже перебуває в союзі."
 
 msgid "Internal error. Can't find invited clan in DB."
-msgstr "Внутренняя ошибка. Не могу найти приглащаемый клан в БД."
+msgstr "Внутрішня помилка. Не можу знайти клан, що запрошується, в БД."
 
 msgid "Invite  to union clan"
-msgstr "Пригласить в союз клан"
+msgstr "Запросити клан до союзу"
 
 msgid "Stronghold level"
-msgstr "Укрепрайон уровня"
+msgstr "Укріпрайон рівня"
 
 msgid "Defense period"
-msgstr "Период обороны"
+msgstr "Період оборони"
 
 msgid "Invited clan must have level V stronghold and defence period must be set."
-msgstr "Приглашаемый клан должен иметь укрепрайон от V уровня и активированный период обороны."
+msgstr "Клан, що запрошується, повинен мати укріпрайон від V рівня та активований період оборони."
 
 msgid "Can't read stronghold's data from wargaming.net"
-msgstr "Не могу прочитать данные укрепрайона на wargaming.net"
+msgstr "Не можу прочитати дані укріпрайону на wargaming.net"
 
 msgid "You must be union coordinator for invites sending."
-msgstr "Для рассылки приглашений вы должны быть координатором союза."
+msgstr "Для розсилання запрошень ви повинні бути координатором союзу."
 
 msgid "Defense period not set"
-msgstr "Период обороны не установлен"
+msgstr "Період оборони не встановлено"
 
 msgid "Battles for Stronghold is not available. Command center is damaged, or defense period not set"
-msgstr "Сражения за Укрепрайон недоступны. Командный центр поврежден,или не установлен период обороны"
+msgstr "Битви за укріпрайон недоступні. Командний центр пошкоджено, або не встановлено період оборони"
 
 msgid "is cover you."
-msgstr "прикрывает вас."
+msgstr "прикриває вас."
 
 msgid "is attack you."
-msgstr "атакует вас."
+msgstr "атакує вас."
 
 msgid "No one is attacking you."
-msgstr "Никто не атакует вас."
+msgstr "Ніхто не атакує вас."
 
 msgid "No battles"
-msgstr "Нет боев"
+msgstr "Немає боїв"
 
 msgid "Danger! No cover!"
-msgstr "Опасность! Нет прикрытия!"
+msgstr "Небезпека! Немає прикриття!"
 
 msgid "You are cover"
-msgstr "Вы прикрываете"
+msgstr "Ви прикриваєте"
 
 msgid "You are attack"
-msgstr "Вы атакуете"
+msgstr "Ви атакуєте"
 
 msgid "less than minute"
-msgstr "менее минуты"
+msgstr "менше хвилини"
 
 msgid "minutes: %d"
-msgstr "минут: %d"
+msgstr "хвилин: %d"
 
 msgid "more than a day"
-msgstr "больше суток"
+msgstr "більше доби"
 
 msgid "Data actuality"
-msgstr "Актуальность данных"
+msgstr "Актуальність даних"
 
 msgid "List of clans"
-msgstr "Список кланов"
+msgstr "Перелік кланів"
 
 msgid "Today"
-msgstr "Сегодня"
+msgstr "Сьогодні"
 
 msgid "Consolidated schedule"
-msgstr "Сводное расписание"
+msgstr "Зведений розклад"
 
 msgid "Tasks for ally"
-msgstr "Задачи для союзника"
+msgstr "Завдання для союзника"
 
 msgid "[%s] are cover"
-msgstr "[%s] прикрывает"
+msgstr "[%s] прикриває"
 
 msgid "[%s] are attack"
-msgstr "[%s] атакует"
+msgstr "[%s] атакує"
 
 msgid "is cover [%s]."
-msgstr "прикрывает [%s]"
+msgstr "прикриває [%s]"
 
 msgid "is attack [%s]."
-msgstr "атакует [%s]."
+msgstr "атакує [%s]."
 
 msgid "Click on clan's tag for view ally's shedule within the union, click on defense period for view the task list and shedule of defenses for ally."
-msgstr "Кликните на клан-теге для для просмотра расписания боев союзника, кликните на периоде обороны для просмотра списка задач и расписания защит УР союзника."
+msgstr "Клікніть на клан-тег для перегляду розкладу боїв союзника, клікніть на періоді оборони для перегляду переліку завдань та розкладу захистів УР союзника."
 
 msgid "Place cursor over day's cell for detailed information for that day."
-msgstr "Наведите курсор на ячейку дня в календаре для получения подробной информации об этом дне."
+msgstr "Наведіть курсор на клітинку дня в календарі для отримання детальної інформації про цей день."
 
 msgid "Not covered"
-msgstr "Не прикрыты"
+msgstr "Не прикриті"
 
 msgid "Attacked"
-msgstr "Атакованы"
+msgstr "Атаковані"
 
 msgid "Covered"
-msgstr "Прикрыты"
+msgstr "Прикрыті"
 
 msgid "Legend for calendar's cells"
-msgstr "Обозначения для ячеек календаря"
+msgstr "Позначення для клітинок календарю"
 
 msgid "green digit"
-msgstr "зеленая цифра"
+msgstr "зелена цифра"
 
 msgid "Number of not covered allies, available for attacks at that day"
-msgstr "Число не прикрытых союзников, доступных для атак в этот день"
+msgstr "Кількість не прикритих союзників, що доступні для атак в цей день"
 
 msgid "red digit"
-msgstr "красная цифра"
+msgstr "червона цифра"
 
 msgid "Number of allies who were attacked on this day by clans outside the union"
-msgstr "Число союзников, атакованных в этот день кланами, не входящими в союз"
+msgstr "Кількість союзників, що атаковані в цей день кланами, які не входять до союзу"
 
 msgid "Number of covers from the clan to allies at that day"
-msgstr "Число союзников, которых клан прикрывает в этот день"
+msgstr "Кількість союзників, що прикриває клан в цей день"
 
 msgid "Number of attacks at that day from the clan to clans outside the union"
-msgstr "Число атак на кланы, не входящие в союз"
+msgstr "Кількість атак на клани, які не входять до союзу"
 
 msgid "Cover, off day or vacation"
-msgstr "Прикрытие союзников, выходной или нейтралитет"
+msgstr "Прикриття союзників, вихідний або нейтралитет"
 
 msgid "Opened day. Can be attacked by ally or enemy"
-msgstr "Атаки, прикрытия, выходного и нейтралитета нет, могут поставить атаку враги или прикрытие союзники."
+msgstr "Атаки, прикриття, вихідного та нейтралитету немає, можуть поставити атаку вороги або прикриття союзники."
 
 msgid "Attacked by clan outside the union"
-msgstr "Атакован кланом, не входящим в союз"
+msgstr "Атакований кланом, що не входить до союзу"
 
 msgid "Number of allies, covered by clan"
-msgstr "Число союзников, прикрытых кланом"
+msgstr "Кількість союзників, що прикриті кланом"
 
 msgid "Number of covers from allies"
-msgstr "Число прикрытий клана союзниками"
+msgstr "Кількість прикрить клану союзниками"
 
 msgid "Number of attacks to enemies"
-msgstr "Число атак на кланы вне союза"
+msgstr "Кількість атак на кланы по-за союзом"
 
 msgid "Number of attacks from enemies"
-msgstr "Число атак от кланов вне союза"
+msgstr "Кількість атак від клінів, що не входять до союзу"
 
 msgid "When you participate in the battle for the Stronghold, your building can attack and plunder the stronger clans."
-msgstr "Когда вы участвуете в сражениях за Укрепрайон, то ваши здания могут атаковать и разграбить более сильные кланы."
+msgstr "Коли ви приймаєте участь в битвах за Укріпрайон, ваші будівлі можуть бути атаковані та пограбовані більш сильними кланами."
 
 msgid "To prevent this, you can join an alliance with several clans and attack each other, to prevent the possibility to be attacked by enemies."
-msgstr "Чтобы предотвратить это, вы можете обьединиться в союз с несколькими кланами и атаковать друг друга, чтобы не дать врагам возможности для атаки."
+msgstr "Щоб запобігти цьому, ви можете об'єднатися в союз з декількома кланами та атакувати один-одного, щоб не дати ворожим кланам можливості для атаки."
 
 msgid "This site will help you coordinate your mutual attacks by automatically creating a schedule for each fighting ally."
-msgstr "Этот сайт поможет вам скоординировать ваши взаимные атаки, автоматически создавая расписание боев для каждого союзника."
+msgstr "Цей сайт допоможе вам скоординувати ваші взаємні атаки, автоматично створюючи розклад боїв для кожного союзника."
 
 msgid "This site will help you <strong>coordinate your mutual attacks</strong> by automatically creating a schedule for each fighting ally."
-msgstr "Этот сайт поможет вам <strong>скоординировать ваши взаимные атаки</strong>, автоматически создавая расписание боев для каждого союзника."
+msgstr "Цей сайт допоможе вам <strong>скоординувати ваші взаємні атаки</strong>, автоматично створюючи розклад боїв для кожного союзника."
 
 msgid "Improve your Stronghold and join us. Advansed Stronghold gives delicious cookies for all members of your clan!"
-msgstr "Улучшайте ваш Укрепрайон и присоединяйтесь. В развитых Укрепрайонах есть вкусные печеньки для всех участников вашего клана!"
+msgstr "Покращуйте ваш Укріпрайон та приєднуйтесь. В розвинених Укріпрайонах є смачні печеньки для всіх учасників вашого клану!"
 
 msgid "Less than 24 hours"
-msgstr "Менее 24 часов"
+msgstr "Менш ніж 24 години"
 
 msgid "Yet can't be attacked"
-msgstr "Пока не могут быть атакованы"
+msgstr "Поки не можуть буть атаковані"
 
 msgid "Next attack on clan [%s] (%02d %s) will be available %02d h %02d m later"
-msgstr "Следующая атака на клан [%s] (%02d %s) станет доступна через %02d ч %02d м"
+msgstr "Наступна атака клану [%s] (%02d %s) буде доступною через %02d г %02d хв"
 
 msgid "Update stronghold's data"
-msgstr "Обновить данные УР"
+msgstr "Оновити дані УР"
 
 msgid "Join to union or create new"
-msgstr "Вступить в союз или создать свой"
+msgstr "Вступити до союзу або створити свій"
 
 msgid "Tasks for clan"
-msgstr "Задачи для клана"
+msgstr "Завдання для клану"
 
 msgid "Can receive protection from following clans"
-msgstr "Могут прикрыть следующие кланы"
+msgstr "Можуть прикрити наступні клани"
 
 msgid "Next clans can't protect"
-msgstr "Эти кланы не могут прикрыть"
+msgstr "Ці клани не можуть прикрити"
 
 msgid "No one can protect"
-msgstr "Никто не может прикрыть в этот день"
+msgstr "Ніхто не може прикрити в цей день"
 
 msgid "Stronghold frozen"
-msgstr "Укрепрайон заморожен"
+msgstr "Укріпрайон заморожено"
 
 msgid "Neutrality"
 msgstr "Нейтралитет"
 
 msgid "Same defense period"
-msgstr "Одинаковый период обороны"
+msgstr "Однаковий період оборони"
 
 msgid "Maximum number of attack at this day"
-msgstr "Максимум боев в этот день"
+msgstr "Максімум боїв в цей день"
 
 msgid "Will protect soon"
-msgstr "Скоро будут прикрывать"
+msgstr "Скоро будуть прикривати"
 
 msgid "Made protection recently"
-msgstr "Недавно прикрывали"
+msgstr "Нещодавно прикривали"
 
 msgid "Will be able to protect after"
-msgstr "Смогут прикрывать через"
+msgstr "Зможуть прикривати за"
 
 msgid "Click on battle time of unprotected day, to view allies, who can protect"
-msgstr "Кликните на времени боя не прикрытого дня, чтобы узнать, кто может прикрыть"
+msgstr "Клікніть на часі бою в день, що не прикритий, щоб дізнатися, хто може прикрити"
 
 msgid "Number of ally, which can be protected at that day"
-msgstr "Число союзников, которых можно прикрыть в этот день"
+msgstr "Кількість союзників, яких можно прикрити в цей день"
 
 msgid "Click on cell with green digit to view clans, which can be protected"
-msgstr "Кликните на ячейке с зеленой цифрой, чтобы просмотреть список кланов, которые нужно прикрыть в этот день"
+msgstr "Клікніть на клітинці з зеленою цифрою, щоб подивитися перелік кланів, котрі потребують прикриття в цей день"
 
 msgid "Schedule of stronghold's defenses for"
-msgstr "Расписание защит укрепрайона для"
+msgstr "Розклад захисту укріпрайону для"
 
 msgid "Protect for allies"
-msgstr "Прикрытие союзников"
+msgstr "Прикриття союзників"
 
 msgid "Allies can't be protected, because the vacation period is active. Will be finished after"
-msgstr "Союзников нельзя прикрывать, потому что включен нейтралитет. Закончится через"
+msgstr "Союзників неможливо прикривати, оскільки включено нейтралитет. Закінчиться через"
 
 msgid "Now, all tasks for protecting allies are complete"
-msgstr "Сейчас все доступные клану прикрытия союзников сделаны"
+msgstr "Наразі усі доступні клану прикриття союзників зроблені"
 
 msgid "Make attack to the allies according to the list below."
-msgstr "Поставьте атаки на союзников согласно списку ниже."
+msgstr "Встановіть атаки на союзників згідно переліку, що наведено нижче."
 
 msgid "You can not attack a same clan more than once"
-msgstr "Вы не можете атаковать один клан более одного раза"
+msgstr "Ви не можете атакувати один клан більше одного разу"
 
 msgid "You can not attack a few clans in one day and the hour"
-msgstr "Вы не можете атаковать несколько кланов в один день и час"
+msgstr "Ви не можете атакувати кілька кланів в один день и час"
 
 msgid "select one option, if their proposed several"
-msgstr "выберите один вариант, если их предложено несколько"
+msgstr "оберіть один варіант, якщо їх запропоновано декілька"
 
 msgid "Defense settings"
-msgstr "Настройки обороны"
+msgstr "Налаштування оборони"
 
 msgid "Defense settings will be changed"
-msgstr "Настройки обороны изменятся"
+msgstr "Налаштування оборони зміняться"
 
 msgid "Set changes in defense period of"
-msgstr "Установка изменений периода обороны"
+msgstr "Встановлення змін періоду оборони"
 
 msgid "From which date the changes will be introduced."
-msgstr "С какой даты будут введены изменения."
+msgstr "З якої дати будуть введені зміни."
 
 msgid "Leave blank, to cancel changes in defense period."
-msgstr "Оставьте пустым, для отмены изменений периода обороны."
+msgstr "Залиште пустим, щоб відмінити зміни періоду оборони."
 
 msgid "Select new off day"
-msgstr "Выберите новый выходной"
+msgstr "Оберіть новий вихідний"
 
 msgid "Current"
-msgstr "Текущий"
+msgstr "Поточний"
 
 msgid "New"
-msgstr "Новый"
+msgstr "Новий"
 
 msgid "Select old and new hour of defense start, as you see it in game"
-msgstr "Выберите текущий и новый час начала обороны, как вы видите их в игре"
+msgstr "Оберіть поточний та новий час початку оборони, як ви їх бачите у грі"
 
 msgid "off day will change from %s to %s "
-msgstr "выходной изменится с %s на %s "
+msgstr "вихідний зміниться з %s на %s "
 
 msgid "defense start hour will change from %02d:00 to %02d:00"
-msgstr "час начала обороны изменится с %02d:00 на %02d:00"
+msgstr "час початку оборони зміниться з %02d:00 на %02d:00"
 
 msgid "These clans will change defense settings soon"
-msgstr "Эти кланы скоро изменят настройки обороны"
+msgstr "Ці клани незабаром змінять налаштування оборони"
 
 msgid "Changes"
-msgstr "Изменения"
+msgstr "Зміни"
 
 msgid "Restore membership"
-msgstr "Восстановить участие"
+msgstr "Відновити участь"
 
 msgid "Suspend membership"
-msgstr "Приостановить участие"
+msgstr "Призупинити участь"
 
 msgid "Membership is suspended"
-msgstr "Членство в союзе приостановлено"
+msgstr "Членство в союзі призупинено"
 
 msgid "This means that the clan is not included in the tasks of providing cover for the Allies"
-msgstr "Это означает, что клан не учитывается при постановке задач на прикрытие союзников"
+msgstr "Це означає, що, что клан не враховується під час встанолення завдань по прикриттю союзників"
 
 msgid "Existing cover is still displayed"
-msgstr "Существующие прикрытия отображаются по прежнему"
+msgstr "Існуючі прикриття відображені як і раніше"
 
 msgid "You can restore the union membership by clicking the appropriate button at the bottom of the page"
-msgstr "Вы можете восстановить членство в союзе, нажав соответствующую кнопку внизу страницы"
+msgstr "Ви можете відновити членство в союзі, натиснувши відповідну кнопку внизу сторінки"
 
 msgid "Are you want to leave union, which coordinates"
-msgstr "Хотите выйти из союза, который координирует"
+msgstr "Бажаєте вийти з союзу, який координує"
 
 msgid "Remove from union clan"
-msgstr "Удалить из союза клан"
+msgstr "Видалити клан з союзу"
 
 msgid "Defense"
 msgstr "Оборона"
@@ -1499,91 +1499,91 @@ msgid "Attack"
 msgstr "Атака"
 
 msgid "Battle against enemy"
-msgstr "Битва с врагами"
+msgstr "Битва с ворогами"
 
 msgid "Battles inside the union are marked in green."
-msgstr "Бои внутри союза отмечены зеленым."
+msgstr "Бої всередині союзу відмічені зеленим."
 
 msgid "You do not have fight in these battles."
-msgstr "Вы не должны заходить в такие бои."
+msgstr "Ви не повинні заходити у такі бої."
 
 msgid "Number of not covered defenses"
-msgstr "Число не прикрытых защит укрепрайона"
+msgstr "Кількість не прикритих захистів укріпрайону"
 
 msgid "If the day doesn't change, select current day."
-msgstr "Если выходной не меняется, выберите текущий выходной"
+msgstr "Якщо вихідний не змінюється, оберіть поточний вихідний"
 
 msgid "For example for the date of March 10, 2015 the value of the field should be 2015-03-10."
-msgstr "Например, для даты 10 марта 2015, значение поля должно быть 2015-03-10."
+msgstr "Наприклад, для даты 10 березня 2015, значення поля повинно бути 2015-03-10."
 
 msgid "If the defense period doesn't change, select current period."
-msgstr "Если период обороны не меняется, выберите текущий период."
+msgstr "Якщо період оборони не змінюється, оберіть поточний період."
 
 msgid "Automatically detected on the site"
-msgstr "Автоматически определено сайтом"
+msgstr "Автоматично визначено сайтом"
 
 msgid "Fill data"
-msgstr "Заполнить данные"
+msgstr "Заповнити дані"
 
 msgid "This data was detected automatically."
-msgstr "Эти данные были обнаружены сайтом автоматически."
+msgstr "Ці дані були виявлені сайтом автоматично."
 
 msgid "Please, fill complete data about these changes in special form at this site."
-msgstr "Пожалуйста, заполните полные данные об этих изменениях в специальной форме на этом сайте."
+msgstr "Будь-ласка, заповніть повні дані про ці зміни в спеціальній формі на цьому сайті."
 
 msgid "after"
 msgstr "через"
 
 msgid "Participated in Stronghold's skirmishes and battles"
-msgstr "Участие в сражениях и вылазках Укрепрайона"
+msgstr "Участь в битвах та вилазках Укріпрайону"
 
 msgid "Full history of the SH activity for account"
-msgstr "Полная история активности аккаунта в УР"
+msgstr "Повна історія активності аккаунту в УР"
 
 msgid "SH activity for the period"
-msgstr "Активность в УР за период"
+msgstr "Активність в УР за період"
 
 msgid "Activity in Stronghold's battles and skirmishes for last %d days"
-msgstr "Активность в сражениях и вылазках в Укрепрайоне за последние %d дней"
+msgstr "Активність в битвах та вилазках в Укріпрайоні за останні %d днів"
 
 msgid "Number of available clan's tasks"
-msgstr "Число доступных задач по прикрытию союзников"
+msgstr "Кількість доступних завдань з прикриття союзників"
 
 msgid "Tasks"
-msgstr "Задачи"
+msgstr "Завдання"
 
 msgid "Received"
-msgstr "Получил"
+msgstr "Отримав"
 
 msgid "Gave"
-msgstr "Отдал"
+msgstr "Віддав"
 
 msgid "Board of Shame"
-msgstr "Доска позора"
+msgstr "Дошка ганьби"
 
 msgid "These clans do not perform tasks to provide cover for allies"
-msgstr "Эти кланы не выполняют задачи по прикрытию союзников"
+msgstr "Ці клани не виконують завдання з прикриття союзників"
 
 msgid "Update list of members and roles"
-msgstr "Обновить список участников и их должностей"
+msgstr "Оновити список учасників та їх посад"
 
 msgid "Allies"
 msgstr "Союзники"
 
 msgid "Ally team total: shots, hits, piercings"
-msgstr "Команда союзников: выстрелы, попадания, пробития"
+msgstr "Команда союзників: постріли, попадання, пробиття"
 
 msgid "Enemies"
 msgstr "Противники"
 
 msgid "Enemy team total: shots, hits, piercings"
-msgstr "Команда противников: выстрелы, попадания, пробития"
+msgstr "Команда противників: постріли, попадання, пробиття"
 
 msgid "Where is our respawn?"
-msgstr "Какой у нас респ?"
+msgstr "Який у нас респ?"
 
 msgid "Locations of bases at map"
-msgstr "Положение баз на карте"
+msgstr "Розташування баз на мапі"
 
 msgid "Clan1"
 msgstr "Клан1"
@@ -1592,49 +1592,49 @@ msgid "Clan2"
 msgstr "Клан2"
 
 msgid "Position of the clans at the screen of formation of the team for CW battle"
-msgstr "Положение кланов на экране формирования состава команды для боя на ГК"
+msgstr "Розташування кланів на екрані формування складу команди для бою на ГК"
 
 msgid "Position of the team's bases at the map"
-msgstr "Положение баз команд на карте"
+msgstr "Розташування баз команд на мапі"
 
 msgid "Recent attacks"
-msgstr "Недавние атаки"
+msgstr "Нещодавні атаки"
 
 msgid "You can't invite new members in this union. Maximum number of invites and members are reached."
-msgstr "Нельзя приглашать новых участников в этот союз. Достигнуто максимальное число участников и приглашений."
+msgstr "Неможливо запрошувати нових учасників до цього союзу. Досягнуто максимальна кількість учасників та запрошень."
 
 msgid "You can invite clans"
-msgstr "Вы можете пригласить кланов"
+msgstr "Ви не можете запрошувати клани"
 
 msgid "Graph of the defense period for members of union."
-msgstr "Распределение времени обороны участников по часам суток"
+msgstr "Розподіл часц оборони учасників по годинам доби"
 
 msgid "Locate cursor over bar of hour for view members with this time."
-msgstr "Наведите курсор на столбик часа для просмотра участников"
+msgstr "Наведіть курсор на стовбчик години для перегляду учасників"
 
 msgid "Contact information for"
-msgstr "Контактные данные для"
+msgstr "Контактні дані для"
 
 msgid "Fill data for allies to contact you."
-msgstr "Укажите свои контакты для союзников."
+msgstr "Вкажіть свої контакти для союзників."
 
 msgid "For example: clan's voice chat address, nicknames of clanmates for contact and so on."
-msgstr "Например, адрес сервера голосового чата, ники контактных лиц в игре и скайпе и т.п."
+msgstr "Наприклад, адреса серверу голосового чату, нікі контактних осіб у грі та скайпі тощо"
 
 msgid "Fill contact information"
-msgstr "Заполнить контактные данные"
+msgstr "Заповнити контактні дані"
 
 msgid "Attack another clan at this time"
-msgstr "Атакует другой клан в это время"
+msgstr "В цей час атакує інший клан"
 
 msgid "Offday will be changed"
-msgstr "Выходной изменится"
+msgstr "Вихідний зміниться"
 
 msgid "Defense hour will be changed"
-msgstr "Час обороны изменится"
+msgstr "Година оборони зміниться"
 
 msgid "Will be moved"
-msgstr "Сдвинется"
+msgstr "Пересунеться"
 
 msgid "ahead"
 msgstr "вперед"
@@ -1643,172 +1643,172 @@ msgid "ago"
 msgstr "назад"
 
 msgid "Date of changes must be specified"
-msgstr "Должна быть указана дата изменений"
+msgstr "Повинна бути вказана дата змін"
 
 msgid "At least one change must be specified"
-msgstr "Должно быть указано хотя бы одно изменение"
+msgstr "Повинна бути вказана хоча б одна зміна"
 
 msgid "Manual for defense of Stronghold"
-msgstr "Руководство по защите укрепрайона"
+msgstr "Керівництво з захисту укріарайону"
 
 msgid "Effectiveness of cover"
-msgstr "Эффективность прикрытия"
+msgstr "Эфективність прикрыття"
 
 msgid "The stronghold of your clan was plundered?"
-msgstr "Ваш укрепрайон разграбили?"
+msgstr "Ваш укріпрайон пограбували?"
 
 msgid "Let's defend!"
-msgstr "Поможем защитить!"
+msgstr "Допоможемо захистити!"
 
 msgid "Search for SH attacks"
-msgstr "Поиск атак УР"
+msgstr "Пошук атак УР"
 
 msgid "SH level"
-msgstr "Уровень УР"
+msgstr "Рівень УР"
 
 msgid "Defense hour"
-msgstr "Час обороны"
+msgstr "Час оборони"
 
 msgid "Max position in rating"
-msgstr "Макс.позиция рейтинга"
+msgstr "Макс.позиція рейтингу"
 
 msgid "Find"
-msgstr "Найти"
+msgstr "Знайти"
 
 msgid "remain"
-msgstr "осталось"
+msgstr "залишилось"
 
 msgid "Next battle"
-msgstr "Следующий бой"
+msgstr "Наступний бій"
 
 msgid "Click on clan's tag to view list of days, when you can attack"
-msgstr "Кликните на клан-тег для просмотра дат, когда вы можете атаковать"
+msgstr "Клікніть на клан-тег для перегляду дат, коли вы зможете атакувати"
 
 msgid "Available attacks"
 msgstr "Доступно атак"
 
 msgid "No clans, which meet the conditions"
-msgstr "Нет кланов, соответствующих заданным условиям"
+msgstr "Немає кланів, що відповідають завданим умовам"
 
 msgid "Bildings"
-msgstr "Здания"
+msgstr "Будівлі"
 
 msgid "You can't attack at this hour"
-msgstr "Вы не можете атаковать в этот час"
+msgstr "Ви не можете атакувати цієї години"
 
 msgid "Available attacks on"
-msgstr "Доступные атаки на"
+msgstr "Доступні атаки на"
 
 msgid "Position into WG rating"
-msgstr "Позиция в рейтинге WG"
+msgstr "Позиція в рейтингу WG"
 
 msgid "Average bilding's level"
-msgstr "Средний уровень зданий"
+msgstr "Середній рівень будівель"
 
 msgid "Click to view tips for locations of bases into Clan War battles"
-msgstr "Нажмите для подсказки о расположении баз на картах в боях на ГК"
+msgstr "Натисніть для підказки про розташування баз на мапах в боях на ГК"
 
 msgid "This function available for paid plans."
-msgstr "Эта функция доступна только в платных режимах."
+msgstr "Ця функція доступна тільки в платних режимах."
 
 msgid "Free premium trial"
-msgstr "Бесплатный триал премиум-режима"
+msgstr "Безкоштовний тріал преміум-режиму"
 
 msgid "Rate"
 msgstr "Рейтинг"
 
 msgid "Average"
-msgstr "Средний"
+msgstr "Середній"
 
 msgid "Available"
 msgstr "Доступно"
 
 msgid "you will have an opportunity to plan attack at"
-msgstr "вы сможете запланировать атаку на"
+msgstr "ви зможете запланувати атаку на"
 
 msgid "against the following clans"
-msgstr "против следующих кланов"
+msgstr "проти наступних кланів"
 
 msgid "Your membership in union has been suspended by coordinator. Please, ask coordinators about restoring membership."
-msgstr "Ваше участие в союзе приостановлено координатором. Пожалуйста, обратитесь к координатору для воостановления участия в союзе."
+msgstr "Вашу участь в союзі призупинено координатором. Будь-ласка, зверніться до координатора для відновлення участі у союзі."
 
 msgid "Return"
-msgstr "Возврат"
+msgstr "Повернення"
 
 msgid "will be available for attacks"
-msgstr "будут доступны для атак"
+msgstr "будуть доступні для атак"
 
 msgid "clan(s)"
-msgstr "клан(ов)"
+msgstr "клан(ів)"
 
 msgid "Previos"
 msgstr "Назад"
 
 msgid "Page not found"
-msgstr "Страница не найдена"
+msgstr "Сторінку не знайдено"
 
 msgid "It might have been moved or deleted, or perhaps specified the wrong URL."
-msgstr "Возможно, она перемещена или удалена или вы указали неверный адрес URL."
+msgstr "Можливо, вона переміщена або видалена або ви вказали невірну адресу URL."
 
 msgid "Calculator of payments"
-msgstr "Калькулятор выплат"
+msgstr "Калькулятор платежів"
 
 msgid "Start date"
-msgstr "Начальная дата"
+msgstr "Початкова дата"
 
 msgid "End date"
-msgstr "Конечная дата"
+msgstr "Кінцева дата"
 
 msgid "Points for clan action"
-msgstr "Очки за Посещалку"
+msgstr "Очки за Відвідування"
 
 msgid "Points for CW battle"
-msgstr "Очки за бой на ГК"
+msgstr "Очки за бій на ГК"
 
 msgid "Points for SH battle"
-msgstr "Очки за бой в УР"
+msgstr "Очки за бій в УР"
 
 msgid "Calculate"
-msgstr "Посчитать"
+msgstr "Порахувати"
 
 msgid "Archeve of clan's news"
-msgstr "Архив новостей клана"
+msgstr "Архів новин клану"
 
 msgid "Hour"
-msgstr "Час"
+msgstr "Година"
 
 msgid "Period, hours"
-msgstr "Период, часы"
+msgstr "Період, години"
 
 msgid "during hours"
-msgstr "в течение часов"
+msgstr "протігом годин"
 
 msgid "Active members in the last"
-msgstr "Активные участники за последние"
+msgstr "Активні учасники за останні"
 
 msgid "View"
-msgstr "Просмотр"
+msgstr "Перегляд"
 
 msgid "I'm here"
-msgstr "Я здесь"
+msgstr "Я тут"
 
 msgid "Location"
-msgstr "Местоположение"
+msgstr "Місцерозташування"
 
 msgid "not specified"
-msgstr "не указано"
+msgstr "не вказано"
 
 msgid "Clanmates on the map"
-msgstr "Соклановцы на карте"
+msgstr "Сокланівці на мапі"
 
 msgid "members list"
-msgstr "список участников"
+msgstr "список учасників"
 
 msgid "is marked on the map?"
-msgstr "отмечен на карте?"
+msgstr "відмічено на мапі?"
 
 msgid "Show on the map"
-msgstr "Показать на карте"
+msgstr "Показати на мапі"
 
 msgid "specify your location"
-msgstr "указать ваше местоположение"
+msgstr "вказать ваше розташування"
