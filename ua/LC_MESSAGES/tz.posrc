@@ -1,4 +1,4 @@
-# Africa/Abidjan
+﻿# Africa/Abidjan
 # Africa/Accra
 # Africa/Addis_Ababa
 # Africa/Algiers
@@ -395,116 +395,116 @@
 # US/Pacific
 
 msgid "Antarctica/South_Pole"
-msgstr "Антарктика/ЮжныйПолюс"
+msgstr "Антарктика/ПівнічнийПолюс"
 
 msgid "Antarctica/Vostok"
-msgstr "Антарктика/Восток"
+msgstr "Антарктика/Схід"
 
 msgid "Asia/Almaty"
-msgstr "Азия/Алма-Ата"
+msgstr "Азія/Алма-Ата"
 
 msgid "Asia/Ashgabat"
-msgstr "Азия/Ашхабад"
+msgstr "Азія/Ашхабад"
 
 msgid "Asia/Baku"
-msgstr "Азия/Баку"
+msgstr "Азія/Баку"
 
 msgid "Asia/Bishkek"
-msgstr "Азия/Бишкек"
+msgstr "Азія/Бішкек"
 
 msgid "Asia/Dushanbe"
-msgstr "Азия/Душанбе"
+msgstr "Азія/Душанбе"
 
 msgid "Asia/Irkutsk"
-msgstr "Азия/Иркутск"
+msgstr "Азія/Іркутськ"
 
 msgid "Asia/Kamchatka"
-msgstr "Азия/Камчатка"
+msgstr "Азія/Камчатка"
 
 msgid "Asia/Krasnoyarsk"
-msgstr "Азия/Красноярск"
+msgstr "Азія/Красноярськ"
 
 msgid "Asia/Magadan"
-msgstr "Азия/Магадан"
+msgstr "Азія/Магадан"
 
 msgid "Asia/Novokuznetsk"
-msgstr "Азия/Новокузнецк"
+msgstr "Азія/Новокузнецьк"
 
 msgid "Asia/Novosibirsk"
-msgstr "Азия/Новосибирск"
+msgstr "Азія/Новосібірськ"
 
 msgid "Asia/Omsk"
-msgstr "Азия/Омск"
+msgstr "Азія/Омск"
 
 msgid "Asia/Qyzylorda"
-msgstr "Азия/Кызыл-Орда"
+msgstr "Азія/Кизил-Орда"
 
 msgid "Asia/Sakhalin"
-msgstr "Азия/Сахалин"
+msgstr "Азія/Сахалин"
 
 msgid "Asia/Samarkand"
-msgstr "Азия/Самарканд"
+msgstr "Азія/Самарканд"
 
 msgid "Asia/Tashkent"
-msgstr "Азия/Ташкент"
+msgstr "Азія/Ташкент"
 
 msgid "Asia/Tbilisi"
-msgstr "Азия/Тбилиси"
+msgstr "Азія/Тбілісі"
 
 msgid "Asia/Ulaanbaatar"
-msgstr "Азия/Улан-Батор"
+msgstr "Азія/Улан-Батор"
 
 msgid "Asia/Vladivostok"
-msgstr "Азия/Владивосток"
+msgstr "Азія/Владивосток"
 
 msgid "Asia/Yakutsk"
-msgstr "Азия/Якутск"
+msgstr "Азія/Якутск"
 
 msgid "Asia/Yekaterinburg"
-msgstr "Азия/Екатеринбург"
+msgstr "Азія/Єкатеринбург"
 
 msgid "Asia/Yerevan"
-msgstr "Азия/Ереван"
+msgstr "Азія/Єреван"
 
 msgid "Europe/Kaliningrad"
-msgstr "Европа/Калининград"
+msgstr "Європа/Калінінград"
 
 msgid "Europe/Kiev"
-msgstr "Европа/Киев"
+msgstr "Європа/Київ"
 
 msgid "Europe/Minsk"
-msgstr "Европа/Минск"
+msgstr "Європа/Мінськ"
 
 msgid "Europe/Moscow"
-msgstr "Европа/Москва"
+msgstr "Європа/Москва"
 
 msgid "Europe/Riga"
-msgstr "Европа/Рига"
+msgstr "Європа/Ріга"
 
 msgid "Europe/Samara"
-msgstr "Европа/Самара"
+msgstr "Європа/Самара"
 
 msgid "Europe/Simferopol"
-msgstr "Европа/Симферополь"
+msgstr "Європа/Сімферополь"
 
 msgid "Europe/Tallinn"
-msgstr "Европа/Таллин"
+msgstr "Європа/Таллін"
 
 msgid "Europe/Uzhgorod"
-msgstr "Европа/Ужгород"
+msgstr "Європа/Ужгород"
 
 msgid "Europe/Vilnius"
-msgstr "Европа/Вильнюс"
+msgstr "Європа/Вільнюс"
 
 msgid "Europe/Volgograd"
-msgstr "Европа/Волгоград"
+msgstr "Європа/Волгоград"
 
 msgid "Europe/Zaporozhye"
-msgstr "Европа/Запорожье"
+msgstr "Європа/Запоріжжя"
 
 msgid "GMT"
-msgstr "Гринвич"
+msgstr "Грінвіч"
 
 msgid "UTC"
-msgstr "Всемирное"
+msgstr "Всесвітнє"
 

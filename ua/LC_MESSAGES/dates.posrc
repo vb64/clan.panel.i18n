@@ -1,89 +1,89 @@
-msgid "YYYY-MM-DD"
-msgstr "ГГГГ-ММ-ДД"
+﻿msgid "YYYY-MM-DD"
+msgstr "РРРР-ММ-ДД"
 
 msgid "%02d h %02d m"
-msgstr "%02d ч %02d м"
+msgstr "%02d г %02d хв"
 
 msgid "%d min"
-msgstr "%d мин"
+msgstr "%d хв"
 
 msgid "January"
-msgstr "Январь"
+msgstr "Січень"
 
 msgid "Jan"
-msgstr "Янв"
+msgstr "Січ"
 
 msgid "February"
-msgstr "Февраль"
+msgstr "Лютий"
 
 msgid "Feb"
-msgstr "Фев"
+msgstr "Лют"
 
 msgid "March"
-msgstr "Март"
+msgstr "Березень"
 
 msgid "Mar"
-msgstr "Мар"
+msgstr "Бер"
 
 msgid "April"
-msgstr "Апрель"
+msgstr "Квітень"
 
 msgid "Apr"
-msgstr "Апр"
+msgstr "Кві"
 
 msgid "May"
-msgstr "Май"
+msgstr "Травень"
 
 msgid "June"
-msgstr "Июнь"
+msgstr "Червень"
 
 msgid "Jun"
-msgstr "Июн"
+msgstr "Чер"
 
 msgid "July"
-msgstr "Июль"
+msgstr "Липень"
 
 msgid "Jul"
-msgstr "Июл"
+msgstr "Лип"
 
 msgid "August"
-msgstr "Август"
+msgstr "Серпень"
 
 msgid "Aug"
-msgstr "Авг"
+msgstr "Сер"
 
 msgid "September"
-msgstr "Сентябрь"
+msgstr "Вересень"
 
 msgid "Sep"
-msgstr "Сен"
+msgstr "Вер"
 
 msgid "October"
-msgstr "Октябрь"
+msgstr "Жовтень"
 
 msgid "Oct"
-msgstr "Окт"
+msgstr "Жов"
 
 msgid "November"
-msgstr "Ноябрь"
+msgstr "Листопад"
 
 msgid "Nov"
-msgstr "Ноя"
+msgstr "Лис"
 
 msgid "December"
-msgstr "Декабрь"
+msgstr "Грудень"
 
 msgid "Dec"
-msgstr "Дек"
+msgstr "Гру"
 
 msgid "Mon"
 msgstr "Пон"
 
 msgid "Tue"
-msgstr "Втр"
+msgstr "Вів"
 
 msgid "Wed"
-msgstr "Срд"
+msgstr "Сер"
 
 msgid "Thu"
 msgstr "Чет"
@@ -95,4 +95,4 @@ msgid "Sat"
 msgstr "Суб"
 
 msgid "Sun"
-msgstr "Вск"
+msgstr "Нед"

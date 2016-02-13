@@ -1,17 +1,17 @@
-msgid "Previous"
+﻿msgid "Previous"
 msgstr "Назад"
 
 msgid "Page"
-msgstr "Страница"
+msgstr "Сторінка"
 
 msgid "Next"
 msgstr "Вперед"
 
 msgid " of "
-msgstr " из "
+msgstr " з "
 
 msgid "items:"
-msgstr "записей:"
+msgstr "записів:"
 
 msgid "selected"
-msgstr "выбрано"
+msgstr "вибрано"
