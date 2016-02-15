@@ -1,4 +1,4 @@
-# this string for change in commit to mark "include content".
+# this string for change in commit to mark "include content"
 ----------
 14.02.2016 Клан-панель на українській мові.
 
