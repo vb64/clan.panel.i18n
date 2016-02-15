@@ -1607,10 +1607,10 @@ msgid "You can invite clans"
 msgstr "Ви не можете запрошувати клани"
 
 msgid "Graph of the defense period for members of union."
-msgstr "Розподіл часц оборони учасників по годинам доби"
+msgstr "Розподіл часу оборони учасників по годинам доби"
 
 msgid "Locate cursor over bar of hour for view members with this time."
-msgstr "Наведіть курсор на стовбчик години для перегляду учасників"
+msgstr "Наведіть курсор на стовпчик для перегляду всіх учасників на цю годину"
 
 msgid "Contact information for"
 msgstr "Контактні дані для"
