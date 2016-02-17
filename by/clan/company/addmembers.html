@@ -1,0 +1,9 @@
+{% extends "clan/company/addmembers.html" %}
+
+{% block setup_filter %}
+Показаны участники клана, не состоящие в этой роте, и имеющие хотя бы один танк из сетапа "{{setup_name}}".
+{% endblock %}
+
+{% block no_setup_filter %}
+Показаны все участники клана, не состоящие в этой роте.
+{% endblock %}

@@ -1,0 +1,29 @@
+Здравствуйте!
+
+<p>
+Вы успешно заплптили за сбор статистики для клана [{{clan.tag}}] на {{host}}.
+</p>
+
+<p>
+
+{% if mode_type == 'base' %}
+Базовый
+{% endif %}
+
+{% if mode_type == 'prem' %}
+Премиум
+{% endif %}
+
+режим включен до 
+
+{% if mode_type == 'base' %}
+{{clan.base_expired|date:"SHORT_DATE_FORMAT"}}
+{% endif %}
+
+{% if mode_type == 'prem' %}
+{{clan.premium_expired|date:"SHORT_DATE_FORMAT"}}
+{% endif %}
+
+</p>
+
+С наилучшими пожеланиями, команда {{host}}.

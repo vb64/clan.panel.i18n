@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block content %}
+
+<p>
+Вы успешно оплатили обслуживание
+
+{% if mode_type == 'base' %}
+в базовом режиме на {{base_mode_days}} дней
+{% else %}
+в премиум режиме на {{prem_mode_days}} дней
+{% endif %}
+
+{% if clan %}
+для клана [{{clan.tag}}]
+{% endif %}
+.
+</p>
+
+<p>
+Перейти на
+{% if clan %}
+<a href="{% url clans_info server=clan.server clanid=clan.wotid %}">страницу клана</a>
+{% else %}
+<a href="{% url action_home %}">главную страницу</a>
+{% endif %}.
+</p>
+
+{% endblock %}
+
