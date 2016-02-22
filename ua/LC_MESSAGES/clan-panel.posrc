@@ -14,13 +14,13 @@ msgid "%s gained new top vehicle: '%s'"
 msgstr "%s придбав новий топ-танк: '%s'."
 
 msgid "%s gained new maximum experience: %d (previous: %d)"
-msgstr "%s встановив новий особистий рекорд макс.досвіду: %d (предыдущий: %d)."
+msgstr "%s встановив новий особистий рекорд макс.досвіду: %d (попередній: %d)."
 
 msgid "New clan member: %s (position: '%s')"
-msgstr "В клані новий учасник: %s (должность: %s)."
+msgstr "В клані новий учасник: %s (посада: %s)."
 
 msgid "%s left the clan member"
-msgstr "Участник %s покинув клан."
+msgstr "Учасник %s покинув клан."
 
 msgid "%s change clan role from '%s' to '%s'"
 msgstr "%s переведений з посади '%s' на посаду '%s'."
