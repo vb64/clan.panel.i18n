@@ -1,0 +1,18 @@
+{% extends "clan/trial.html" %}
+
+{% block msg_already_used %}
+Клан <strong>[{{clan.5}}]</strong> уже использовал пробный период.
+{% endblock %}
+
+{% block msg_base_improvements %}
+Базовый режим автоматически и ежедневно обновляет данные клана и содержит следующие улучшения по сравнению с бесплатным режимом:
+{% include "ru/text_base.html" %}
+{% endblock %}
+
+{% block msg_base_activate %}
+Вы можете активировать пробный период <strong>30 дней обслуживания в режиме "Базовый"</strong> для клана
+{% endblock %}
+
+{% block msg_need_clanadmin %}
+<strong>Командир или замкомандира [{{clan.5}}]</strong>, может активировать пробный период <strong>30 дней обслуживания в режиме "Базовый"</strong>, посетив эту страницу (требуется авторизация через Wargaming OpenID).
+{% endblock %}
