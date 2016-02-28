@@ -1,20 +1,20 @@
-Здравствуйте!
+Hi!
 
 <p>
-Вы успешно заплптили за сбор статистики для клана [{{clan.tag}}] на {{host}}.
+You have successfully paid the collection of statistics for the clan [{{clan.tag}}] on {{host}}.
 </p>
 
 <p>
 
 {% if mode_type == 'base' %}
-Базовый
+Base
 {% endif %}
 
 {% if mode_type == 'prem' %}
-Премиум
+Premium
 {% endif %}
 
-режим включен до 
+mode will be active until
 
 {% if mode_type == 'base' %}
 {{clan.base_expired|date:"SHORT_DATE_FORMAT"}}
@@ -26,4 +26,4 @@
 
 </p>
 
-С наилучшими пожеланиями, команда {{host}}.
+WBR, {{host}} Team.

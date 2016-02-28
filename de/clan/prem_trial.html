@@ -1,19 +1,19 @@
 {% extends "clan/prem_trial.html" %}
 
 {% block msg_already_used %}
-Клан <strong>[{{clan.5}}]</strong> уже использовал пробный период для премиум-режима.
+Clan <strong>[{{clan.5}}]</strong> has already used the free premium trial period.
 {% endblock %}
 
 {% block msg_base_activate %}
-Вы можете активировать пробный период <strong>24 часа обслуживания в премиум-режиме</strong> для клана
+You can activate trial period for <strong>24 hours of the Premium plan</strong> for clan 
 {% endblock %}
 
 {% block msg_need_clanadmin %}
-<strong>Командир или замкомандира [{{clan.5}}]</strong>, может активировать пробный период <strong>24 часа обслуживания в премиум-режиме</strong>, посетив эту страницу (требуется авторизация через Wargaming OpenID).
+<strong>Leader or vice-leader [{{clan.5}}]</strong> can activate the trial period for <strong>24 hours of the Premium plan</strong> by visiting this page (requires authorization via Wargaming OpenID)
 {% endblock %}
 
 {% block msg_base_improvements %}
-Премиум режим включает в себя все возможности <a target="_blank" href="{% url action_doc_page page='pricing' %}">базового режима</a>.
-Кроме того, премиум режим включает: 
-{% include "ru/text_prem.html" %}
+Premium plan include all abilities of the <a target="_blank" href="{% url action_doc_page page='pricing' %}">base plan</a>.
+In addition, the premium plan allows you: 
+{% include "de/text_prem.html" %}
 {% endblock %}

@@ -2,12 +2,12 @@
 {% load i18n %}
 
 {% block promo_base_content %}
-В бесплатном режиме вы можете обновлять данные не чаще, чем один раз в три дня. Для обновления данных нужно зайти на эту страницу и нажать кнопку "Обновить данные".
-При переключении в <strong>базовый режим</strong> обновление данных будет происходить автоматически каждый день. 
-Стоимость обслуживания в базовом режиме составляет <strong>{{base_mode_rur}} рублей за {{base_mode_days}} дней</strong> на клан.
+With free plan, you can update the data no more frequently than once every three days. To update the data you need to visit this page and click the "Refresh data".
+When you switch to <strong>base plan</strong>, update will occur automatically every day.
+The cost of servicing the base plan is <strong>${{base_mode_usd}} per {{base_mode_days}} days</strong> per clan.
 {% endblock %}
 
 {% block promo_premium_content %}
-<strong>Премиум режим</strong> включает в себя <a target="_blank" href="{% url action_doc_page page='pricing' %}">все возможности базового режима</a>, плюс некоторую дополнительную детальную информацию об участниках клана.
-Стоимость обслуживания в премиум режиме составляет <strong>{{prem_mode_rur}} рублей за {{prem_mode_days}} дней</strong> на клан.
+<strong>Premium plan</strong> includes <a target="_blank" href="{% url action_doc_page page='pricing' %}">all the features of the base plan</a>, plus some additional detailed information.
+The cost of servicing the premium mode is <strong>${{prem_mode_usd}} per {{prem_mode_days}} days</strong> per clan.
 {% endblock %}

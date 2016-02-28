@@ -1,37 +1,37 @@
 {% extends "account/manage.html" %}
 
 {% block companies_message %}
-Вы состоите в следующих танковых ротах:
+You are a member of the following tank companies:
 {% endblock %}
 
 {% block no_companies_message %}
-Вы не состоите в клановых ротах.
+You are not in a tank companies of the clan.
 {% endblock %}
 
 {% block msg_email_verify %}
-Ваш email адрес подтвержден. Язык сообщений:  {{user_lang}}
+Your email address is verified. Message language: {{user_lang}}
 {% endblock %}
 
 {% block msg_email_not_verify %}
-Внимание! Ваш адрес электронной почты не подтвержден. На этот адрес электронной почты отправлено письмо с инструкциями для завершения проверки.
-Если вы хотите отправить письмо с инструкциями повторно, очистите поле email, сохраните настройки, затем введите нужный адрес email и еще раз сохраните настройки.
+Attention! Your email address is not verified. At this email address sent an email with instructions to complete the verification.
+If you want to re-send the verification letter, clear the email field, save the settings, then enter the email address and again save the setting.
 {% endblock %}
 
 {% block msg_email_empty %}
-Вы можете получать ежедневные сообщения о событиях в клане, если укажете свой email. (Недоступно в бесплатном режиме)
+You can receive reports on events in the clan, if you enter your email. (Not available in free mode)
 {% endblock %}
 
 {% block pr_status_title %}
-Ваш текущий статус
+Your current status 
 {% endblock %}
 
 {% block pr_status_tips %}
-Краткое (до 30 символов) описание вашего текущего статуса для отображения в таблицах. Например: "отпуск до 20 июля" или "в срочной командировке"
+Short (up to 30 characters) description of your current status to be displayed in tables. For example: "rest to July 20" or "urgent trip"
 {% endblock %}
 
 {% block location_tips %}
-Чтобы указать свое местоположение, кликните по карте и сохраните настройки. 
-Поставленный маркер можно перетаскивать. 
-Если вы хотите удалить данные о своем местоположении, кликните на маркере.
-Маркер пропадет, после этого сохраните настройки.
+To specify your location, please click on the map and save the settings.
+Existing marker can be dragged.
+If you want to delete the data about your location, click on the marker.
+The marker disappears, then save settings.
 {% endblock %}

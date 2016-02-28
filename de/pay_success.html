@@ -4,27 +4,27 @@
 {% block content %}
 
 <p>
-Вы успешно оплатили обслуживание
+You are successfully paid for the servicing in 
 
 {% if mode_type == 'base' %}
-в базовом режиме на {{base_mode_days}} дней
+base mode per {{base_mode_days}} days
 {% else %}
-в премиум режиме на {{prem_mode_days}} дней
+premium mode per {{prem_mode_days}} days
 {% endif %}
 
 {% if clan %}
-для клана [{{clan.tag}}]
+for clan [{{clan.tag}}]
 {% endif %}
 .
 </p>
 
 <p>
-Перейти на
+Go to
 {% if clan %}
-<a href="{% url clans_info server=clan.server clanid=clan.wotid %}">страницу клана</a>
+<a href="{% url clans_info server=clan.server clanid=clan.wotid %}">clan page</a>
 {% else %}
-<a href="{% url action_home %}">главную страницу</a>
-{% endif %}.
+<a href="{% url action_home %}">main page</a>
+{% endif %}
 </p>
 
 {% endblock %}

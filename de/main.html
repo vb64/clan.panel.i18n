@@ -6,7 +6,7 @@
 {% if isWG %}
 
 <div class="hero-unit">
-<h1>Информация об игровых кланах Wargaming.net</h1>
+<h1>Information about Wargaming.net clans</h1>
 {% include "demo_table.html" %}
 </div>
 
@@ -17,19 +17,19 @@
 
   <div class="col-md-9 content">
 
-<h3>А также...</h3>
+<h3>Also...</h3>
 
 <p>
-Вы можете подписаться на получение ленты событий в виде <a onclick="this.target='target'" href="http://feeds.feedburner.com/Wargamingnet-clans-ru">RSS потока</a>, либо в виде <a onclick="this.target='target'" href="http://feedburner.google.com/fb/a/mailverify?uri=Wargamingnet-clans-ru&amp;loc=ru_RU">почтовой рассылки</a>. 
+You can subscribe to receive ribbon events as an <a onclick="this.target='target'" href="http://feeds.feedburner.com/Wargamingnet-clans-en">RSS stream</a>, or to the <a onclick="this.target='target'" href="http://feedburner.google.com/fb/a/mailverify?uri=Wargamingnet-clans-en&amp;loc=en_EN">mailing list</a>. 
 </p>
 
 <p>
-Если вы хотите иметь аналогичные данные по интересующему вас клану, вы можете воспользоваться следующими ресурсами:
+If you want to have the same data on the clan that you are interested, you can use the following resources:
 <ul>
-<li><a target="_blank" href="http://clan-panel-ru.appspot.com/">Россия</a></li>
-<li><a target="_blank" href="http://clan-panel.appspot.com/">Европа</a></li>
-<li><a target="_blank" href="http://clan-panel-na.appspot.com/">Северная Америка</a></li>
-<li><a target="_blank" href="http://clan-panel-sea.appspot.com/">Юго-Восточная Азия</a></li>
+<li><a target="_blank" href="http://clan-panel-ru.appspot.com/">Russia</a></li>
+<li><a target="_blank" href="http://clan-panel.appspot.com/">Europe</a></li>
+<li><a target="_blank" href="http://clan-panel-na.appspot.com/">North America</a></li>
+<li><a target="_blank" href="http://clan-panel-sea.appspot.com/">Southeast Asia</a></li>
 </ul>
 </p>
 
@@ -39,22 +39,23 @@
 {% else %}
 
 <div class="row">
-<h1>Какой клан вас интересует?</h1>
+<h1>Which clan are you interested in?</h1>
 
 <p>
 {% include "find_clan.html" %}
 </p>
 
 <p>
-Введите адрес 
-<a target="_blank" href="http://{{game_zone}}/">официальной страницы клана</a>
-в поле ввода. Например, страница клана wargaming.net [WG] (ru) имеет адрес:<br>
-<i>http://ru.wargaming.net/clans/1/</i>
+
+Enter address of the 
+<a target="_blank" href="http://{{game_zone}}/">official clan page</a>
+into input box. For example, for wargaming.net clan [WG] (eu) address is<br>
+<i>http://eu.wargaming.net/clans/500000001/</i>
 </p>
 
 {% if not user.wotid %}
 <p>
-Если вы состоите в клане, вы можете <a href="{% url action_login %}?continue={% url action_user_clan %}">войти через Wargaming OpenID</a>, и ваш клан будет добавлен автоматически.
+If you are a clan member, you can <a href="{% url action_login %}?continue={% url action_user_clan %}">sign in with Wargaming OpenID</a>, and your clan will be added automatically.
 </p>
 {% endif %}
 
@@ -67,42 +68,38 @@
 
   <div class="col-md-9 content">
 
-<h3>Для кого этот сайт?</h3>
+<h3>Who is it for?</h3>
 <p>
-Этот сайт может помочь администраторам кланов WorldOfTanks (командиры, заместители, вербовщики, полевые командиры) в решении типичных проблем:
+Clan-panel is intended to help WorldOfTanks clan administrators (leader, deputies, recruiters, commanders) to solve typical problems: 
 <ul>
-<li>отслеживание событий в клане</li>
-<li>учет имеющейся техники</li>
-<li>контроль активности участников клана</li>
-<li>формирование и управление клановыми ротами</li>
-<li>управление атаками и защитой Укрепрайона</li>
+<li>track clan events</li>
+<li>clan vehicle accounting</li>
+<li>member activity accounting</li>
+<li>create and manage clan companies</li>
+<li>Manage of attacks and defense of Stronghold</li>
 </ul>
 </p>
 
 <p>
-Клан-панель полностью бесплатна для новых пользователей. 
-Но для тех, кому необходимо больше возможностей, 
-<a href="{% url action_doc_page page='pricing' %}">"Базовый" и "Премиумный" режимы обслуживания</a> предлагают дополнительные функции за приемлемую цену. 
+Clan-panel is completely free to start. But for those who need more, 
+the <a href="{% url action_doc_page page='pricing' %}">"Base" and "Premium" plans</a> delivers more features at a great value.
 </p>
 
 <div class="row">
 <div class="col-sm-3">
-<a target="_blank" href="{% url action_doc_root %}" class="form-control btn btn-info">Читать документацию</a>
+<a target="_blank" href="{% url action_doc_root %}" class="form-control btn btn-info">Read documentation</a>
 </div>
 </div>
 
-<h3>Клан-панель в действии</h3>
+<h3>Clan-panel in action</h3>
 <p>
-Cуществует демо-версия клан-панели, обслуживающая ограниченный набор кланов, без возможности добавить произвольный клан.
-Если вам неудобно ждать накопления данных по интересующему вас клану в клан-панели, то вы можете ознакомиться с обьемом и формой подачи уже накопленного массива статистических данных, посетив это демо-сайт.
-</p>
-<p>
-Сбор данных по представленным в демо-версии кланам ведется с декабря 2012 года. 
+There is a demo version of clan-panel, that handles a limited set of clans. 
+You can visit it, and see abilities of this site in action.
 </p>
 
 <div class="row">
 <div class="col-sm-3">
-<a target="_blank" href="http://wot-clans.appspot.com" class="form-control btn btn-info">Перейти на демо-сайт</a>
+<a target="_blank" href="http://wot-clans.appspot.com" class="form-control btn btn-info">Visit demo site</a>
 </div>
 </div>
 
