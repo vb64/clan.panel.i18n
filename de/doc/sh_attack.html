@@ -1,69 +1,69 @@
 {% extends "doc/page.html" %}
 
 {% block h_title %}
-Поиск атак УР
+Search for SH attacks
 {% endblock %}
 
 {% block doc_content %}
 
-<h2>Поиск атак УР</h2>
+<h2>Search for SH attacks</h2>
 
 <p>
-Если вы тратите много времени на поиск обьектов для атаки в УР, вам может помочь функция "Поиск атак УР" сайта клан-панель. 
-Данная функция доступна офицерам кланов с действующим <a href="{% url action_doc_page page='pricing' %}">платным режимом обслуживания</a> (базовый или премиум).
+If you spend a lot of time searching for the objects of attack in SH, you can use the function "Search for SH attacks".
+This function is available for officers of clans, with <a href="{% url action_doc_page page='pricing' %}">paid plan</a> (base or premium) in effect.
 </p>
 
 <ul>
-<li>авторизоваться через ссылку "Войти" справа вверху страницы</li>
-<li>перейти на вкладку "Укрепрайон"</li>
-<li>кликнуть зеленую кнопку "Поиск атак УР" (доступна только офицерам кланов)</li>
+<li>Click the "Sign in" button at the top of the page</li>
+<li>Tap "Stronghold" tab</li>
+<li>Click the green button labelled "Search for SH attacks" (available to clan officers)</li>
 </ul>
 
 <p>
-На страничке "Поиск атак УР"
+At the "Search for SH attacks" page
 </p>
 
 <ul>
-<li>выставить удобный вам часовой пояс, по которому будет отображаться время боев</li>
-<li>выбрать из списка интересующий вас уровень УР и час обороны противника</li>
-<li>ввести в поле "Макс.позиция рейтинга" значение позиции рейтинга кланов WG. Кланы выше этой позиции в рейтинге не будут включены в результаты поиска</li>
-<li>нажать кнопку "Найти"</li>
+<li>Select your time zone</li>
+<li>Choose from the list enemy's hour of the  defense and the level of SH</li>
+<li>Enter in the field "Max position in rating" value of position WG ranking. Clans above this position in the ranking will not be included in the search results</li>
+<li>Click the button labelled "Find"</li>
 </ul>
 
 <p>
-Список кланов, которые имеют УР, соответствующий заданным критериям поиска и доступные дни для атак в ближайшие 2 недели, отображается в виде таблицы. 
-Таблица имеют следующие колонки:
+List of clans that have a SH, corresponding to your search criteria and the available for the attacks in the next 2 weeks, will be displayed as a table.
+The table has the following columns:
 </p>
 
 <ul>
-<li>тег клана. при клике переход на страничку со списком дат, когда клан можно атаковать</li>
-<li>позиция клана в рейтинге WG</li>
-<li>кол-во зданий в УР клана, кроме Командного центра</li>
-<li>средний уровень зданий УР</li>
-<li>кол-во дат в расписании клана, доступных для атак</li>
+<li>Clan tag. Click to go to a page with a list of dates, when this clan can be attacked</li>
+<li>Position in the ranking of WG</li>
+<li>The number of buildings in the clan's SH</li>
+<li>The average level of SH buildings</li>
+<li>The number of days in the next 2 weeks, when clan is available for attacks</li>
 </ul>
 
 <p>
-В результаты поиска не включаются кланы:
+The results do not include next clans:
 </p>
 
 <ul>
-<li>с которыми у вас уже запланированы бои в будущем</li>
-<li>бои с которыми были меньше 7 дней назад</li>
-<li>состоящие в вашем союзе УР клан-панели (если вы участник союза УР)</li>
-<li>обслуживаемые в клан-панели в премиум-режиме</li>
+<li>you have a scheduled battle in the future</li>
+<li>You had a battle 7 days ago or earlier</li>
+<li>Your allies by SH defense (if you are a member of SH alliance)</li>
+<li>Serving with premium plan</li>
 </ul>
 
 <p>
-Ниже располагается ссылка на таблицу кланов, соответствующих заданным критериям поиска, на которые через указанное время можно будет поставить новую атаку на 2 недели вперед. 
-На момент этой новой атаки кланы не имеют нейтралитета, эта новая атака не попадает на их выходной, и у вас нет с ними запланированных боев.
+Below is a link to the table of clans, the relevant search criteria, which after the specified time it will be possible to put a new attack on 2 weeks ahead.
+At the time of this new attack clans have no neutrality, this new attack does not fall on their day off, and you do not have scheduled battles with them.
 </p>
 
-<h3>Как это работает</h3>
+<h3>How does this work</h3>
 
 <p>
-Раз в сутки страницы УР первых нескольких тысяч кланов по рейтингу WG сканируются и сохраняются в базе данных. 
-Кланы, которые имеют бои в своем расписании, в течение суток дополнительно сканируются еще несколько раз с обновлением их данных в клан-панели.
+Once a day the first few thousands clans rated WG scanned and stored in the database.
+Clans that have a battles in their schedule, additionally scanned several times a day to update data in a clan-panel.
 </p>
 
 {% endblock %}
@@ -71,11 +71,11 @@
 {% block doc_prev_topic %}stronghold{% endblock %}
 
 {% block doc_prev_title %}
-Управление и защита для укрепрайона клана
+Management and defense of clan's stronghold
 {% endblock %}
 
 {% block doc_next_topic %}main{% endblock %}
 
 {% block doc_next_title %}
-Начальная страница документации
+Root documentation page
 {% endblock %}

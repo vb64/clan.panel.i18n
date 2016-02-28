@@ -1,21 +1,22 @@
 {% extends "base.html" %}
 
-{% block h_title %}Клан-панель: документация и поддержка{% endblock %}
+{% block head %}
+<title>World of Tanks clans management: documentation and contacts</title>
+{% endblock %}
 
 {% block content %}
-<h1>Нужна помощь?</h1>
+<h1>Need help?</h1>
 
 <p>
-Вы можете <a href="{% url action_doc_root %}">ознакомиться с документацией</a>.
+First, you can <a href="{% url action_doc_root %}">read the documentation</a>.
 </p>
 
 <p>
-Для вопросов, пожеланий, сообщений об ошибках, пожалуйста <a target="_blank" href="http://clanpanel.mybb.ru">напишите в форум поддержки клан-панели</a>.
+For support, bug reports, questions, please <a target="_blank" href="{{forum_topic}}">use this topic</a> on official WorldOfTanks forum.
 </p>
 
 <p>
-Также можно написать в <a target="_blank" href="{{forum_topic}}">тему поддержки клан-панели</a> на официальном форуме WorldOfTanks или 
-в "Личные Сообщения" для пользователя <strong>vb64</strong> на официальном форуме игры.
+For financial questions please send "Private Message" for user <strong>vb64</strong> on official forum.
 </p>
 
 {% endblock %}

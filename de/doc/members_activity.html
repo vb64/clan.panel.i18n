@@ -1,45 +1,54 @@
 {% extends "doc/page.html" %}
 
 {% block h_title %}
-Отслеживание текущей игровой активности участников клана
+Tracking current activity of clan's members
 {% endblock %}
 
 {% block doc_content %}
 
-<h1>Отслеживание текущей игровой активности участников клана</h1>
+<h1>Current activity of clan's members</h1>
 
 <p>
-Отслеживается текущая активность участников клана за два периода - последние 7 и 30 дней. 
-Общее кол-во боев и кол-во боев на ГК каждого игрока, а также количество боев по моделям танков (динамическая статистика). 
-Статистика начинает накапливаться с момента добавления клана в базу сервиса.
+Table for the whole clan include data about total number of battles and battles in ClanWars for each member for two periods (last 7 and 30 days). 
+This data begin to accumulate with the addition of the clan. They are fully valid after 7 and 30 days respectively. 
 </p>
 <p>
-<img class="img-responsive" alt="Таблица активности участников клана" src="/media/img/ru/doc/members_activity.png">
-</p>
-
-<p>
-Для каждого участника клана доступна страница с детальными данными о его игровой активности.
+<img class="img-responsive" alt="Table of the current activity of the clan members" src="/media/img/en/doc/members_activity.png">
 </p>
 
 <p>
-<img class="img-responsive" alt="Данные об активности участника за период" src="/media/img/ru/doc/activity01.jpg">
+In the "status" column displays a short text message from a clan member. This message the player can enter in the appropriate filed on his profile page.
+Apart from the general table of clan members, the status is also displayed in the tables of participants in the control section of the tank companies.
 </p>
 
 <p>
-Премиум-режим обслуживания включает данные об игровой активности участников клана по моделям танков, 
-расшифровку цифры боев за каждый день по моделям танков, историю боев на определенном танке по дням.
+Also, there are a pages with individual detailed information for every clan member.
 </p>
 
 <p>
-<img class="img-responsive" alt="По-танковая статистика за период" src="/media/img/ru/doc/activity02.png">
+<img class="img-responsive" alt="Member activity for a period" src="/media/img/en/doc/activity01.jpg">
 </p>
 
 <p>
-<img class="img-responsive" alt="По-танковая статистика за период" src="/media/img/ru/doc/activity_prem_01.png">
+Above the calendar cards with information about the player battles by day there's a link "History". 
+Clicking on it, you can see the history of the fighting by days, starting with the addition to the site.
 </p>
 
 <p>
-<img class="img-responsive" alt="По-танковая статистика за период" src="/media/img/ru/doc/activity_prem_02.png">
+Premium mode of servicing allow detailed information (by the types of tanks) about current activity (week, month) of the clan members,
+detailed figures of battles for each day on certain tanks, history of battles at a certain tank.
+</p>
+
+<p>
+<img class="img-responsive" alt="Member activity for a period by tanks" src="/media/img/en/doc/activity02.png">
+</p>
+
+<p>
+<img class="img-responsive" alt="Member activity for a period by tanks" src="/media/img/en/doc/activity_prem_01.png">
+</p>
+
+<p>
+<img class="img-responsive" alt="Member activity for a period by tanks" src="/media/img/en/doc/activity_prem_02.png">
 </p>
 
 {% endblock %}
@@ -47,11 +56,11 @@
 {% block doc_prev_topic %}top_vehicles{% endblock %}
 
 {% block doc_prev_title %}
-Учет техники, имеющейся в клане
+Keeping records of the top-tanks of your clan
 {% endblock %}
 
 {% block doc_next_topic %}company{% endblock %}
 
 {% block doc_next_title %}
-Формирование клановых рот и подбор для них личного состава
+Forming and supporting a clan's companies
 {% endblock %}

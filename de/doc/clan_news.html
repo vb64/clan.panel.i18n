@@ -1,55 +1,50 @@
 {% extends "doc/page.html" %}
 
 {% block h_title %}
-Отслеживание клановых событий: приход/уход участников, смена должности, покупка топовых танков
+Clan's events: new/left members, changing clan's position, new top-tank
 {% endblock %}
 
 {% block doc_content %}
 
-<h1>Новостная лента клана</h1>
+<h1>Track events of the clan</h1>
 
 <p>
-Отслеживаются следующие виды событий:
+The following events are tracked:
 </p>
 
 <ul>
-<li>смена игровых ников участников</li>
-<li>принятие в клан нового участника</li>
-<li>уход участника из клана</li>
-<li>получение участником новой должности в клане</li>
-<li>покупка участниками новых единиц топ-техники</li>
-<li>достижение участниками клана новых личных рекордов максимального опыта за бой</li>
-<li>получение знаков классности "Мастер"</li>
+<li>changing of nicknames for clan's members</li>
+<li>adoption of a new member to the clan</li>
+<li>member left the clan</li>
+<li>clan member receive a new position in the clan</li>
+<li>clan member gained new top-tank</li>
+<li>clan members are achieving new personal record for the maximum experience</li>
+<li>obtaining "Ace Tanker" badges</li>
 </ul>
 
 <p>
-На странице новостей клана есть ссылки, которые позволяют выделять отдельные типы новостей из общего списка новостей.
+There are a links on the clan's news page, that allow you to pick out certain types of news from the general list of clan's news.
 </p>
 
 <p>
-Эта лента событий доступна в нескольких вариантах: 
+You can access the list of these events on special page at this site, as an RSS feed, or as email notifications. 
 </p>
 
-<ul>
-<li>на отдельной странице клана на сервисе</li>
-<li>в виде rss потока (который можно подключить, например, на сайте клана)</li>
-<li>как почтовая рассылка, если пользователь укажет свой email у себя в профиле</li>
-</ul>
-
 <p>
-Вы можете найти "секретный" адрес RSS ленты новостей клана в разделе "Управление".
-Этот раздел доступен для администров клана (командир, заместители, плюс настраиваемый список должностей) после авторизации по OpenID (ссылка "Войти" вверху страницы).
+You can find private url address of the RSS feed for your clan, on the page "Management". 
+This page available for clan administrators (leader, vice-leaders), after OpenID auth ("Sign in" link at the top of page).
+</p>
 
 {% endblock %}
 
 {% block doc_prev_topic %}main{% endblock %}
 
 {% block doc_prev_title %}
-Начальная страница документации
+Root documentation page
 {% endblock %}
 
 {% block doc_next_topic %}top_vehicles{% endblock %}
 
 {% block doc_next_title %}
-Учет техники, имеющейся в клане
+Keeping records of the top-tanks of your clan
 {% endblock %}
