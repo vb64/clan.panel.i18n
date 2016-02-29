@@ -1,111 +1,25 @@
-{% extends "base.html" %}
-{% load i18n %}
+{% extends "main.html" %}
 
-{% block content %}
-
-{% if isWG %}
-
-<div class="hero-unit">
-<h1>Information about Wargaming.net clans</h1>
-{% include "demo_table.html" %}
-</div>
-
-<div class="row">
-  <div class="col-md-3 content">
-{% include "news.html" %}
-  </div>
-
-  <div class="col-md-9 content">
-
-<h3>Also...</h3>
-
-<p>
+{% block msg_subscribe %}
 You can subscribe to receive ribbon events as an <a onclick="this.target='target'" href="http://feeds.feedburner.com/Wargamingnet-clans-en">RSS stream</a>, or to the <a onclick="this.target='target'" href="http://feedburner.google.com/fb/a/mailverify?uri=Wargamingnet-clans-en&amp;loc=en_EN">mailing list</a>. 
-</p>
+{% endblock %}
 
-<p>
-If you want to have the same data on the clan that you are interested, you can use the following resources:
-<ul>
-<li><a target="_blank" href="http://clan-panel-ru.appspot.com/">Russia</a></li>
-<li><a target="_blank" href="http://clan-panel.appspot.com/">Europe</a></li>
-<li><a target="_blank" href="http://clan-panel-na.appspot.com/">North America</a></li>
-<li><a target="_blank" href="http://clan-panel-sea.appspot.com/">Southeast Asia</a></li>
-</ul>
-</p>
+{% block msg_url %}
+Enter address of the <a target="_blank" href="http://{{game_zone}}/">official clan page</a> into input box. 
+{% endblock %}
 
-  </div>
-</div>
-
-{% else %}
-
-<div class="row">
-<h1>Which clan are you interested in?</h1>
-
-<p>
-{% include "find_clan.html" %}
-</p>
-
-<p>
-
-Enter address of the 
-<a target="_blank" href="http://{{game_zone}}/">official clan page</a>
-into input box. For example, for wargaming.net clan [WG] (eu) address is<br>
-<i>http://eu.wargaming.net/clans/500000001/</i>
-</p>
-
-{% if not user.wotid %}
-<p>
+{% block msg_clanmember %}
 If you are a clan member, you can <a href="{% url action_login %}?continue={% url action_user_clan %}">sign in with Wargaming OpenID</a>, and your clan will be added automatically.
-</p>
-{% endif %}
+{% endblock %}
 
-</div>
-
-<div class="row">
-  <div class="col-md-3 content">
-{% include "news.html" %}
-  </div>
-
-  <div class="col-md-9 content">
-
-<h3>Who is it for?</h3>
-<p>
-Clan-panel is intended to help WorldOfTanks clan administrators (leader, deputies, recruiters, commanders) to solve typical problems: 
-<ul>
-<li>track clan events</li>
-<li>clan vehicle accounting</li>
-<li>member activity accounting</li>
-<li>create and manage clan companies</li>
-<li>Manage of attacks and defense of Stronghold</li>
-</ul>
-</p>
-
-<p>
+{% block msg_pricing %}
 Clan-panel is completely free to start. But for those who need more, 
 the <a href="{% url action_doc_page page='pricing' %}">"Base" and "Premium" plans</a> delivers more features at a great value.
-</p>
+{% endblock %}
 
-<div class="row">
-<div class="col-sm-3">
-<a target="_blank" href="{% url action_doc_root %}" class="form-control btn btn-info">Read documentation</a>
-</div>
-</div>
-
-<h3>Clan-panel in action</h3>
+{% block msg_action %}
 <p>
 There is a demo version of clan-panel, that handles a limited set of clans. 
 You can visit it, and see abilities of this site in action.
 </p>
-
-<div class="row">
-<div class="col-sm-3">
-<a target="_blank" href="http://wot-clans.appspot.com" class="form-control btn btn-info">Visit demo site</a>
-</div>
-</div>
-
-  </div>
-</div>
-
-{% endif %}
-
 {% endblock %}

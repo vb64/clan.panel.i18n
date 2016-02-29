@@ -1,11 +1,5 @@
-{% extends "base.html" %}
-{% load i18n %}
+{% extends "pay_cancel.html" %}
 
-{% block content %}
-
-<p>
+{% block msg_cancel %}
 You are canceled payment. Go to <a href="{% url action_home %}">main page</a>.
-</p>
-
 {% endblock %}
-
