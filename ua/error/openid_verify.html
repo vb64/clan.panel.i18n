@@ -1,23 +1,7 @@
 ﻿{% extends "error/openid_verify.html" %}
 
-{% block promo_message %}
-<p>
-Ви відмовилися від авторизації через Wargaming OpenID. Якщо це рішення викликане сумнівами в безпеці вашого облікового запису,
-то ви можете ознайомитися з 
+{% block msg_promo1 %}
+Якщо це рішення викликане сумнівами в безпеці вашого облікового запису, то ви можете ознайомитися з 
 <a target="_blank" href="https://ru.wargaming.net/support/Knowledgebase/Article/View/430/20/chto-tkoe-servis-openid">позицією компанії Wargaming</a>
 по цьому питанню:
-</p>
-
-<div style="background-color:#D7D3C2;">
-<p>
-Компания Wargaming пропонує новий сервіс — OpenID.
-</p>
-<p>
-Тепер гравці World of Tanks, World of Warplanes та майбутні гравці World of Warships можуть <strong>безпечно авторизуватися на сторонніх сайтах</strong> без додаткової реєстрації за допомогою особистого Wargaming.net ID.
-</p>
-</div>
-
-<p>
-Протокол OpenID спеціально розроблений для того, щоб можна було проводити авторизацию без доступу до особистих даних облікового запису користувача.
-</p>
 {% endblock %}

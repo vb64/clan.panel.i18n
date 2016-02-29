@@ -1,11 +1,5 @@
-﻿{% extends "base.html" %}
-{% load i18n %}
+﻿{% extends "pay_cancel.html" %}
 
-{% block content %}
-
-<p>
+{% block msg_cancel %}
 Ви відхилили платіж. Перейти на <a href="{% url action_home %}">головну сторінку</a>.
-</p>
-
 {% endblock %}
-
