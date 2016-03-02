@@ -1,0 +1,29 @@
+Hi!
+
+<p>
+You have successfully paid the collection of statistics for the clan [{{clan.tag}}] on {{host}}.
+</p>
+
+<p>
+
+{% if mode_type == 'base' %}
+Base
+{% endif %}
+
+{% if mode_type == 'prem' %}
+Premium
+{% endif %}
+
+mode will be active until
+
+{% if mode_type == 'base' %}
+{{clan.base_expired|date:"SHORT_DATE_FORMAT"}}
+{% endif %}
+
+{% if mode_type == 'prem' %}
+{{clan.premium_expired|date:"SHORT_DATE_FORMAT"}}
+{% endif %}
+
+</p>
+
+WBR, {{host}} Team.

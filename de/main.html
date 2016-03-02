@@ -1,0 +1,25 @@
+{% extends "main.html" %}
+
+{% block msg_subscribe %}
+You can subscribe to receive ribbon events as an <a onclick="this.target='target'" href="http://feeds.feedburner.com/Wargamingnet-clans-en">RSS stream</a>, or to the <a onclick="this.target='target'" href="http://feedburner.google.com/fb/a/mailverify?uri=Wargamingnet-clans-en&amp;loc=en_EN">mailing list</a>. 
+{% endblock %}
+
+{% block msg_url %}
+Enter address of the <a target="_blank" href="http://{{game_zone}}/">official clan page</a> into input box. 
+{% endblock %}
+
+{% block msg_clanmember %}
+If you are a clan member, you can <a href="{% url action_login %}?continue={% url action_user_clan %}">sign in with Wargaming OpenID</a>, and your clan will be added automatically.
+{% endblock %}
+
+{% block msg_pricing %}
+Clan-panel is completely free to start. But for those who need more, 
+the <a href="{% url action_doc_page page='pricing' %}">"Base" and "Premium" plans</a> delivers more features at a great value.
+{% endblock %}
+
+{% block msg_action %}
+<p>
+There is a demo version of clan-panel, that handles a limited set of clans. 
+You can visit it, and see abilities of this site in action.
+</p>
+{% endblock %}

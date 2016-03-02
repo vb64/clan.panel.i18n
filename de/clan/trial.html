@@ -1,0 +1,18 @@
+{% extends "clan/trial.html" %}
+
+{% block msg_already_used %}
+Clan <strong>[{{clan.5}}]</strong> has already used the free trial period.
+{% endblock %}
+
+{% block msg_base_improvements %}
+Base plan allow daily automatic update for statistics of the clan and provides the following improvements over the free plan:
+{% include "de/text_base.html" %}
+{% endblock %}
+
+{% block msg_base_activate %}
+You can activate trial period for <strong>30 days of the "Base plan"</strong> for clan 
+{% endblock %}
+
+{% block msg_need_clanadmin %}
+<strong>Leader or vice-leader [{{clan.5}}]</strong> can activate the trial period for <strong>30 days of the "Base plan"</strong> by visiting this page (requires authorization via Wargaming OpenID)
+{% endblock %}

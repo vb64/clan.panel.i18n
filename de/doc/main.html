@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>World of Tanks {% block h_title %}clans management: your capabilities{% endblock %}</title>
+<meta name="description" content="World of Tanks clans management: your capabilities." />
+{% endblock %}
+
+{% block content %}
+<h1>User manual of the control panel for a clan</h1>
+
+<p>
+This site is intended for administrators of WorldOfTanks gaming clans.
+</p>
+
+<p>
+With this site you can:
+</p>
+
+<div class="list-group">
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='clan_news' %}">Track events of the clan</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='top_vehicles' %}">Keeping records of the top-tanks of your clan</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='members_activity' %}">Tracking the current activity of clan's members</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='company' %}">Forming and supporting a clan's companies</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='attendance' %}">Control for attendance of the clan events</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='online' %}">Clan's online statistic</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='stronghold' %}">Management and defense of clan's stronghold</a>
+    <a target="_blank" class="list-group-item" href="{% url action_doc_page page='sh_attack' %}">Search for attacks of stronghold</a>
+</div>
+
+<p>
+After OpenID auth ("Sign in" link at the top of page), every clan member have access for own profile page. On this profile page you can set up:
+</p>
+
+<ul>
+<li>option "clanmates only" for visitors of your account pages</li>
+<li>your email address, if you want to receive email notifications about clan news</li>
+<li>list of the non top vehicles in your garage</li>
+<li>short message (up to 10 chars) about your in-game status</li>
+</ul>
+
+<p>
+The site can serve clans in three planes: free, base and premium.
+</p>
+
+<p>
+Free plane is the default mode, and it available immediately after adding clan from form on main page. 
+With free plane, you can update the data no more frequently than once every three days. 
+To update the data, you need to visit any clan page and click the link "Update data".
+</p>
+
+<p>
+Benefits of paid service modes you can see in 
+<a href="{% url action_doc_page page='pricing' %}">this table</a>.
+</p>
+
+{% endblock %}

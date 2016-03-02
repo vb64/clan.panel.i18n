@@ -1,0 +1,13 @@
+{% extends "clan/update/free.html" %}
+{% load i18n %}
+
+{% block promo_base_content %}
+With free plan, you can update the data no more frequently than once every three days. To update the data you need to visit this page and click the "Refresh data".
+When you switch to <strong>base plan</strong>, update will occur automatically every day.
+The cost of servicing the base plan is <strong>${{base_mode_usd}} per {{base_mode_days}} days</strong> per clan.
+{% endblock %}
+
+{% block promo_premium_content %}
+<strong>Premium plan</strong> includes <a target="_blank" href="{% url action_doc_page page='pricing' %}">all the features of the base plan</a>, plus some additional detailed information.
+The cost of servicing the premium mode is <strong>${{prem_mode_usd}} per {{prem_mode_days}} days</strong> per clan.
+{% endblock %}

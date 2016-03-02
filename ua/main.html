@@ -1,97 +1,24 @@
-﻿{% extends "base.html" %}
-{% load i18n %}
+﻿{% extends "main.html" %}
 
-{% block content %}
-
-{% if isWG %}
-
-<div class="hero-unit">
-<h1>Інформація про ігрові клани Wargaming.net</h1>
-{% include "demo_table.html" %}
-</div>
-
-<div class="row">
-  <div class="col-md-3 content">
-{% include "news.html" %}
-  </div>
-
-  <div class="col-md-9 content">
-
-<h3>А також...</h3>
-
-<p>
+{% block msg_subscribe %}
 Ви можете підписатися на отримання стрічки подій у вигляді <a onclick="this.target='target'" href="http://feeds.feedburner.com/Wargamingnet-clans-ru">RSS потоку</a>, або у вигляді <a onclick="this.target='target'" href="http://feedburner.google.com/fb/a/mailverify?uri=Wargamingnet-clans-ru&amp;loc=ru_RU">поштової розсилки</a>. 
-</p>
+{% endblock %}
 
-<p>
-Якщо ви хочете мати аналогічні дані по клану, що цікавить вас, ви можете скористатися наступними ресурсами:
-<ul>
-<li><a target="_blank" href="http://clan-panel-ru.appspot.com/">Росія</a></li>
-<li><a target="_blank" href="http://clan-panel.appspot.com/">Європа</a></li>
-<li><a target="_blank" href="http://clan-panel-na.appspot.com/">Північна Америка</a></li>
-<li><a target="_blank" href="http://clan-panel-sea.appspot.com/">Південно-східна Азія</a></li>
-</ul>
-</p>
+{% block msg_url %}
+Введіть адресу <a target="_blank" href="http://{{game_zone}}/">офіційної сторінки клану</a> у полі введення.
+{% endblock %}
 
-  </div>
-</div>
-
-{% else %}
-
-<div class="row">
-<h1>Який клан вас цікавить?</h1>
-
-<p>
-{% include "find_clan.html" %}
-</p>
-
-<p>
-Введіть адресу
-<a target="_blank" href="http://{{game_zone}}/">офіційної сторінки клану</a>
-у полі введення. Наприклад, сторінка клану wargaming.net [WG] (ru) має адресу:<br>
-<i>http://ru.wargaming.net/clans/1/</i>
-</p>
-
-{% if not user.wotid %}
-<p>
+{% block msg_clanmember %}
 Якщо ви перебуваєте в клані, ви можете <a href="{% url action_login %}?continue={% url action_user_clan %}">увійти через Wargaming OpenID</a>, і ваш клан буде доданий автоматично.
-</p>
-{% endif %}
+{% endblock %}
 
-</div>
+{% block msg_pricing %}
 
-<div class="row">
-  <div class="col-md-3 content">
-{% include "news.html" %}
-  </div>
-
-  <div class="col-md-9 content">
-
-<h3>Для кого цей сайт?</h3>
-<p>
-Цей сайт може допомогти адміністраторам кланів WorldOfTanks (командири, заступники, вербувальники, польові командири) у вирішенні типових проблем:
-<ul>
-<li>відстежування подій в клані</li>
-<li>облік наявної техніки</li>
-<li>контроль активності учасників клану</li>
-<li>формування і управління клановими ротами</li>
-<li>управління атаками і захистом Укріпрайону</li>
-</ul>
-</p>
-
-<p>
-Клан-панель повністю безкоштовна для нових користувачів. 
-Але для тих, кому необхідно більше можливостей, 
+Клан-панель повністю безкоштовна для нових користувачів. Але для тих, кому необхідно більше можливостей, 
 <a href="{% url action_doc_page page='pricing' %}">"Базовий" і "Преміумний" режими обслуговування</a> пропонують додаткові функції за прийнятну ціну. 
-</p>
+{% endblock %}
 
-<div class="row">
-<div class="col-sm-3">
-<a target="_blank" href="{% url action_doc_root %}" class="form-control btn btn-info">Читати документацію</a>
-</div>
-</div>
-
-<h3>Клан-панель у дії</h3>
+{% block msg_action %}
 <p>
 Існує демо-версія клан-панелі, обслуговуюча обмежений набір кланів, без можливості додати довільний клан.
 Якщо вам незручно чекати накопичення даних по клану, що цікавить вас, в клан-панелі, то ви можете ознайомитися з обьемом і формою подачі вже накопиченого масиву статистичних даних, відвідавши це демо-сайт.
@@ -99,16 +26,4 @@
 <p>
 Збір даних по представлених в демо-версії кланах ведеться з грудня 2012 року. 
 </p>
-
-<div class="row">
-<div class="col-sm-3">
-<a target="_blank" href="http://wot-clans.appspot.com" class="form-control btn btn-info">Перейти на демо-сайт</a>
-</div>
-</div>
-
-  </div>
-</div>
-
-{% endif %}
-
 {% endblock %}

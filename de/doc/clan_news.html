@@ -1,0 +1,50 @@
+{% extends "doc/page.html" %}
+
+{% block h_title %}
+Clan's events: new/left members, changing clan's position, new top-tank
+{% endblock %}
+
+{% block doc_content %}
+
+<h1>Track events of the clan</h1>
+
+<p>
+The following events are tracked:
+</p>
+
+<ul>
+<li>changing of nicknames for clan's members</li>
+<li>adoption of a new member to the clan</li>
+<li>member left the clan</li>
+<li>clan member receive a new position in the clan</li>
+<li>clan member gained new top-tank</li>
+<li>clan members are achieving new personal record for the maximum experience</li>
+<li>obtaining "Ace Tanker" badges</li>
+</ul>
+
+<p>
+There are a links on the clan's news page, that allow you to pick out certain types of news from the general list of clan's news.
+</p>
+
+<p>
+You can access the list of these events on special page at this site, as an RSS feed, or as email notifications. 
+</p>
+
+<p>
+You can find private url address of the RSS feed for your clan, on the page "Management". 
+This page available for clan administrators (leader, vice-leaders), after OpenID auth ("Sign in" link at the top of page).
+</p>
+
+{% endblock %}
+
+{% block doc_prev_topic %}main{% endblock %}
+
+{% block doc_prev_title %}
+Root documentation page
+{% endblock %}
+
+{% block doc_next_topic %}top_vehicles{% endblock %}
+
+{% block doc_next_title %}
+Keeping records of the top-tanks of your clan
+{% endblock %}

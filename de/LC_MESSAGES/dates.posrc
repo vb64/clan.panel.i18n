@@ -1,0 +1,98 @@
+msgid "YYYY-MM-DD"
+msgstr "JJJJ-ММ-TT"
+
+msgid "%02d h %02d m"
+msgstr "%02d h %02d m"
+
+msgid "%d min"
+msgstr "%d Min"
+
+msgid "January"
+msgstr "Januar"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "February"
+msgstr "Februar"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "March"
+msgstr "Мärz"
+
+msgid "Mar"
+msgstr "Мär"
+
+msgid "April"
+msgstr "Аpril"
+
+msgid "Apr"
+msgstr "Аpr"
+
+msgid "May"
+msgstr "Мai"
+
+msgid "June"
+msgstr "Juni"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "August"
+msgstr "August"
+
+msgid "Aug"
+msgstr "Аug"
+
+msgid "September"
+msgstr "September"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "October"
+msgstr "Oktober"
+
+msgid "Oct"
+msgstr "Оkt"
+
+msgid "November"
+msgstr "November"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "December"
+msgstr "Dezember"
+
+msgid "Dec"
+msgstr "Dez"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Tue"
+msgstr "Die"
+
+msgid "Wed"
+msgstr "Mit"
+
+msgid "Thu"
+msgstr "Don"
+
+msgid "Fri"
+msgstr "Fre"
+
+msgid "Sat"
+msgstr "Sam"
+
+msgid "Sun"
+msgstr "Son"

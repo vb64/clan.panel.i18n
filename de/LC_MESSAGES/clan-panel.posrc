@@ -1,0 +1,1814 @@
+msgid "%m/%d/%Y"
+msgstr "%d.%m.%Y"
+
+msgid "Clan-panel"
+msgstr "Clan-Panel"
+
+msgid "%s changed nickname '%s' -> '%s'"
+msgstr "%s hat den Spielernamen geändert von '%s' zu '%s'"
+
+msgid "%s gained 'Ace Tanker' badge: %s"
+msgstr "%s erhielt Überlegenheitsabzeichen 'Panzerass' auf %s"
+
+msgid "%s gained new top vehicle: '%s'"
+msgstr "%s hat einen neuen TierX Panzer erhalten: '%s'."
+
+msgid "%s gained new maximum experience: %d (previous: %d)"
+msgstr "%s hat seine maximale Erfahrung in einem Gefecht verbessert: %d (vorher: %d)!"
+
+msgid "New clan member: %s (position: '%s')"
+msgstr "Neues Clan Mitglied: %s (Rang: %s)."
+
+msgid "%s left the clan member"
+msgstr "Spieler %s hat den Clan verlassen."
+
+msgid "%s change clan role from '%s' to '%s'"
+msgstr "Der Rang des Spielers %s wurde geändert von '%s' zu '%s'."
+
+msgid "World of Tanks clans management"
+msgstr "World of Tanks: Clan Verwaltung"
+
+msgid "clan information"
+msgstr "Clan Informationen"
+
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "Data updated now"
+msgstr "Daten werden jetzt aktualisiert!"
+
+msgid "Data updated"
+msgstr "Daten wurden aktualisiert!"
+
+msgid "Details by members"
+msgstr "Einzelheiten zu den Mitgliedern"
+
+msgid "Member"
+msgstr "Mitglied"
+
+msgid "Total"
+msgstr "Insgesamt"
+
+msgid "Heavy"
+msgstr "Schwerer Panzer"
+
+msgid "Medium"
+msgstr "Mittlerer Panzer"
+
+msgid "SPG"
+msgstr "Artillerie"
+
+msgid "TD"
+msgstr "Jagdpanzer"
+
+msgid "Details by vehicles"
+msgstr "Einzelheiten nach Fahrzeuge"
+
+msgid "Icon"
+msgstr "Symbol"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Members"
+msgstr "Mitglieder"
+
+msgid "Heavy tanks"
+msgstr "Schwere Panzer"
+
+msgid "Medium tanks"
+msgstr "Mittlere Panzer"
+
+msgid "Tank Destroyers"
+msgstr "Jagdpanzer"
+
+msgid "Light tanks"
+msgstr "Leichte Panzer"
+
+msgid "Self propelled guns"
+msgstr "Artillerie"
+
+msgid "types:"
+msgstr "Typ:"
+
+msgid "%d (from %d) clan members have %d top vehicles."
+msgstr "%d (von %d) Clan Mitglieder haben %d TierX Panzer."
+
+msgid "Clan events"
+msgstr "Clan Ereignisse"
+
+msgid "Chief"
+msgstr "Chef"
+
+msgid "Commander"
+msgstr "Kommandant"
+
+msgid "Executive Officer"
+msgstr "Ausführender Offizier"
+
+msgid "Recruitment Officer"
+msgstr "Personaloffizier"
+
+msgid "Quartermaster"
+msgstr "Quartiermeister"
+
+msgid "Intelligence Officer"
+msgstr "Nachrichtenoffizier"
+
+msgid "Combat Officer"
+msgstr "Kampfoffizier"
+
+msgid "Personnel Officer"
+msgstr "Personaloffizier"
+
+msgid "Junior Officer"
+msgstr "Unteroffizier"
+
+msgid "Private"
+msgstr "Gefreiter"
+
+msgid "Recruit"
+msgstr "Rekrut"
+
+msgid "Reservist"
+msgstr "Reservist"
+
+msgid "Leader"
+msgstr "Kommandant"
+
+msgid "Vice-leader"
+msgstr "Vize-Kommandant"
+
+msgid "Recruiter"
+msgstr "Rekrutierer"
+
+msgid "Treasurer"
+msgstr "Schatzmeister"
+
+msgid "Diplomat"
+msgstr "Diplomat"
+
+msgid "Commandant"
+msgstr "Kommandant"
+
+msgid "Officer"
+msgstr "Offizier"
+
+msgid "Sergeant"
+msgstr "Fähnrich"
+
+msgid "account information"
+msgstr "Kontoinformationen"
+
+msgid "Member of clan:"
+msgstr "Mitglied des Clan:"
+
+msgid "Battles"
+msgstr "Gefechte"
+
+msgid "Victories, %"
+msgstr "Siege, %"
+
+msgid "Victories"
+msgstr "Siege"
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "Maximum experience"
+msgstr "Maximale Erfahrung"
+
+msgid "Activity for the period"
+msgstr "Aktivität in diesem Zeitraum"
+
+msgid "Battles for the period"
+msgstr "Gefechte in diesem Zeitraum"
+
+msgid "News"
+msgstr "Neuigkeiten"
+
+msgid "Top vehicles"
+msgstr "TierX Fahrzeuge"
+
+msgid "Members with tops"
+msgstr "Mitglieder mit TierX"
+
+msgid "Members without tops"
+msgstr "Mitglieder ohne TierX"
+
+msgid "Members without top vehicles"
+msgstr "Mitglieder ohne TierX Fahrzeuge"
+
+msgid "Clan"
+msgstr "Clan"
+
+msgid "Account history"
+msgstr "Kontohistorie"
+
+msgid "History"
+msgstr "Historie"
+
+msgid "Activity"
+msgstr "Aktivität"
+
+msgid "Top vehicle: '%s'"
+msgstr "TierX Fahrzeuge: '%s'"
+
+msgid "Maximum experience: %d -> %d"
+msgstr "Maximale Erfahrung: %d -> %d"
+
+msgid "Clan member: %s (position: '%s')"
+msgstr "Clan Mitglied: %s (Rang: '%s')"
+
+msgid "Left the clan %s"
+msgstr "hat den Clan verlassen %s"
+
+msgid "Change clan %s role from '%s' to '%s'"
+msgstr "hat den Clan %s Rang geändert von '%s' zu '%s'"
+
+msgid "Home"
+msgstr "Zuhause"
+
+msgid "Hi"
+msgstr "Hallo"
+
+msgid "Sign out"
+msgstr "Abmelden"
+
+msgid "Sign in"
+msgstr "Anmelden"
+
+msgid "Wargaming.net clans news"
+msgstr "Wargaming.net Clan Neuigkeiten"
+
+msgid "News of the Wargaming.net clans from last week"
+msgstr "Neuigkeiten der Wargaming.net Clans von letzter Woche"
+
+msgid "Russia"
+msgstr "Russland"
+
+msgid "North America"
+msgstr "Nord Amerika"
+
+msgid "Europe"
+msgstr "Europa"
+
+msgid "Southeast Asia"
+msgstr "Südost Asien"
+
+msgid "Management"
+msgstr "Verwaltung"
+
+msgid "Clan settings"
+msgstr "Clan Einstellungen"
+
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Only clanmates can visit my pages"
+msgstr "Nur Clan Mitglieder können meine Seite sehen"
+
+msgid "Account settings"
+msgstr "Konto Einstellungen"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Email address"
+msgstr "Email Adresse"
+
+msgid "email verification"
+msgstr "Email Überprüfung"
+
+msgid "clan news"
+msgstr "Clan Neuigkeiten"
+
+msgid "Vehicles"
+msgstr "Fahrzeuge"
+
+msgid "Which vehicles are present in your garage now (except top-tanks)?"
+msgstr "Welche Fahrzeuge hast du gerade in deiner Garage (ausser TierX)?"
+
+msgid "Vehicles in the garage (according information from player) at"
+msgstr "Fahrzeuge in der Grage (nach Information vom Spieler) am"
+
+msgid "World of Tanks and Wargaming.net are registered trademarks or trademarks of Wargaming.net LLP."
+msgstr "World of Tanks und Wargaming.net sind eingetrage Warenzeichen der Wargaming.net LLP."
+
+msgid "This website is in no way associated with Wargaming.net"
+msgstr "Diese Webseite steht in keinerlei Verbindung zu Wargaming.net."
+
+msgid "The player did not provided data on their non-top tanks"
+msgstr "Der Spieler hat keine Angaben zu seinen Nicht-TierX Fahrzeugen gemacht"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "today"
+msgstr "Heute"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Age, days"
+msgstr "Alter, Tage"
+
+msgid "Your clan rss feed url"
+msgstr "Die RSS Feed URL deines Clans"
+
+msgid "%s [%s] clan news"
+msgstr "%s [%s] Klan Neuigkeiten"
+
+msgid "News of the %s [%s] clan"
+msgstr "Neuigkeiten des %s [%s] Clans"
+
+msgid "Demo mode"
+msgstr "Demo Modus"
+
+msgid "Free plan"
+msgstr "Kostenlose Mitgliedschaft"
+
+msgid "Base plan"
+msgstr "Basis Mitgliedschaft"
+
+msgid "Premium plan"
+msgstr "Premium Mitgliedschaft"
+
+msgid "The next update will be available through"
+msgstr "Das nächste Update wird verfügbar sein in"
+
+msgid "You can now update data for this clan"
+msgstr "Du kannst jetzt die Daten für diesen Clan aktualisieren"
+
+msgid "Expired"
+msgstr "Ablaufdatum"
+
+msgid "The data will be updated throughout the day"
+msgstr "Die Daten werden im Laufe des Tages aktualisiert"
+
+msgid "hour(s)"
+msgstr "Stunden"
+
+msgid "Update data"
+msgstr "Daten aktualisieren"
+
+msgid "Upgrade to base plan"
+msgstr "Auf Basis Mitgliedschaft hochstufen"
+
+msgid "Upgrade to premium plan"
+msgstr "Auf Premium Mitgliedschaft hochstufen"
+
+msgid "Refresh data"
+msgstr "Daten aktualisieren"
+
+msgid "The task is queued in"
+msgstr "Die Aufgabe ist geplant in"
+
+msgid "Find clan"
+msgstr "Finde Clan"
+
+msgid "Clan page URL"
+msgstr "Clan Seiten URL"
+
+msgid "Looks like wrong link"
+msgstr "Das war ein ungültiger Link"
+
+msgid "Can't get information about [%s] clan (id %s) from WorldOfTanks server"
+msgstr "Kann keine Informationen zu [%s] (id %s) vom WorldOfTanks Server abrufen"
+
+msgid "WOT server '%s' not supported"
+msgstr "WoT Server '%s' wird nicht unterstützt"
+
+msgid "Clan has been added to task queue"
+msgstr "Clan wurde zur Task-Warteschlange hinzugefügt"
+
+msgid "Wot clan statistics"
+msgstr "WoT Clan Statistiken"
+
+msgid "Prolongation of the base plan"
+msgstr "Verlängerung der Basis Mitgliedschaft"
+
+msgid "Prolongation of the premium plan"
+msgstr "Verlängerung der Premium Mitgliedschaft"
+
+msgid "Quantity of the top vehicles"
+msgstr "Anzahl der Tierx Fahrzeuge"
+
+msgid "Too many selected items in list: %s. Please select only the most suitable."
+msgstr "Es wurden zuviele Elemente ausgewählt: %s. Bitte wählen Sie nur die passendsten."
+
+msgid "Badge"
+msgstr "Abzeichen"
+
+msgid "Tank companies"
+msgstr "Panzer Kompanien"
+
+msgid "Companies"
+msgstr "Kompanien"
+
+msgid "Company"
+msgstr "Kompanie"
+
+msgid "Rename"
+msgstr "Umbenennen"
+
+msgid "Rename company"
+msgstr "Kompanie umbenennen"
+
+msgid "Add members"
+msgstr "Mitglieder hinzufügen"
+
+msgid "Add selected"
+msgstr "Ausgewählte hinzufügen"
+
+msgid "For selected members"
+msgstr "für ausgewählte Mitglieder"
+
+msgid "Select action"
+msgstr "Aktion auswählen"
+
+msgid "Remove from company"
+msgstr "von der Kompanie entfernen"
+
+msgid "Remove from key stuff"
+msgstr "von der Grundstruktur entfernen"
+
+msgid "Add to key stuff"
+msgstr "zur Grundstruktur hinzufügen"
+
+msgid "Save members roles in setup"
+msgstr "Rolle des Mitglied im Setup festlegen"
+
+msgid "Execute"
+msgstr "Ausführen"
+
+msgid "Select members for company"
+msgstr "Mitglieder für Kompanie auswählen"
+
+msgid "New setup"
+msgstr "Neues Setup"
+
+msgid "Company members"
+msgstr "Kompanie Mitglied"
+
+msgid "Remove company"
+msgstr "Kompanie löschen"
+
+msgid "Company setups"
+msgstr "Kompanie Setups"
+
+msgid "Company setup"
+msgstr "Kompanie Setup"
+
+msgid "Back to company edit"
+msgstr "zurück zum Kompanie editieren"
+
+msgid "Back to setup view"
+msgstr "zurück zur Setup Ansicht"
+
+msgid "Back to clan management page"
+msgstr "zurück zur Clan Verwaltung"
+
+msgid "Current setup for company cannot be removed"
+msgstr "Aktuelles Setup für Kompanie kann nicht entfernt werden"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Remove setup"
+msgstr "Setup entfernen"
+
+msgid "New company"
+msgstr "Neue Kompanie"
+
+msgid "For daily automatic updates of data, you can switch to the base plan"
+msgstr "für tägliche automatische Aktualisierungen kannst du zur Basis Mitgliedschaft wechseln"
+
+msgid "With premium mode, you can view detailed info about models of tanks, which used by player, for these periods"
+msgstr "Mit der Premium Mitgliedschaft kannst du detaillierte Informationen über die Panzer sehen, die in dieser Zeit von den Spielern gefahren wurden"
+
+msgid "Tag"
+msgstr "Marke"
+
+msgid "Form a company"
+msgstr "Eine Kompanue erstellen"
+
+msgid "Select members for new company"
+msgstr "Mitglieder für eine neue Kompanie auswählen"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Default company setup"
+msgstr "Standardsetup der Kompanie"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Tier"
+msgstr "Tier"
+
+msgid "absolute"
+msgstr "Absolut"
+
+msgid "champion"
+msgstr "Champion"
+
+msgid "middle"
+msgstr "Mittlere"
+
+msgid "junior"
+msgstr "Junior"
+
+msgid "No tank has been selected"
+msgstr "Es wurde kein Panzer ausgewählt"
+
+msgid "Company TAG must bee latin character or digit"
+msgstr "Kompanie Kürzel muss lateinische Buchstaben oder Ziffern enthalten"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Apply"
+msgstr "Zuweisen"
+
+msgid "Common data"
+msgstr "Allgemeine Daten"
+
+msgid "Click on name or tamk icon for edit or delete setup"
+msgstr "Zum Editieren oder Löschen des Setups auf Name oder Panzersymbol klicken"
+
+msgid "[C]"
+msgstr "[C]"
+
+msgid "Duplicate company tag"
+msgstr "Kompanie Abzeichen kopieren"
+
+msgid "Membership in companies (by tags)"
+msgstr "Mitgliedschaft in Kompanien (nach Kürzel)"
+
+msgid "Number of battles for last 7 days"
+msgstr "Anzahl der Gefechte in den letzten 7 Tagen"
+
+msgid "Number of battles for last 30 days"
+msgstr "Anzahl der Gefechte in den letzten 30 Tagen"
+
+msgid "Win rate in battles for last 7 days"
+msgstr "Siegquote in den letzten 7 Tagen"
+
+msgid "Win rate in battles for last 30 days"
+msgstr "Siegquote in den letzten 30 Tagen"
+
+msgid "Total number of battles on account"
+msgstr "Anzahl der Gefechte auf diesem Konto"
+
+msgid "Total win rate on account"
+msgstr "Gesamtsiegquote auf diesem Konto"
+
+msgid "Total win rate on vehicle / Total number of battles on vehicle"
+msgstr "Gesamtsiegquote auf Fahrzeug / Gesamtanzahl der Gefechte auf Fahrzeug"
+
+msgid "User's status from clan-panel profile"
+msgstr "Benutzerstatus von Clan-Panel Profil"
+
+msgid "How many days ago, a user has updated his profile in clan-panel"
+msgstr "Wieviele Tage ein Benutzer sein Profil nicht aktualisiert hat im Clan-Panel"
+
+msgid "Wrong value '%s' for tank '%s'. Correct value 1 ... 15"
+msgstr "Falscher Wert '%s' für Panzer '%s'. Gültige Werte 1 ... 15"
+
+msgid "Wrong total number of tanks in setup: %d. Must be 1 ... 15"
+msgstr "Falsche Anzahl von Panzer im Setup: %d. Muss zwischen 1 ... 15 sein"
+
+msgid "Edit vehicles"
+msgstr "Fahrzeuge bearbeiten"
+
+msgid "setup"
+msgstr "Setup"
+
+msgid "Stuff list"
+msgstr "Mitgliederliste"
+
+msgid "Summary"
+msgstr "Zusamenfassung"
+
+msgid "By models of tanks"
+msgstr "nach Typ des Panzers"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Tops"
+msgstr "TierX"
+
+msgid "Membership in clan, days"
+msgstr "Clan Mitgliedschaft in Tagen"
+
+msgid "Show/Hide"
+msgstr "Anzeigen/Verstecken"
+
+msgid "Attendance"
+msgstr "Teilnahme"
+
+msgid "Clan actions"
+msgstr "Clan Aktionen"
+
+msgid "New report"
+msgstr "Neuer Report"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Duration"
+msgstr "Dauer"
+
+msgid "commander"
+msgstr "Kommandant"
+
+msgid "Compiler"
+msgstr "Verfasser"
+
+msgid "Approve"
+msgstr "Genehmigen"
+
+msgid "Approved"
+msgstr "Genehmigt"
+
+msgid "Note"
+msgstr "Hinweis"
+
+msgid "Training"
+msgstr "Training"
+
+msgid "CW battles"
+msgstr "CW Gefechte"
+
+msgid "Absolute company"
+msgstr "Absolute Kompanie"
+
+msgid "Not absolute company"
+msgstr "Nicht Absolute Kompanie"
+
+msgid "Stronghold"
+msgstr "Festung"
+
+msgid "New clan action"
+msgstr "Neues Clan Ereigniss"
+
+msgid "Clan action"
+msgstr "Klan Ereigniss"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Finish"
+msgstr "Ende"
+
+msgid "Select participants"
+msgstr "Teilnehmer auswählen"
+
+msgid "Participants"
+msgstr "Teilnehmer"
+
+msgid "Create report"
+msgstr "Report erstellen"
+
+msgid "Time zone"
+msgstr "Zeitzone"
+
+msgid "training"
+msgstr "Training"
+
+msgid "CW"
+msgstr "CК"
+
+msgid "Participated in CW battles"
+msgstr "Teilgenommen in CW Gefechten"
+
+msgid "absolute company"
+msgstr "Absolute Kompanie"
+
+msgid "not absolute company"
+msgstr "Nicht Absolute Kompanie"
+
+msgid "stronghold"
+msgstr "Festung"
+
+msgid "Victories cannot be more than battles"
+msgstr "Anzahl der Siege kann nicht höher als Anzahl der Gefechte sein"
+
+msgid "Action needs to have the one commander"
+msgstr "Das Ereignis muss einen Kommandanten haben"
+
+msgid "The date and time displayed on the time zone:"
+msgstr "Das Datum und die Uhrzeit angezeigt auf der Zeitzone:"
+
+msgid "Add participants of the action"
+msgstr "Teilnehmer des Ereigniss hinzufügen"
+
+msgid "Back to action edit"
+msgstr "zurück zum Ereigniss editieren"
+
+msgid "Remove entire report"
+msgstr "Kompletten Bericht löschen"
+
+msgid "Remove selected members and replays from report"
+msgstr "Entferne ausgewählte Mitglieder und Replays von Bericht"
+
+msgid "Enter comment for rating (start with '-', if rating is negative)"
+msgstr "Gib einen Kommentar für die Bewertung ein (Start mit '-', wenn Bewertung negativ ist)"
+
+msgid "Rollback to editing"
+msgstr "Zurück zur Bearbeitung"
+
+msgid "Reports"
+msgstr "Berichte"
+
+msgid "CA"
+msgstr "CE"
+
+msgid "Participate in clan events"
+msgstr "Teilgenommen an Clan Ereignissen"
+
+msgid "Over the past %d days has been involved in %d of the %d clan events"
+msgstr "In den letzten %d Tagen an %d von %d Clan Ereignissen teilgenommen"
+
+msgid "Activity of commanders"
+msgstr "Aktivität der Kommandanten"
+
+msgid "Trn"
+msgstr "Trn"
+
+msgid "Abs"
+msgstr "Abs"
+
+msgid "Oth"
+msgstr "Oth"
+
+msgid "SH"
+msgstr "SH"
+
+msgid "Including"
+msgstr "Einschließlich"
+
+msgid "Total number of events, lead by commander"
+msgstr "Gesamtzahl der Ereignisse, geleitet durch Kommandanten"
+
+msgid "Number of training sessions, lead by commander"
+msgstr "Gesamtzahl der Trainings, geleitet durch Kommandanten"
+
+msgid "Number of CW tournaments, lead by commander"
+msgstr "Gesamtzahl der Clanwars Gefechte, geleitet durch Kommandanten"
+
+msgid "Number of tournaments in random battles between absolute tank companies, lead by commander"
+msgstr "Gesamtzahl der Turniere als Absolut Kompanie in Zufallsgefechten, geleitet durch Kommandanten"
+
+msgid "Number of tournaments in random battles between non-absolute tank companies, lead by commander"
+msgstr "Gesamtzahl der Turniere als Nicht-Absolut Kompanie in Zufallsgefechten, geleitet durch Kommandanten"
+
+msgid "Number of tournaments in 7/42 format, lead by commander"
+msgstr "Gesamtzahl der Turniere im 7/42 Format, geleitet durch Kommandanten"
+
+msgid "Number of tournaments in Stronghold, lead by commander"
+msgstr "Gesamtzahl der Festungsgefechte, geleitet durch Kommandanten"
+
+msgid "By days"
+msgstr "nach Tagen"
+
+msgid "%sToday "
+msgstr "%sHeute "
+
+msgid "%sStart of data collection "
+msgstr "%sBeginn der Datenaufzeichnung "
+
+msgid "%sCustom border for data collection "
+msgstr "%sBenutzerdefinierte Grenze für Datenaufzeichnung "
+
+msgid "%sBattles: %d Victories: %d(%d%%) "
+msgstr "%sGefechte: %d Siege: %d(%d%%) "
+
+msgid "Full history activity of account"
+msgstr "Gesamte Historie des Konto"
+
+msgid "Complete history of battles on the tank"
+msgstr "Komplette Historie der Gefechte auf diesem Panzer"
+
+msgid "Account activity"
+msgstr "Konto Aktivität"
+
+msgid "Replays"
+msgstr "Replays"
+
+msgid "Add replay(s)"
+msgstr "Replay(s) hinzufügen"
+
+msgid "Map"
+msgstr "Karte"
+
+msgid "Tank"
+msgstr "Panzer"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Select replay(s) for upload"
+msgstr "Replay(s) zum Hochladen auswählen"
+
+msgid "Victory"
+msgstr "Sieg"
+
+msgid "Countdown to deleting, hours"
+msgstr "Countdown zum Löschen in Stunden"
+
+msgid "Add another .wotreplay file"
+msgstr "Eine weitere .wotreplay Datei hinzufügen"
+
+msgid "during the last 30 days"
+msgstr "innerhalb der letzten 30 Tage"
+
+msgid "from scratch"
+msgstr "manuell eingeben"
+
+msgid "from .wotreplay file"
+msgstr "von .wotreplay Datei"
+
+msgid "Select .wotreplay file for new report"
+msgstr "Wähle .wotreplay Datei für neuen Bericht aus"
+
+msgid "In what timezone this file was created?"
+msgstr "In welcher Zeitzone wurde diese Datei erstellt?"
+
+msgid "In what timezone these files was created?"
+msgstr "In welcher Zeitzone wurden diese Dateien erstellt?"
+
+msgid "Contacts"
+msgstr "Kontakte"
+
+msgid "Read about functions of attendance control"
+msgstr "Lies mehr über die Funktionen der Anwesenheitskontrolle"
+
+msgid "Compare plans"
+msgstr "Mitgliedschaften vergleichen"
+
+msgid "Available languages"
+msgstr "Verfügbare Sprachen"
+
+msgid "Site news"
+msgstr "Neuigkeit"
+
+msgid "More news"
+msgstr "Mehr Neuigkeit"
+
+msgid "Read"
+msgstr "Lesen"
+
+msgid "Never"
+msgstr "Nie"
+
+msgid "Back to company view"
+msgstr "zurück zur Kompanie Ansicht"
+
+msgid "Read about functions of clan's companies"
+msgstr "Lies mehr über die Funktionen der Clan Kompanien"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Personnel"
+msgstr "Personal"
+
+msgid "Tops purchase"
+msgstr "TierX kaufen"
+
+msgid "Experience"
+msgstr "Erfahrung"
+
+msgid "Aces"
+msgstr "PanzerAsse"
+
+msgid "Nicks"
+msgstr "Nicks"
+
+msgid "Member's dossiers"
+msgstr "Mitgliederakten"
+
+msgid "Member's dossier"
+msgstr "Mitgliedsakte"
+
+msgid "Days in clan"
+msgstr "Tage im Clan"
+
+msgid "Current status"
+msgstr "Aktueller Status"
+
+msgid "Dossier"
+msgstr "Akte"
+
+msgid "There is member's dossier"
+msgstr "Es gibt Aufzeichnungen in der Personalakte des Mitglieds"
+
+msgid "CW activity for the period"
+msgstr "CW Aktivität für diese Periode"
+
+msgid "Full history of the CW activity for account"
+msgstr "Komplette CW Historie für dieses Konto"
+
+msgid "Activity in CW battles for last %d days"
+msgstr "Aktivität in CW Gefechten in den letzten %d Tagen"
+
+msgid "Player vehicles"
+msgstr "Fahrzeuge des Spielers"
+
+msgid "days remaining"
+msgstr "Tage verbleibend"
+
+msgid "Exploring World of Tanks clan"
+msgstr "Daten zu World of Tanks Clan werden geladen"
+
+msgid "Please, complete a small puzzle by dragging the missing elements into place"
+msgstr "Bitte komplettiere folgendes kleines Puzzle indem Du die fehlenden Elemente in die richtige Position ziehst"
+
+msgid "Add clan to database"
+msgstr "Clan zur Datenbank hinzufügen"
+
+msgid "Error on exploring World of Tanks clan"
+msgstr "Fehler beim Laden der Daten des World of Tanks Clan"
+
+msgid "I can not get info about clan with ID"
+msgstr "Ich kann zu dieser Clan ID keine Informationen abrufen"
+
+msgid "Return to main page"
+msgstr "zur Hauptseite zurückkehren"
+
+msgid "Initial data loading"
+msgstr "Erstmalige Datenaktualisierung"
+
+msgid "Loading data for a clan may take few minutes, and depend on the current load on the server"
+msgstr "Das Aktualisieren der Clan Daten kann ein paar Minuten dauern, abhängig von der Last des Servers"
+
+msgid "At the moment there is no news"
+msgstr "Zur Zeit gibt es keine Neuigkeiten"
+
+msgid "Data will be updated for few minutes"
+msgstr "Die Daten werden in den nächsten Minuten aktualisiert"
+
+msgid "Free trial"
+msgstr "Kostenlose Testversion"
+
+msgid "Activate the trial period"
+msgstr "Kostenlose Testversion aktivieren"
+
+msgid "Your tanks in hangar"
+msgstr "Deine Panzer in der Garage"
+
+msgid "Replay view"
+msgstr "Replay ansehen"
+
+msgid "Please, wait for a few minutes, processing"
+msgstr "Bitte ein paar Minuten warten, wird verarbeitet..."
+
+msgid "Download .wotreplay file"
+msgstr ".wotreplay Datei runterladen"
+
+msgid "Player"
+msgstr "Spieler"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Result"
+msgstr "Ergebniss"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Draw"
+msgstr "Unentschieden"
+
+msgid "Defeat"
+msgstr "Niederlage"
+
+msgid "Battle chat"
+msgstr "Chat im Gefecht"
+
+msgid "Ally"
+msgstr "Verbündeter"
+
+msgid "Enemy"
+msgstr "Gegner"
+
+msgid "Alive"
+msgstr "Am Leben"
+
+msgid "Experience points"
+msgstr "Erfahrungspunkte"
+
+msgid "Damage"
+msgstr "Schaden"
+
+msgid "Shots"
+msgstr "Schüsse"
+
+msgid "Capture"
+msgstr "Erobern"
+
+msgid "Potential damage received"
+msgstr "Potentiell erhaltener Schaden"
+
+msgid "Mileage"
+msgstr "gefahrene Kilometer"
+
+msgid "Killed"
+msgstr "Abschüsse"
+
+msgid "Damaged"
+msgstr "Beschädigt"
+
+msgid "Spotted"
+msgstr "Aufgeklärt"
+
+msgid "Dealt"
+msgstr "verursacht"
+
+msgid "Assisted radio"
+msgstr "Funkunterstützung"
+
+msgid "Assisted track"
+msgstr "Kettenunterstützung"
+
+msgid "Direct hits"
+msgstr "Direkte Treffer"
+
+msgid "Piercings"
+msgstr "Durchschlagstreffer"
+
+msgid "Dropped capture points"
+msgstr "Verlorene Eroberungspunkte"
+
+msgid "Capture points"
+msgstr "Eroberungspunkte"
+
+msgid "Extended data are not available for this .wotreplay file"
+msgstr "Erweiterte Statistiken sind für diese .wotreplay Datei nicht verfügbar"
+
+msgid "Return back to report"
+msgstr "zum Bericht zurückkehren"
+
+msgid "Explosion hits"
+msgstr "Flächenschaden"
+
+msgid "To obtain information about the contents of the column, place the mouse pointer on the column header"
+msgstr "Mauszeiger über den Reiter der Spalte bewegen um weitere Informationen zu erhalten"
+
+msgid "Discuss on Forum"
+msgstr "im Forum diskutieren"
+
+msgid "Try again"
+msgstr "Nochmal probieren"
+
+msgid "OpenID error"
+msgstr "OpenID Fehler"
+
+msgid "OpenID verification failed"
+msgstr "OpenID Überprüfung fehlgeschlagen"
+
+msgid "These periods are calculated starting from the"
+msgstr "Daten werden berechnet für den Zeitraum ab"
+
+msgid "Information about your vehicles are temporarily unavailable"
+msgstr "Informationen zu deinen Fahrzeugen sind momentan nicht verfügbar"
+
+msgid "Ace tanker: %s"
+msgstr "Panzerasse: %s"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Clan's online"
+msgstr "Clan Aktivität"
+
+msgid "Read about clan's online statistic"
+msgstr "Lies mehr zu den Statistiken der Clan Aktivität"
+
+msgid "%sActive members: %d Average number of battles per member: %0.2f "
+msgstr "%sAktive Mitglieder: %d Durchschnittliche Gefechtsanzahl pro Mitglied: %0.2f "
+
+msgid "Active members"
+msgstr "Aktive Mitglieder"
+
+msgid "Current online activity"
+msgstr "Aktuelle Online-Aktivität"
+
+msgid "Data are not available"
+msgstr "Daten sind nicht verfügbar"
+
+msgid "Defense of Stronghold"
+msgstr "Verteidigung der Festung"
+
+msgid "Shedule of stronghold's battles for union"
+msgstr "Plan der Festungsgefechte für Allianz"
+
+msgid "You are member of union, coordinated by"
+msgstr "Du bist Mitglied einer Allianz, geleitet durch"
+
+msgid "You has sent invites for the next clans"
+msgstr "Du hast Einladungen für die nächsten Clans gesendet"
+
+msgid "Dismiss the union"
+msgstr "Allianz auflösen"
+
+msgid "Only clan's leader or vice-leader can dismiss union."
+msgstr "Nur Clan Kommandanten und deren Stellvertreter können eine Allianz auflösen"
+
+msgid "Leave union"
+msgstr "Allianz verlassen"
+
+msgid "Only clan's leader or vice-leader can leave union."
+msgstr "Nur Clan Kommandanten und deren Stellvertreter können eine Allianz verlassen"
+
+msgid "You have invites to next Unions"
+msgstr "Du hast Einladungen zu weiteren Allianzen"
+
+msgid "You have not invitations to any Union."
+msgstr "Du hast keine Allianzeinladung."
+
+msgid "Create Union"
+msgstr "Allianz erstellen"
+
+msgid "You can accept invite from existing union or create new union, coordinated by you."
+msgstr "Du kannst Einladungen von bereits bestehenden Allianzen annehmen oder eine durch dich geführte neue Allianz erstellen."
+
+msgid "Clan's leader or vice-leader can create new stronghold's union or join to existing union."
+msgstr "Nur Clan Kommandanten und deren Stellvertreter können eine neue Festungsallianz erstellen oder einer bestehenden beitreten."
+
+msgid "You must have <strong>level 5 stronghold and the defense period must be activated.</strong>"
+msgstr "Du musst Festungsstufe 5 erreicht und die Verteidigung aktiviert haben.</strong>"
+
+msgid "Invite clan"
+msgstr "Clan einladen"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Join"
+msgstr "Beitreten"
+
+msgid "Actuality"
+msgstr "Aktualität"
+
+msgid "Coord"
+msgstr "Koord."
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Directions"
+msgstr "Richtungen"
+
+msgid "OffDay"
+msgstr "freier Tag"
+
+msgid "Vacation"
+msgstr "Urlaub"
+
+msgid "Defence"
+msgstr "Verteidigung"
+
+msgid "Frozen"
+msgstr "Eingefroren"
+
+msgid "Invited clan already have union membership."
+msgstr "Der eingeladene Clan ist bereits Mitglied einer Allianz."
+
+msgid "Internal error. Can't find invited clan in DB."
+msgstr "Interner Fehler. Eingeladener Clan kann in der Datenbank nicht gefunden werden."
+
+msgid "Invite  to union clan"
+msgstr "Clan zu Allianz einladen"
+
+msgid "Stronghold level"
+msgstr "Festungsstufe"
+
+msgid "Defense period"
+msgstr "Verteidigungszeit"
+
+msgid "Invited clan must have level V stronghold and defence period must be set."
+msgstr "Eingeladener Clan muss Festungsstufe 5 erreicht und die Verteidigung aktiviert haben."
+
+msgid "Can't read stronghold's data from wargaming.net"
+msgstr "Daten zu Festungsmodus konnten von wargaming.net nich geladen werden"
+
+msgid "You must be union coordinator for invites sending."
+msgstr "Du musst Allianzleiter sein um Einladungen zu versenden"
+
+msgid "Defense period not set"
+msgstr "Festungsverteidigung ist nicht aktiviert"
+
+msgid "Battles for Stronghold is not available. Command center is damaged, or defense period not set"
+msgstr "Festungsgefechte sind nicht verfügbar. Hauptquartier ist beschädigt oder Verteidigung ist nicht aktiviert."
+
+msgid "is cover you."
+msgstr "beschützt dich."
+
+msgid "is attack you."
+msgstr "greift dich an."
+
+msgid "No one is attacking you."
+msgstr "Niemand greift dich an."
+
+msgid "No battles"
+msgstr "Keine Gefechte"
+
+msgid "Danger! No cover!"
+msgstr "Achtung! Keine Verbündetenverteidigung!"
+
+msgid "You are cover"
+msgstr "Du beschützt"
+
+msgid "You are attack"
+msgstr "Du greifst an"
+
+msgid "less than minute"
+msgstr "weniger als eine Minute"
+
+msgid "minutes: %d"
+msgstr "Minuten: %d"
+
+msgid "more than a day"
+msgstr "mehr als ein Tag"
+
+msgid "Data actuality"
+msgstr "Aktualität der Daten"
+
+msgid "List of clans"
+msgstr "Clanliste"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "Consolidated schedule"
+msgstr "Zusammengelegter Zeitplan"
+
+msgid "Tasks for ally"
+msgstr "Aufgaben der Allianz"
+
+msgid "[%s] are cover"
+msgstr "[%s] ist Beschützer"
+
+msgid "[%s] are attack"
+msgstr "[%s] ist Angreifer"
+
+msgid "is cover [%s]."
+msgstr "beschützt [%s]"
+
+msgid "is attack [%s]."
+msgstr "greift [%s] an."
+
+msgid "Click on clan's tag for view ally's shedule within the union, click on defense period for view the task list and shedule of defenses for ally."
+msgstr "Klicke auf den Clan-Tag für geplante Aktivitäten innerhalb der Allianz, klicke auf Verteidigungszeit für die Aufgabenansicht und Zeitplan der Verteidigung für Verbündete"
+
+msgid "Place cursor over day's cell for detailed information for that day."
+msgstr "Bewege den Mauszeiger auf den Tag für datailierte Informationen."
+
+msgid "Not covered"
+msgstr "Nicht beschützt"
+
+msgid "Attacked"
+msgstr "Angegriffen"
+
+msgid "Covered"
+msgstr "Beschützt"
+
+msgid "Legend for calendar's cells"
+msgstr "Bezeichnungen für die Kalenderzellen"
+
+msgid "green digit"
+msgstr "grüne Zahl"
+
+msgid "Number of not covered allies, available for attacks at that day"
+msgstr "Anzahl der nicht beschützten Verbündeten, für Angriffe bereit an diesem Tag"
+
+msgid "red digit"
+msgstr "rote Zahl"
+
+msgid "Number of allies who were attacked on this day by clans outside the union"
+msgstr "Anzahl der Verbündeten die von Clans außerhalb der Allianz an diesem Tag angegriffen wurden"
+
+msgid "Number of covers from the clan to allies at that day"
+msgstr "Anzahl der Verbündetenverteidigungen das Clans an diesem Tag"
+
+msgid "Number of attacks at that day from the clan to clans outside the union"
+msgstr "Anzahl der Angriffe auf Clans ausserhalb der Allianz an diesem Tag"
+
+msgid "Cover, off day or vacation"
+msgstr "Verbündetenverteidigung, freier Tag oder Urlaub"
+
+msgid "Opened day. Can be attacked by ally or enemy"
+msgstr "Kann von Verbündeten oder Gegnern angegriffen werden."
+
+msgid "Attacked by clan outside the union"
+msgstr "Angriff von Clan ausserhalb der Allianz"
+
+msgid "Number of allies, covered by clan"
+msgstr "Anzahl der Verbündeten die vom Clan beschützt werden"
+
+msgid "Number of covers from allies"
+msgstr "Anzahl der Verteidigungen durch Verbündete"
+
+msgid "Number of attacks to enemies"
+msgstr "Anzahl der Angriffe auf Gegner"
+
+msgid "Number of attacks from enemies"
+msgstr "Anzahl der Angriffe von Gegnern"
+
+msgid "When you participate in the battle for the Stronghold, your building can attack and plunder the stronger clans."
+msgstr "Wenn Du an der Schlacht um die Festung teilnimmst, kann Ihr Gebäude angreifen und stärkere Clans plündern"
+
+msgid "To prevent this, you can join an alliance with several clans and attack each other, to prevent the possibility to be attacked by enemies."
+msgstr "Um dies zu verhindern, kannst du einer Allianz mit mehreren Clans beitreten und sich dann gegenseitig angreifen, um die Möglichkeit zu verhindern von Feinden angegriffen zu werden."
+
+msgid "This site will help you coordinate your mutual attacks by automatically creating a schedule for each fighting ally."
+msgstr "Diese Seite wird Dir helfen, deine gegenseitigen Angriffe zu koordinieren, indem sie automatisch einen Zeitplan für jeden Verbündeten erstellt."
+
+msgid "This site will help you <strong>coordinate your mutual attacks</strong> by automatically creating a schedule for each fighting ally."
+msgstr "Diese Seite wird Dir helfen, deine <strong>gegenseitigen Angriffe zu koordinieren</strong>, indem sie automatisch einen Zeitplan für jeden Verbündeten erstellt."
+
+msgid "Improve your Stronghold and join us. Advansed Stronghold gives delicious cookies for all members of your clan!"
+msgstr "Verbessere deine Festung und verbünde dich mit uns. Erweiterte Festungen geben tolle Bonis für alle Mitglieder deines Clans!"
+
+msgid "Less than 24 hours"
+msgstr "weniger als 24 Studnen"
+
+msgid "Yet can't be attacked"
+msgstr "Du kannst nicht angegriffen werden"
+
+msgid "Next attack on clan [%s] (%02d %s) will be available %02d h %02d m later"
+msgstr "Nächster Angriff auf Clan [%s] (%02d %s) wird %02d h %02d m später verfügbar sein"
+
+msgid "Update stronghold's data"
+msgstr "Aktualisiere Festungsdaten"
+
+msgid "Join to union or create new"
+msgstr "Einer Allianz beitreten oder eine neue erstellen"
+
+msgid "Tasks for clan"
+msgstr "Aufgaben des Clans"
+
+msgid "Can receive protection from following clans"
+msgstr "kann von folgenden Clans verteidigt werden"
+
+msgid "Next clans can't protect"
+msgstr "nächste Clans können nicht beschützen"
+
+msgid "No one can protect"
+msgstr "Niemand kann beschützen"
+
+msgid "Stronghold frozen"
+msgstr "Festung eingefroren"
+
+msgid "Neutrality"
+msgstr "Neutralität"
+
+msgid "Same defense period"
+msgstr "Gleiche Verteidigungszeit"
+
+msgid "Maximum number of attack at this day"
+msgstr "Maximale Anzahl der Angriffe an diesem Tag"
+
+msgid "Will protect soon"
+msgstr "wird demnächst beschützen"
+
+msgid "Made protection recently"
+msgstr "hat kürzlich beschützt"
+
+msgid "Will be able to protect after"
+msgstr "wird wieder in der Lage sein zu beschützen nach"
+
+msgid "Click on battle time of unprotected day, to view allies, who can protect"
+msgstr "Klick auf Gefechtszeit des umbeschützten Tag, um Verbündete zu sehen die verteidigen können"
+
+msgid "Number of ally, which can be protected at that day"
+msgstr "Anzahl der Verbündeten die beschützt werden können an diesem Tag"
+
+msgid "Click on cell with green digit to view clans, which can be protected"
+msgstr "Klick auf die Zelle mit der grünen Zahl um Clans zu sehen die beschützt werden können"
+
+msgid "Schedule of stronghold's defenses for"
+msgstr "Zeitplan für Festungsverteidigungen für"
+
+msgid "Protect for allies"
+msgstr "Verbündetenverteidigung"
+
+msgid "Allies can't be protected, because the vacation period is active. Will be finished after"
+msgstr "Verbündete können nicht verteidigt werden da Urlaub aktiviert ist. Wird abgeschlossen nach"
+
+msgid "Now, all tasks for protecting allies are complete"
+msgstr "Jetzt sind alle Aufgaben für Verbündetenverteidigung abgeschlossen."
+
+msgid "Make attack to the allies according to the list below."
+msgstr "Erstelle Angriffe auf Verbündete nach der Liste unten"
+
+msgid "You can not attack a same clan more than once"
+msgstr "Du kannst einen Clan nur einmal angreifen."
+
+msgid "You can not attack a few clans in one day and the hour"
+msgstr "Du kannst nicht mehrere Clans am selben Tag zur gleichen Stunde angreifen"
+
+msgid "select one option, if their proposed several"
+msgstr "Eine Option wählen, wenn mehrere Angeboten werden"
+
+msgid "Defense settings"
+msgstr "Einstellungen zur Verteidigung"
+
+msgid "Defense settings will be changed"
+msgstr "Einstellungen zur Verteidigung werden geändert."
+
+msgid "Set changes in defense period of"
+msgstr "Setze Änderungen in Verteidigungzeit"
+
+msgid "From which date the changes will be introduced."
+msgstr "ab welchem Datum die Änderungen gültig sind"
+
+msgid "Leave blank, to cancel changes in defense period."
+msgstr "Leer lassen um keine Änderungen an der Verteidigungszeit vorzunehmen."
+
+msgid "Select new off day"
+msgstr "Setze einen neuen freien Tag"
+
+msgid "Current"
+msgstr "Aktuell"
+
+msgid "New"
+msgstr "Neu"
+
+msgid "Select old and new hour of defense start, as you see it in game"
+msgstr "Wähle alte und neue Verteidigungszeit wie du diese im Spiel eingestellt hast"
+
+msgid "off day will change from %s to %s "
+msgstr "freier Tag wird geändert von %s auf %s "
+
+msgid "defense start hour will change from %02d:00 to %02d:00"
+msgstr "Verteidigungszeit wird geändert von %02d:00 auf %02d:00"
+
+msgid "These clans will change defense settings soon"
+msgstr "Diese Clans werden die Verteidigung bald ändern"
+
+msgid "Changes"
+msgstr "Änderungen"
+
+msgid "Restore membership"
+msgstr "Mitgliedschaft wiederherstellen"
+
+msgid "Suspend membership"
+msgstr "Mitgliedschaft stilllegen"
+
+msgid "Membership is suspended"
+msgstr "Mitgliedschaft wurde stillgelegt"
+
+msgid "This means that the clan is not included in the tasks of providing cover for the Allies"
+msgstr "Dies bedeutet das der Clan keine Aufgaben zur Verbündetenverteidigung hat"
+
+msgid "Existing cover is still displayed"
+msgstr "Bestehende Verbündetenverteidigung wird immer noch angezeigt"
+
+msgid "You can restore the union membership by clicking the appropriate button at the bottom of the page"
+msgstr "Du kannst die Allianzzugehörigkeit wiederherstellen indem du auf den zugehörigen Button am Ende der Seite klickst"
+
+msgid "Are you want to leave union, which coordinates"
+msgstr "Möchtest du die Allianz verlassen die geleitet wird durch"
+
+msgid "Remove from union clan"
+msgstr "Clan von Allianz entfernen"
+
+msgid "Defense"
+msgstr "Verteidigung"
+
+msgid "Attack"
+msgstr "Angriff"
+
+msgid "Battle against enemy"
+msgstr "Gefecht gegen Feind"
+
+msgid "Battles inside the union are marked in green."
+msgstr "Gefechte innerhalb der Allianz sind grün markiert."
+
+msgid "You do not have fight in these battles."
+msgstr "Sie müssen nicht an diesen Kämpfen teilnehmen."
+
+msgid "Number of not covered defenses"
+msgstr "Anzahl der nicht beschützten Verteidigungen"
+
+msgid "If the day doesn't change, select current day."
+msgstr "Wenn sich der Tag nicht ändert, wähle aktuellen Tag"
+
+msgid "For example for the date of March 10, 2015 the value of the field should be 2015-03-10."
+msgstr "Als Beispiel für den 10 März 2015, sollte der Wert in dem Feld 2015-03-10 sein."
+
+msgid "If the defense period doesn't change, select current period."
+msgstr "Wenn die Verteidigungszeit sich nicht ändert, wähle die aktuelle."
+
+msgid "Automatically detected on the site"
+msgstr "Automatisch erkannt auf der Webseite"
+
+msgid "Fill data"
+msgstr "Daten befüllen"
+
+msgid "This data was detected automatically."
+msgstr "Diese Daten wurden automatisch erkannt."
+
+msgid "Please, fill complete data about these changes in special form at this site."
+msgstr "Bitte befülle die kompletten Daten dieser Änderungen in des spezielle Feld auf dieser Seite."
+
+msgid "after"
+msgstr "nach"
+
+msgid "Participated in Stronghold's skirmishes and battles"
+msgstr "Teilgenommen an Festungsgefechten"
+
+msgid "Full history of the SH activity for account"
+msgstr "Komplette Historie der Festungsaktivität für dieses Konto"
+
+msgid "SH activity for the period"
+msgstr "Festungsaktivität für diesen Zeitraum"
+
+msgid "Activity in Stronghold's battles and skirmishes for last %d days"
+msgstr "Festungsaktivität für die letzten %d Tage"
+
+msgid "Number of available clan's tasks"
+msgstr "Anzahl der verfügbaren Clan Aufgaben"
+
+msgid "Tasks"
+msgstr "Aufgaben"
+
+msgid "Received"
+msgstr "Erhalten"
+
+msgid "Gave"
+msgstr "gab"
+
+msgid "Board of Shame"
+msgstr "Tafel der Schande"
+
+msgid "These clans do not perform tasks to provide cover for allies"
+msgstr "Diese Clans erfüllen keine Aufgaben zur Verbündetenverteidigung"
+
+msgid "Update list of members and roles"
+msgstr "Aktualisiere die Liste der Mitglieder und Ränge"
+
+msgid "Allies"
+msgstr "Verbündete"
+
+msgid "Ally team total: shots, hits, piercings"
+msgstr "Verbündetes Team insgesamt: Schüsse, Treffer, Durchschläge"
+
+msgid "Enemies"
+msgstr "Gegner"
+
+msgid "Enemy team total: shots, hits, piercings"
+msgstr "Gegnerisches Team insgesamt: Schüsse, Treffer, Durchschläge"
+
+msgid "Where is our respawn?"
+msgstr "Wo ist unser Startpunkt?"
+
+msgid "Locations of bases at map"
+msgstr "Standorte der Basen auf der Karte"
+
+msgid "Clan1"
+msgstr "Clan1"
+
+msgid "Clan2"
+msgstr "Clan2"
+
+msgid "Position of the clans at the screen of formation of the team for CW battle"
+msgstr "Position der Clans beim Ladebildschirm für CW Gefechte"
+
+msgid "Position of the team's bases at the map"
+msgstr "Positionen der Teambasen auf der Karte"
+
+msgid "Recent attacks"
+msgstr "Kürzliche Angriffe"
+
+msgid "You can't invite new members in this union. Maximum number of invites and members are reached."
+msgstr "Du kannst keine weiteren Mitglieder zu dieser Allianz einladen. Maximale Anzahl von Mitgliedern erreicht."
+
+msgid "You can invite clans"
+msgstr "Du kannst weitere Clans einladen"
+
+msgid "Graph of the defense period for members of union."
+msgstr "Grafik der Verteidigungszeit für Allianzmitglieder"
+
+msgid "Locate cursor over bar of hour for view members with this time."
+msgstr "Bewege der Mauszeiger über den Balken der Stunde um Mitglieder in dieser Zeit zu sehen"
+
+msgid "Contact information for"
+msgstr "Kontaktinformationen für"
+
+msgid "Fill data for allies to contact you."
+msgstr "Befülle die Kontaktinformationen für Verbündete."
+
+msgid "For example: clan's voice chat address, nicknames of clanmates for contact and so on."
+msgstr "Als Beispiel: Clans Teamspeak Adresse, Spielernamen die zu kontaktieren sind usw."
+
+msgid "Fill contact information"
+msgstr "Befülle die Kontaktinformationen"
+
+msgid "Attack another clan at this time"
+msgstr "Greife einen anderen Clan in dieser Zeit an"
+
+msgid "Offday will be changed"
+msgstr "Der freie Tag wird geändert"
+
+msgid "Defense hour will be changed"
+msgstr "Verteidigungszeit wird geändert"
+
+msgid "Will be moved"
+msgstr "wird umgezogen"
+
+msgid "ahead"
+msgstr "vorraus"
+
+msgid "ago"
+msgstr "zurück"
+
+msgid "Date of changes must be specified"
+msgstr "Das Datum der Änderung muss angegeben werden"
+
+msgid "At least one change must be specified"
+msgstr "Mindestens eine Änderung muss angegeben werden"
+
+msgid "Manual for defense of Stronghold"
+msgstr "Anleitung zur Verteidigung der Festung"
+
+msgid "Effectiveness of cover"
+msgstr "Effektivität der Verbündetenverteidigung"
+
+msgid "The stronghold of your clan was plundered?"
+msgstr "Wurde deine Festung geplündert?"
+
+msgid "Let's defend!"
+msgstr "Lass uns verteidigen!"
+
+msgid "Search for SH attacks"
+msgstr "Suche nach Festungsangriffen"
+
+msgid "SH level"
+msgstr "Festungsstufe"
+
+msgid "Defense hour"
+msgstr "Verteidigungsstunde"
+
+msgid "Max position in rating"
+msgstr "Maximale Position in Wertung"
+
+msgid "Find"
+msgstr "Finde"
+
+msgid "remain"
+msgstr "verbleibt"
+
+msgid "Next battle"
+msgstr "Nächstes Gefecht"
+
+msgid "Click on clan's tag to view list of days, when you can attack"
+msgstr "Klick auf das Clan Kürzel um die Liste der Tage zu sehen wann du angreifen kannst"
+
+msgid "Available attacks"
+msgstr "Verfügbare Angriffe"
+
+msgid "No clans, which meet the conditions"
+msgstr "Keine Clans die den Vorraussetzungen entsprechen"
+
+msgid "Bildings"
+msgstr "Gebäude"
+
+msgid "You can't attack at this hour"
+msgstr "Du kannst nicht in dieser Stunde angreifen"
+
+msgid "Available attacks on"
+msgstr "Verfügbare Angriffe"
+
+msgid "Position into WG rating"
+msgstr "Rang in WG Wertung"
+
+msgid "Average bilding's level"
+msgstr "durchschnittliche Gebäudestufe"
+
+msgid "Click to view tips for locations of bases into Clan War battles"
+msgstr "Klick hier um Tipps zu Positionen der Basen in CW Gefechten zu sehen"
+
+msgid "This function available for paid plans."
+msgstr "Diese Funktion ist nur in der Basis oder Premium Mitgliedschaft verfügbar."
+
+msgid "Free premium trial"
+msgstr "Kostenlose Probe Premium Mitgliedschaft"
+
+msgid "Rate"
+msgstr "Wertung"
+
+msgid "Average"
+msgstr "Durchschnitt"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "you will have an opportunity to plan attack at"
+msgstr "du hast die Möglichkeit einen Angriff zu planen um"
+
+msgid "against the following clans"
+msgstr "gegen die folgenden Clans"
+
+msgid "Your membership in union has been suspended by coordinator. Please, ask coordinators about restoring membership."
+msgstr "Deine Mitgliedschaft in der Allianz wurde stillgelegt. Bitte wende dich an den Leiter der Allianz um diese wiederherzustellen."
+
+msgid "Return"
+msgstr "Rückkehr"
+
+msgid "will be available for attacks"
+msgstr "wird für Angriffe verfügbar sein"
+
+msgid "clan(s)"
+msgstr "Clan(s)"
+
+msgid "Previos"
+msgstr "früher"
+
+msgid "Page not found"
+msgstr "Seite wurde nicht gefunden"
+
+msgid "It might have been moved or deleted, or perhaps specified the wrong URL."
+msgstr "Diese wurde eventuell verschoben, gelöscht oder es wurde die falsche URL angegeben."
+
+msgid "Calculator of payments"
+msgstr "Rechner für Zahlungen"
+
+msgid "Start date"
+msgstr "Startdatum"
+
+msgid "End date"
+msgstr "Enddatum"
+
+msgid "Points for clan action"
+msgstr "Punkte für Clan Ereignisse"
+
+msgid "Points for CW battle"
+msgstr "Punkte für CW Gefechte"
+
+msgid "Points for SH battle"
+msgstr "Punkte für Festungsgefechte"
+
+msgid "Calculate"
+msgstr "Berechnen"
+
+msgid "Archeve of clan's news"
+msgstr "Archiv der Clan Neuigkeiten"
+
+msgid "Hour"
+msgstr "Stunde"
+
+msgid "Period, hours"
+msgstr "Zeit, Stunden"
+
+msgid "during hours"
+msgstr "während der Stunden"
+
+msgid "Active members in the last"
+msgstr "Aktive Mitglieder in den letzten"
+
+msgid "View"
+msgstr "Ansicht"
+
+msgid "I'm here"
+msgstr "Ich bin hier"
+
+msgid "Location"
+msgstr "Standort"
+
+msgid "not specified"
+msgstr "nicht angegeben"
+
+msgid "Clanmates on the map"
+msgstr "Clan Mitglieder auf der Karte"
+
+msgid "members list"
+msgstr "Mitgliederliste"
+
+msgid "is marked on the map?"
+msgstr "ist auf der Karte markiert?"
+
+msgid "Show on the map"
+msgstr "auf der Karte zeigen"
+
+msgid "specify your location"
+msgstr "Gib deinen Standort an"

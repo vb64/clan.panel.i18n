@@ -1,0 +1,15 @@
+Hi!
+
+<p>
+Latest clan [{{clan.tag}}] news:
+</p>
+
+<ul>
+
+{% for event in news %}
+<li>{{event|safe}}</li>
+{% endfor %}
+
+</ul>
+
+Regards, {{host}} Team.

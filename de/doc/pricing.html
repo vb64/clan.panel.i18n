@@ -1,0 +1,80 @@
+{% extends "doc/main.html" %}
+{% load i18n %}
+
+{% block h_title %}Clan-panel plans and pricing{% endblock %}
+
+{% block content %}
+
+<h2>Clan-panel pricing</h2>
+
+<p>
+Clan-panel is completely free to start. But for those who need more, the Base and Premium plans delivers more features at a great value.
+</p>
+
+<div class="table-container table-responsive">
+<table class="table table-hover">
+
+<thead>
+<tr><th></th><th>Free plan</th><th>Base plan</th><th>Premium plan</th></tr>
+</thead>
+
+<tr>
+<td>
+<ul>
+<li><a href="{% url action_doc_page page='clan_news' %}">Track events</a> of the clan</li>
+<li>Keeping <a href="{% url action_doc_page page='top_vehicles' %}">records of the top-tanks</a></li>
+<li>Tracking the <a href="{% url action_doc_page page='members_activity' %}">current activity</a> of clan members</li>
+<li>Forming and supporting <a href="{% url action_doc_page page='company' %}">tank companies</a></li>
+<li>Coordination for <a href="{% url action_doc_page page='stronghold' %}">defense of Stronghold</a></li>
+</ul>
+</td>
+<td><img alt="Yes" src="/media/img/true.gif"></td>
+<td><img alt="Yes" src="/media/img/true.gif"></td>
+<td><img alt="Yes" src="/media/img/true.gif"></td>
+</tr>
+
+<tr>
+<td>
+<ul>
+<li>Data updates</li>
+</ul>
+</td>
+<td>Manually, once per tree days</td>
+<td>Automatically, daily</td>
+<td>Automatically, daily</td>
+</tr>
+
+<tr>
+<td>
+{% include "text_base.html" %}
+</td>
+<td><img alt="No" src="/media/img/false.gif"></td>
+<td><img alt="Yes" src="/media/img/true.gif"></td>
+<td><img alt="Yes" src="/media/img/true.gif"></td>
+</tr>
+
+<tr>
+<td>
+{% include "text_prem.html" %}
+</td>
+<td><img alt="No" src="/media/img/false.gif"></td>
+<td><img alt="No" src="/media/img/false.gif"></td>
+<td><img alt="Yes" src="/media/img/true.gif"></td>
+</tr>
+
+<tr class="info">
+<td><strong>Cost</strong></td>
+<td><strong>Free</strong></td>
+<td><strong>${{base_mode_usd}} per {{base_mode_days}} days</strong></td>
+<td><strong>${{prem_mode_usd}} per {{prem_mode_days}} days</strong></td>
+</tr>
+
+</table>
+</div>
+
+<p>
+<strong>How to pay.</strong> 
+Go to any page of clan by your choice, then click "Upgrade to base plan" or "Upgrade to premium plan" button at the top part of the page.
+</p>
+
+{% endblock %}

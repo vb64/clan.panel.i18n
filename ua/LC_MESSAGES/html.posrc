@@ -1,0 +1,260 @@
+msgid "Login required"
+msgstr "Потрібна авторизація"
+
+msgid "For access to certain pages of the site requires authentication on Wargaming.net OpenID"
+msgstr "Доступ до деяких сторінок сайту вимагає авторизації на серверах Wargaming.net по протоколу OpenID"
+
+msgid "Select the cluster, where is registered with your account World Of Tanks:"
+msgstr "Виберіть кластер, на якому зареєстрований ваш аккаунт WorldOfTanks:"
+
+msgid "Information about Wargaming.net clans"
+msgstr "Інформація про ігрові клани Wargaming.net"
+
+msgid "Also..."
+msgstr "А також..."
+
+msgid "If you want to have the same data on the clan that you are interested, you can use the following resources:"
+msgstr "Якщо ви хочете мати аналогічні дані по клану, що цікавить вас, ви можете скористатися наступними ресурсами:"
+
+msgid "Which clan are you interested in?"
+msgstr "Який клан вас цікавить?"
+
+msgid "For example, for wargaming.net clan [WG] (eu) address is"
+msgstr "Наприклад, сторінка клану wargaming.net [WG] (ru) має адресу:"
+
+msgid "http://eu.wargaming.net/clans/500000001/"
+msgstr "http://ru.wargaming.net/clans/1/"
+
+msgid "Who is it for?"
+msgstr "Для кого цей сайт?"
+
+msgid "Clan-panel is intended to help WorldOfTanks clan administrators (leader, deputies, recruiters, commanders) to solve typical problems:"
+msgstr "Цей сайт може допомогти адміністраторам кланів WorldOfTanks (командири, заступники, вербувальники, польові командири) у вирішенні типових проблем:"
+
+msgid "track clan events"
+msgstr "відстежування подій в клані"
+
+msgid "clan vehicles accounting"
+msgstr "облік наявної техніки"
+
+msgid "member activity accounting"
+msgstr "контроль активності учасників клану"
+
+msgid "create and manage clan companies"
+msgstr "формування і управління клановими ротами"
+
+msgid "manage of attacks and defense of Stronghold"
+msgstr "управління атаками і захистом Укріпрайону"
+
+msgid "Read documentation"
+msgstr "Читати документацію"
+
+msgid "Visit demo site"
+msgstr "Перейти на демо-сайт"
+
+msgid "Clan-panel in action"
+msgstr "Клан-панель у дії"
+
+msgid "This function is not available with free plan."
+msgstr "Ця функція недоступна в безкоштовному режимі."
+
+msgid "There are a technical problems during the authentication session via Wargaming OpenID."
+msgstr "При проведенні сесії авторизації через Wargaming Open ID виникли технічні проблеми."
+
+msgid "OpenID protocol specifically designed in order to allow for authorization without access to private data of the user account."
+msgstr "Протокол OpenID спеціально розроблений для того, щоб можна було проводити авторизацию без доступу до особистих даних облікового запису користувача."
+
+msgid "This will allow World of Tanks, World of Warplanes and future World of Warships players to <strong>safely log into third-party resources</strong> without having to register to any additional services by using their Wargaming.net ID."
+msgstr "Тепер гравці World of Tanks, World of Warplanes та майбутні гравці World of Warships можуть <strong>безпечно авторизуватися на сторонніх сайтах</strong> без додаткової реєстрації за допомогою особистого Wargaming.net ID."
+
+msgid "You refused to authenticate via Wargaming OpenID."
+msgstr "Ви відмовилися від авторизації через Wargaming OpenID."
+
+msgid "Access denied"
+msgstr "Доступ заборонено"
+
+msgid "Only clan administration can visit this page."
+msgstr "На цю сторінку можуть заходити тільки члени адміністрації клану."
+
+msgid "Only clan members can visit this page."
+msgstr "Адміністрація клану дозволила переглядати цю сторінку тільки учасникам клану."
+
+msgid "Only player clanmates can visit this page."
+msgstr "Цю сторінку дозволено переглядати тільки учасникам клану гравця."
+
+msgid "Only account owner can visit this page."
+msgstr "Цю сторінку може переглядати тільки власник облікового запису."
+
+msgid "This page available in paid modes."
+msgstr "Ця сторінка доступна в платних режимах."
+
+msgid "Only members of clans of union can visit this page."
+msgstr "Цю сторінку можуть переглядати тільки учасники кланів союзу."
+
+msgid "Click on cell into calendar for view detailed information for that day."
+msgstr "Натисніть на комірку календаря для перегляду докладних даних за цей день."
+
+msgid "The graph shows the number of battles for every hour for the selected date"
+msgstr "Графік показує кількість боїв учасника за кожну годину в обраний день"
+
+msgid "Demo accounts"
+msgstr "Демонстраційні акаунти"
+
+msgid "Here you can view detailed information about few accounts without authorisation."
+msgstr "Тут ви можете подивитися детальну інформацію по декількох акаунтах без авторизації."
+
+msgid "You are a member of the following tank companies:"
+msgstr "Ви перебуваєте в наступних танкових ротах:"
+
+msgid "You are not in a tank companies of the clan."
+msgstr "Ви не перебуваєте в кланових ротах."
+
+msgid "Your email address is verified. Message language:"
+msgstr "Ваш email адреса підтверджена. Мова повідомлень:"
+
+msgid "Attention! Your email address is not verified. At this email address sent an email with instructions to complete the verification."
+msgstr "Увага! Вашу адресу електронної пошти не підтверджено. На цю адресу електронної пошти надісланий лист з інструкціями для завершення перевірки."
+
+msgid "If you want to re-send the verification letter, clear the email field, save the settings, then enter the email address and again save the setting."
+msgstr "Якщо ви хочете відправити лист з інструкціями повторно, очистіть поле email, збережіть налаштування, а потім введіть потрібну адресу email і ще раз збережіть налаштування."
+
+msgid "You can receive reports on events in the clan, if you enter your email. (Not available in free mode)"
+msgstr "Ви можете отримувати щоденні повідомлення про події в клані, якщо вкажете свій email. (Недоступно в безкоштовному режимі)"
+
+msgid "Your current status"
+msgstr "Ваш поточний статус"
+
+msgid "Short (up to 30 characters) description of your current status to be displayed in tables. For example: <rest to July 20> or <urgent trip>"
+msgstr "Короткий (до 30 символів) опис вашого поточного статусу для відображення в таблицях. Наприклад: <відпустка до 20 липня> або <в терміновому відрядженні>"
+
+msgid "To specify your location, please click on the map and save the settings."
+msgstr "Щоб вказати своє місце розташування, клікніть по карті і збережіть налаштування."
+
+msgid "Existing marker can be dragged."
+msgstr "Поставлений маркер можна перетягувати."
+
+msgid "If you want to delete the data about your location, click on the marker."
+msgstr "Якщо ви хочете видалити дані про своє місцезнаходження, клікніть на маркері."
+
+msgid "The marker disappears, then save settings."
+msgstr "Після того як зникне маркер, збережіть налаштування."
+
+msgid "The graph shows the number of battles for every hour for the current period"
+msgstr "Графік показує кількість боїв учасника за кожну годину за останній час"
+
+msgid "Take into consideration the statistic for the period from that date."
+msgstr "Брати до уваги статистику за період, починаючи з цієї дати."
+
+msgid "Leave blank, to start since the first update."
+msgstr "Залиште поле порожнім, для обліку з моменту першого поновлення даних."
+
+msgid "Only clan members can visit clan pages (Not available in free mode)"
+msgstr "Тільки члени клану можуть заходити на кланові сторінки (Недоступно в безкоштовному режимі)"
+
+msgid "Alternate titles for clan positions"
+msgstr "Альтернативні назви кланових посад"
+
+msgid "Access rights to <Management> section and approving reports in <Attendance> section."
+msgstr "Доступ до розділу 'Управління' і затвердження звітів в розділі 'Відвідування'."
+
+msgid "The leader of the clan and vice-leaders always have access. Recruits do not have access."
+msgstr "Командир клану і його заступники завжди мають доступ. Новобранці не мають доступу."
+
+msgid "Specify which of the other clan members must have access to."
+msgstr "Задайте, хто з інших учасників клану повинен мати доступ."
+
+msgid "Click on the marker to view clanmate's name and rank."
+msgstr "Натисніть на маркері, щоб бачити нік і звання сокланівців."
+
+msgid "You can "
+msgstr "Ви можете"
+
+msgid "The calendars shows the number of clan members who has battles on a certain day."
+msgstr "У календарях показано число учасників клану, у яких були бої в певний день."
+
+msgid "Example"
+msgstr "Приклад"
+
+msgid "With premium mode, you can view consolidated online of the clan per hours"
+msgstr "У преміум режимі ви можете переглядати зведений онлайн клану по годинах доби"
+
+msgid "Graph of the battles by clan members per hours."
+msgstr "Графік боїв учасників клану по годинах доби."
+
+msgid "Click on bar of hour for view active members list"
+msgstr "Натисніть на стовбчику години для перегляду активних учасників за цей час"
+
+msgid "Except the data for the current hour. These data will be available at the beginning of the next hour."
+msgstr "Крім даних за поточну годину. Ці дані будуть доступні на початку наступної години."
+
+msgid "During this period, the following members of the clan took part in the battles."
+msgstr "Протягом цього періоду, наступні члени клану брали участь в боях."
+
+msgid "Functions of attendance control is not available in the free mode."
+msgstr "Функції розділу Відвідування недоступні в безкоштовному режимі обслуговування"
+
+msgid "But you can get a <strong>free month</strong> of service in the 'base' plan and try function capability."
+msgstr "Але ви можете <strong>безкоштовно отримати місяць обслуговування</strong> в базовому режимі і спробувати можливості функції."
+
+msgid "Statistical data of clan's online is not available in the free mode."
+msgstr "Статистика по-добового зведеного онлайну клану недоступна в безкоштовному режимі обслуговування."
+
+msgid "Hourly statistical data will be available for premium plan."
+msgstr "Статистика по-годинного онлайну клану доступна в преміум-режимі."
+
+msgid "Attention! Operation canceled."
+msgstr "Увага! Операція скасована."
+
+msgid "Now comes the update statistics for a clan. To prevent conflicts, data modifications are now locked. Wait for the update session and retry the operation."
+msgstr "Зараз йде оновлення статистичних даних клану. Для запобігання конфліктів, операції зміни даних у даний момент заблоковані. Дочекайтеся завершення сеансу поновлення даних і повторіть операцію."
+
+msgid "Usually the average duration of the upgrade session is 2-3 minutes. Initial data loading  may take more time."
+msgstr "Зазвичай середня тривалість сеансу оновлення складає 2-3 хвилини. Початкове завантаження даних клану може зайняти більше часу."
+
+msgid "Company tag is a one digit or a one latin symbol, and must be unique for each company in the clan."
+msgstr "Ротний тег повинен бути однією цифрою або латинською буквою, і бути унікальним для кожної роти клану."
+
+msgid "The tag of the company cannot be changed later."
+msgstr "Тег згодом не можна змінити."
+
+msgid "Company name as it appears in table of the companies. You can change it later."
+msgstr "Назва роти, як воно буде показуватися в таблиці рот клану. Пізніше ви можете його міняти."
+
+msgid "Showing members of the clan, who does not have membership in this company, and having at least one tank from the setup "
+msgstr "Показані учасники клану, які не перебувають у цій роті, і що мають бодай один танк з сетапу "
+
+msgid "Showing all members of the clan, who does not have membership in this company."
+msgstr "Показані всі учасники клану, які не перебувають у цій роті."
+
+msgid "You can create a company commander setups - the sets of tanks, used by a company for a certain type of fights."
+msgstr "Ви можете створювати ротні сетапи, - набори танків, що використовуються ртою в боях певного типу."
+
+msgid "For example, for battles in Clan Wars for a specific map, battles with 'champion' companies, and so on."
+msgstr "Наприклад, для битв на ГК на конкретній карті, боїв в чемпіонських ротах і т.д."
+
+msgid "Click on setup name or a tank icon, for view with these settings."
+msgstr "Натисніть на назві сетапу або іконці танка, для перегляду роти з цим сетапом."
+
+msgid "Now there is no tank companies in this clan."
+msgstr "Зараз в клані немає сформованих рот."
+
+msgid "Clan administrators (leader, vice-leaders, recruiters, commanders) can create and manage tank companies in the section 'Management'."
+msgstr "Створювати і керувати ротами клану можуть кланові адміністратори (командир, заступники, вербувальники, польові) в розділі 'Управління'."
+
+msgid "This section will be available to them after login (link 'Sign in' at the top of the page)."
+msgstr "Цей розділ буде доступний їм після авторизації (посилання 'Увійти' у верхній частині сторінки)."
+
+msgid "There are a error when reading data from the wargaming.net. Please try again later."
+msgstr "При читанні даних з wargaming.net виникла помилка. Будь ласка, спробуйте пізніше ще раз."
+
+msgid "Leader or vice-leader of invited clan must accept your invite. He can find your invite after authorization in section 'Stronghold', button 'Defense of Stronghold', button 'Join to union or create new'."
+msgstr "Командир або заступник командира запрошеного клану повинен прийняти ваше запрошення. Він може знайти його після авторизації в розділі 'Укріпрайон', кнопка 'Захист укріпрайону', кнопка 'Вступити в союз або створити свій'."
+
+msgid "This clan is servicing in premium mode. Premium mode include all abilities of the base mode."
+msgstr "Цей клан обслуговується в преміум режимі. Преміум режим включає в себе всі можливості базового режиму."
+
+msgid "This statistics of the clan are updated automatically daily. Manual updating is not need."
+msgstr "Статистика клану оновлюється автоматично щодня. Ручне оновлення даних не потрібно."
+
+msgid "This clan is servicing in demo mode. Demo mode have all abilities of the premium mode, except ability to set 'clanmates only' option."
+msgstr "Цей клан обслуговується в демо-режимі. Демо-режим підтримує всі особливості преміум-режиму, за винятком можливості включити опцію 'Доступ тільки для сокланівців'."

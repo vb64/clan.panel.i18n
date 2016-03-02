@@ -1,0 +1,58 @@
+{% extends "clan/news.html" %}
+{% load i18n %}
+
+{% block service_mode %}
+{% endblock %}
+
+{% block part_content %}
+
+{% block service_mode_text %}
+<p>
+You are going to pay <strong>base plan</strong> for clan <strong>[{{clan.5}}]</strong>.
+</p>
+
+<p>
+Base plan allow daily automatic update for statistics of the clan and provides the following improvements over the free plan:
+{% include "de/text_base.html" %}
+</p>
+
+<p>
+The cost of the base plan is <strong>${{base_mode_usd}} per {{base_mode_days}} days</strong>.
+</p>
+{% endblock %}
+
+<div class="table-container table-responsive">
+<table class="table table-hover">
+
+<tr>
+<td>
+<img class="blog_title" src="/media/img/PayPal_logo_150x65.gif" {% block pp_image %}title="" alt="PayPal - The safer, easier way to pay online"{% endblock %}/>
+</td>
+
+<td>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">  
+
+{% block service_mode_button %}
+<input type="hidden" name="hosted_button_id" value="T9A369S9KY4CW">
+{% endblock %}
+
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="rm" value="2">
+<input type="hidden" name="notify_url" value="{{site_host}}{% url action_pay_ipn paysystem='paypal' %}">
+<input type="hidden" name="return" value="{{site_host}}{% url action_pay_success paysystem='paypal' %}">
+<input type="hidden" name="cancel_return" value="{{site_host}}{% url action_pay_cancel paysystem='paypal' %}">
+
+<input type="hidden" name="custom" value="{{pay_data}}">
+
+{% block pp_logo %}
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/ru_RU/i/scr/pixel.gif" width="1" height="1">
+{% endblock %}
+</form>
+</td>
+
+</tr>
+</table>
+</div>
+{% endblock %}

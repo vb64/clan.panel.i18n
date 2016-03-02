@@ -1,0 +1,21 @@
+{% extends "ru/clan/update/base.html" %}
+
+{% block service_mode_text %}
+<p>
+You are going to pay <strong>premium plan</strong> for clan <strong>[{{clan.5}}]</strong>.
+</p>
+
+<p>
+Premium plan include all abilities of the <a target="_blank" href="{% url action_doc_page page='pricing' %}">base plan</a>.
+In addition, the premium plan allows you: 
+{% include "de/text_prem.html" %}
+</p>
+
+<p>
+The cost of the premium plan is <strong>${{prem_mode_usd}} per {{prem_mode_days}} days</strong>.
+</p>
+{% endblock %}
+
+{% block service_mode_button %}
+<input type="hidden" name="hosted_button_id" value="FZJJ4RF5VHJ6E">
+{% endblock %}

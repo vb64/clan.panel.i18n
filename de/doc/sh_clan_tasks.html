@@ -1,0 +1,42 @@
+{% extends "doc/main.html" %}
+{% load i18n %}
+
+{% block h_title %}Tasks for clan{% endblock %}
+
+{% block content %}
+
+<h2>How the ally cover task list is formed for a clan</h2>
+
+<p>
+Clan tasks for a particular day are created in the following way for each day from the moment the task page is opened and for two weeks + 1 day ahead.
+</p>
+
+<p>
+The system analyzes the list of all clans in a coordination, except for the clan for which tasks are being created. The following is filtered out from this list:
+</p>
+
+<ul>
+<li>Clans that have defense planned for this day (that is, those covered or attacked by enemies)</li>
+<li>Clans with a frozen SH (damaged command center or its level is lowered to 4) and clans that suspended their membership in the coordination.</li>
+<li>Clans with the same defense hour as the ones covering them.</li>
+<li>If a covering and/or covered clan has information about defense changes in the future, clans with an identical prime during the attack are filtered out.</li>
+<li>Clans that have a planned attack at this time on this day.</li>
+<li>Clans that will maintain neutrality or have a day-off on the attack day (if there is information about the change of the day-off in the future).</li>
+<li>Clans that the covering clan plans to attack in the future</li>
+<li>Clans that were attacked by the covering clan less than 7 days ago</li>
+<li>Defenses to begin in less than 24 hours</li>
+<li>Days on which the covering clan has the maximum number of battles (equal to the number of open SH directions)</li>
+</ul>
+
+<p>
+Tasks for different clans may differ. As more information about scheduled attacks appears on the Wargaming website and read by the clan panel, 
+the completed task disappears from other clans' task lists.
+</p>
+
+<div class="container">
+  <div class="col-md-6">
+<a href="{% url action_doc_page page='stronghold' %}">Manual for defense of Stronghold</a>
+  </div>
+</div>
+
+{% endblock %}

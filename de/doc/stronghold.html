@@ -1,0 +1,319 @@
+{% extends "doc/page.html" %}
+
+{% block h_title %}
+Clan's stronghold
+{% endblock %}
+
+{% block doc_content %}
+
+<h2>Clan's stronghold</h2>
+
+<p>
+If your clan has the "Attack and defense of Stronghold" mode enabled, you will be able to see a summary of all battles planned in the SH on the "Stronghold" tab. 
+These data are read by the clan-panel from the Wargaming clan portal. The max "age" of the data is 10 minutes. 
+If the data were last read more than 10 minutes ago, they will be automatically recalculated using the Wargaming portal.
+</p>
+
+<p>
+Officers in your clan will have access to the "Defense of Stronghold" button on this page. Clicking it will open the defense schedule for your Stronghold.
+</p>
+
+<h3>Stronghold defense</h3>
+
+<p>
+The site clan-panel may help you solve the problem of protecting your Stronghold from hostile clans' attacks. 
+This can be done by making alliances with other clans and attacking (covering) each other, thus preventing enemies from attacking the alliance clans.
+</p>
+
+<p>
+The clan panel will automatically create lists of tasks for covering allies for each alliance member.
+</p>
+
+<h3>How to create a new alliance</h3>
+
+<p>
+In order to create in new stronghold alliance and become its coordinator, a clan must not be a part of another alliance, have at least a level 5 stronghold and an activated defense mode.
+</p>
+
+<ul>
+<li>Go to the site <a target="_blank" href="/">clan-panel</a></li>
+<li>Click the "Sign in" button at the top of the page</li>
+<li>Go to the "Stronghold" tab</li>
+<li>Click the green button labelled "Defense of Stronghold" (available to clan officers)</li>
+<li>Click the green button labelled "Join an union or create new" (available to leader and vice-leader)</li>
+<li>Click the "Create Union" button</li>
+</ul>
+
+<p>
+The new alliance has only one member - the clan that created it. 
+The officers of the clan have the authority of the coordinators of the new alliance. 
+A coordinator can send out invitations to join the alliance to other clans (up to 100 clans in an alliance).
+</p>
+
+<p>
+To do that, he/she needs to enter the address of the official page of the clan being invited into a field under the table of clans and click the "Invite clan" button. 
+For example, if you want to invite the [WG] clan into an alliance, you need to enter <i>http://eu.wargaming.net/clans/500000001/</i> into the address field.
+</p>
+
+<h3>How to join an existing alliance</h3>
+
+<p>
+In order for a clan to be able to join an existing stronghold alliance, the coordinator of this alliance has to send them an invitation.
+</p>
+
+<p>
+A join invitation can be accepted by a leader or vice-leader. That's what they need to do:
+</p>
+
+<ul>
+<li>Go to the site <a target="_blank" href="/">clan-panel</a></li>
+<li>Click the "Sign in" button at the top of the page</li>
+<li>Go to the "Stronghold" tab</li>
+<li>Click the green button labelled "Defense of Stronghold" (available to clan officers)</li>
+<li>Click the green button labelled "Join an union or create new" (available to leader and vice-leader)</li>
+<li>Click the "Join" button next to a corresponding invitation</li>
+</ul>
+
+<p>
+Once you've joined an alliance, every visitor of your clan's "Stronghold" tab will be prompted for authorization. The page will be accessible only to clans in the alliance.
+</p>
+
+<h3>What coordinators require from alliance members</h3>
+
+<p>
+To make sure that the clan's ally support tasks contain no errors (for example, a task to cover an ally with the same defense hour), 
+all clans with an activated procedure of changing a day off and/or defense hour and the changes currently pending need to fill out the details of these changes. 
+More information <a href="{% url action_doc_page page='sh_defense_changes' %}">can be found here</a>.
+</p>
+
+<p>
+For quick and efficient communications between you and other members of the alliance, 
+it is recommended that you specify the contact details of your clan (voice chat server address, key nicknames, etc.) 
+by clicking the "Fill contact information" link on the clan's task page.
+</p>
+
+<h3>Covering allies</h3>
+
+<ul>
+<li>Go to the site <a target="_blank" href="/">clan-panel</a></li>
+<li>Click the "Sign in" button at the top of the page</li>
+<li>Go to the "Stronghold" tab</li>
+<li>Click the green button labelled "Tasks for clan" (available to clan officers)</li>
+</ul>
+
+<p>
+Set attacks according to the list. Completed tasks will disappear from the list when information about these attacks appears on the Wargaming website and will be read by the clan panel. 
+Tasks that are not yet available, but will become available soon, have a corresponding comment in the last column. 
+This comment specifies the time remaining till the moment when the task will become available.
+</p>
+
+<p>
+The rules of creating ally coverage tasks are <a href="{% url action_doc_page page='sh_clan_tasks' %}">described in detail here</a>.
+</p>
+
+<h3>Covering your clan</h3>
+
+<p>
+If all alliance members (including you) will diligently complete tasks from their lists, all the days in your clan's schedule will be covered by allies' attacks. 
+The stronghold defense schedule for your clan can be found under the list of tasks.
+</p>
+
+<p>
+Days when an attack on you is possible and there is no coverage from allies are marked with an empty "Attack" column. 
+Click the defense date to see a list of allies who can cover you on this day along with a list of allies who cannot cover you on this day, including the reason for that.
+</p>
+
+<p>
+You can contact other clans requesting cover. By the way, the task of covering you clan is on their task lists.
+</p>
+
+<h3>Alliance summary</h3>
+
+<p>
+There is a "List of clans" link on the clan page. 
+If you click this link, you will see a list of all alliance members and the chart of defense distribution by time of day. 
+Uniform distribution of defense by the time of day enables alliance members to efficiently cover each other.
+</p>
+
+<p>
+Table columns contain information about the current defense settings for each clan. 
+Clicking a clan tag will send you to a page with a battle schedule for this clan. 
+If you click on the "defense period", you will see a list of tasks and the stronghold defense schedule of this clan within the alliance. 
+If the clan has their contact details filled out, you can click the phone icon to see them.
+</p>
+
+<p>
+The following columns contain the clan's stronghold battle stats within the alliance for the two weeks. 
+Place the mouse cursor over the column header to see a tooltip explaining the content of the column.
+</p>
+
+<ul>
+<li>CVT - allies covered</li>
+<li>CVF - number of times covered by the allies</li>
+<li>ATT - number of clans attacked outside the alliance</li>
+<li>ATF - number of times attacked by clans outside the alliance</li>
+<li>NCV - uncovered days in the clan's schedule that can be used for an attack</li>
+<li>EFF - effectiveness of cover</li>
+</ul>
+
+<p>
+Below the table is a list of clans with an activated procedure of changing defense settings with a description of upcoming changes.
+</p>
+
+<p>
+The "Board of Shame" link opens a list of clans that are not very good at covering allies. 
+These clans get covered by their allies, have uncompleted tasks in their task lists, but cover their allies much more seldom than they receive support from others. 
+Clans appear on the "Board of Shame" automatically and are removed from it as soon as they start fulfilling their obligations to their allies.
+</p>
+
+<p>
+The "Recent attacks" link opens a list of clans that your clan attacked over the past week. 
+Clans from this list that are not found in the clan panel database are displayed in the form of a clan ID instead of a clantag.
+</p>
+
+<h3>Informing other clan members about stronghold battles within an alliance</h3>
+
+<p>
+To prevent situations where your clan members start an stronghold battle not knowing that this battle is taking place in an alliance, 
+you can place a link to the page that usually opens upon clicking on the "Stronghold" tab to your clan forum or resource that you use for communication.
+</p>
+
+<p>
+This page is updated automatically and can be visited by the members of all clans in the alliance. 
+The page contains the battle schedule of your clan "color painted" according to the coordination rules in your alliance.
+</p>
+
+<h3>Leaving the alliance</h3>
+
+<p>
+A clan leader or vice-leader can leave an alliance at any moment by clicking the "Suspend membership" button at the bottom of the page with clan tasks.
+</p>
+
+<p>
+If it happens, all existing covers from/for this clan will remain as battles with allies in members' schedules. 
+Tasks for covering the clan that has suspended its membership will not be included into the tasks lists of other alliance members. 
+Such clans will be marked with a tick mark in the "PSV" column of the table.
+</p>
+
+<p>
+Once all clan covers within the alliance have been completed, you will be able to leave the alliance for good by clicking the "Leave union" button. 
+From now on, all battles with such a clan will be shown in members' schedules as enemy attacks.
+</p>
+
+<p>
+A clan that has suspended its membership in an alliance can re-join at any moment. 
+In order to do that, the commander or lieutenant needs to click a corresponding button on the clan's page.
+</p>
+
+<h3>Coordinator's special rights</h3>
+
+<p>
+Apart from sending invitations to join the alliance, the alliance coordinator can suspend clan memberships, remove clans from the alliance, 
+change the defense settings and contact details of any alliance member.
+</p>
+
+<p>
+In order to do that, the coordinator has to click on the "defense period" of the necessary clan. 
+On this clan's task page, the coordinator will find a link called "[CLANTAG] defense settings" and a "Suspend membership" or "Leave union" button (if membership has already been suspended).
+</p>
+
+<p>
+The coordinator cannot suspend his or her own membership or leave the alliance, but can completely dismiss the alliance. 
+A corresponding button is located at the bottom of the "List of clans" page.
+</p>
+
+<h3>FAQ</h3>
+
+<strong>Why has clan [XXX] been in my tasks for two days in a row?</strong>
+
+<p>
+If you put a cover on any of the days, the second day will disappear from this clan's tasks - that is, will be filtered out by the rule "there are attacks planned for this clan". 
+This will be happens when the data about attack will appear at wargaming.net and will be readed by clan-panel.
+For all other clans, the second (uncovered) day will stay in their tasks.
+</p>
+
+<strong>Is it possible for some clan not to be covered? That is, nobody will put a cover on it.</strong>
+
+<p>
+This scenario is only possible in case there will be no technical possibility to cover this clan. 
+There can be only two real reasons for that: few alliance members or tool many clans in one defense hour.
+</p>
+
+<p>
+If somebody has the technical capability to throw a cover, it will be on their task lists. 
+An uncovered clan will see who can provide cover by clicking on an uncovered day in their schedule.
+</p>
+
+<strong>I followed a link sent by an alliance member and got this message "The clan administration allowed this page to be viewed only by clan members." What should I do?</strong>
+
+<p>
+The link you have is probably to the clan section of the person who gave you the link. 
+This is like trying to click a link to something in a private area on the WG portal. No one, except the owner, has access to it.
+</p>
+
+<p>
+You need to go to YOUR clan's section. There is a special procedure for it, which will work for everyone.
+</p>
+
+<ul>
+<li>Go to the site <a target="_blank" href="/">clan-panel</a></li>
+<li>Click the "Sign in" button at the top of the page</li>
+<li>Go to the "Stronghold" tab</li>
+<li>Click the green button labelled "Tasks for clan" (available to clan officers)</li>
+</ul>
+
+<strong>After authorization in the clan panel, I don't see the green "Clan tasks" button on the "Stronghold" tab, although I am the vice-leader in the clan. Why?</strong>
+
+<p>
+It often happens if your clan data in the clan panel are obsolete and no longer correspond to your current position in the clan.
+</p>
+
+<p>
+Please pay attention to the value of the "Data updated:" field next to the clan emblem. 
+Clan composition and member status changes are saved after each update. 
+If the latest update took place relatively recently, click the "Update data" button in the upper part of the page. 
+The clan data will be updated within a day and the "Clan tasks" button on the "Stronghold" tab will be available to you on the next day.
+</p>
+
+<p>
+In the future, do not forget to periodically click the "Update data" button to keep your clan details up-to-date.
+</p>
+
+<p>
+In addition, you can ask someone from the leadership of the clan, who currently has access, go to the "Management" tab and click "Update list of participants and their positions" button.
+In this case, the clan panel update the composition of the clan immediately, without the collection of data for statistics.
+</p>
+
+<strong>Can we get banned for these covers if they consider them rigged battles?</strong>
+
+<p>
+First of all, provision of cover does not fall under the definition of a "rigged battle":
+</p>
+
+<p style="background-color: #B2CBFB;">
+Let's start from the definition: rigged battles are battles that are specifically organized for achieving abnormally high statistical results and winning rare rewards.
+(<a target="_blank" href="/media/img/ru/doc/wg_msg01.png">ru portal link</a>)
+</p>
+
+<p>
+Also, the developers have given a direct answer to this question.
+</p>
+
+<p style="background-color: #B2CBFB;">
+There will be no bans for throwing chips into battle.
+(<a target="_blank" href="/media/img/ru/doc/wg_msg02.png">ru forum link</a>)
+</p>
+
+{% endblock %}
+
+{% block doc_prev_topic %}online{% endblock %}
+
+{% block doc_prev_title %}
+Clan's online statistic
+{% endblock %}
+
+{% block doc_next_topic %}sh_attack{% endblock %}
+
+{% block doc_next_title %}
+Search for attacks of stronghold
+{% endblock %}
