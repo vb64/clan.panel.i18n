@@ -1827,3 +1827,9 @@ msgstr "Заявки на прикриття"
 
 msgid "Can cover"
 msgstr "Можна прикривати"
+
+msgid "Attacked by"
+msgstr "Атакован"
+
+msgid "Covered by"
+msgstr "Прикрыт"
