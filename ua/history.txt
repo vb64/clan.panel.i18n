@@ -1,4 +1,4 @@
-# this string for change in commit to mark "include content".
+# this string for change in commit to mark "include content"
 ----------
 03.03.2016 Заявки на прикриття союзників у боях за УР.
 
