@@ -267,3 +267,6 @@ msgstr "Это может быть полезным для других учас
 
 msgid "Set checkboxes for defenses, which you will be covering, and click 'Save my bids' button."
 msgstr "Проставьте галки для тех защит, которые вы планируете прикрывать, и нажмите кнопку 'Сохранить мои заявки'."
+
+msgid "You can delete your bids until 15 minutes before moment, when attack can be set."
+msgstr "Вы не сможете удалить свою заявку за 15 минут до открытия возможности атаки."
