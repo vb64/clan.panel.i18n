@@ -1612,8 +1612,8 @@ msgstr "Grafik der Verteidigungszeit für Allianzmitglieder"
 msgid "Locate cursor over bar of hour for view members with this time."
 msgstr "Bewege der Mauszeiger über den Balken der Stunde um Mitglieder in dieser Zeit zu sehen"
 
-msgid "Contact information for"
-msgstr "Kontaktinformationen für"
+msgid "Contact information"
+msgstr "Kontaktinformationen"
 
 msgid "Fill data for allies to contact you."
 msgstr "Befülle die Kontaktinformationen für Verbündete."
