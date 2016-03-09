@@ -1,4 +1,13 @@
 ----------
+10.03.2016 Документация клан-панели перенесена на платформу readthedocs.org
+
+документация, readthedocs
+
+<p>
+<a href="http://clanpanelru.readthedocs.org/ru/latest/">http://clanpanelru.readthedocs.org/ru/latest/</a>
+</p>
+
+----------
 03.03.2016 Заявки на прикрытие союзников в сражениях за УР.
 
 укреп, защита, прикрытие, обещания

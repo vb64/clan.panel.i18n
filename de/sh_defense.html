@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block h_title %}Defense of Stronghold{% endblock %}
+
+{% block content %}
+
+<h2>Defense of Stronghold</h2>
+
+<p>
+Does you clan want to reap the benefits of high-level Stronghold bonuses, but don't want to be a "feeder" for top clans? 
+Or have you already had such negative experience?
+</p>
+
+<p>
+Theoretically, there is a solution - join with other clans and cover each other's SH's by not letting enemies attack. 
+However, everyone who has tried this knows about tons of issues with this strategy.
+</p>
+
+<p>
+A clan panel's "Stronghold" will help solve most of these problems.
+</p>
+
+<p>
+Each member of an alliance will get an individual list of tasks based <a href="{% trans "http://clanpaneldoc.readthedocs.org/en/latest/" %}stronghold/tasks.html">on rules</a> that are very hard to compose manually. 
+This is a dynamic, flexible list that automatically updates according to the activities of other alliance members.
+</p>
+
+<p>
+The data are always up-to-date - if their age exceeds 10 minutes, they are automatically recalculated using the WG clan portal.
+</p>
+
+<p>
+Alliance members can always check which clans can cover them on a particular day.
+</p>
+
+<p>
+There are also tips about the time remaining until new attacks on alliance members and your own clan.
+</p>
+
+<p>
+The alliance summary will automatically reveal "fat cats" who are not doing what they must to provide the much-needed cover for alliance members.
+</p>
+
+<p>
+<a href="{% trans "http://clanpaneldoc.readthedocs.org/en/latest/" %}stronghold/index.html">A detailed description</a> is available.
+</p>
+
+<p>
+And yes, it's totally free.
+</p>
+
+<p>
+<a class="btn btn-success" href="{% url action_login %}?continue={% url action_user_sh %}">Join us!</a>
+</p>
+
+{% endblock %}

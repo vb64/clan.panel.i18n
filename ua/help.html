@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% load i18n %}
+
+{% block h_title %}Клан-панель: документація та підтримка{% endblock %}
+
+{% block content %}
+<h1>Потрібна допомога?</h1>
+
+<p>
+Ви можете <a href="{% trans "http://clanpaneldoc.readthedocs.org/en/latest/" %}">ознайомитися з документацією</a>.
+</p>
+
+<p>
+Для питань, побажань, повідомлень про помилки, будь ласка <a target="_blank" href="http://clanpanel.mybb.ru">напишіть на форум підтримки клан-панелі</a>.
+</p>
+
+<p>
+Також можна написати в <a target="_blank" href="{{forum_topic}}">тему підтримки клан-панелі</a> на офіційному форумі WorldOfTanks або 
+в "Особисті повідомлення" для користувача <strong>vb64</strong> на офіційному форумі гри.
+</p>
+
+{% endblock %}
+
