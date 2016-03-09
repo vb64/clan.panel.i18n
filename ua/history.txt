@@ -1,8 +1,8 @@
 # this string for change in commit to mark "include content".
 ----------
-10.03.2016 Документация клан-панели перенесена на платформу readthedocs.org
+10.03.2016 Документація клан-панелі перенесена на платформу readthedocs.org
 
-документация, readthedocs
+документація, readthedocs
 
 <p>
 <a href="http://clanpanelua.readthedocs.org/uk/latest/">http://clanpanelua.readthedocs.org/uk/latest/</a>
