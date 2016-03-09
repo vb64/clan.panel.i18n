@@ -1,4 +1,4 @@
-# this string for change in commit to mark "include content".
+# this string for change in commit to mark "include content"
 ----------
 10.03.2016 Документація клан-панелі перенесена на платформу readthedocs.org
 
