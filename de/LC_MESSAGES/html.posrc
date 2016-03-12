@@ -270,3 +270,6 @@ msgstr "Проставьте галки для тех защит, которые
 
 msgid "You can delete your bids until 10 minutes before moment, when attack can be set."
 msgstr "Вы не сможете удалить свою заявку за 10 минут до открытия возможности атаки."
+
+msgid "Read more about search for attack function"
+msgstr "Подробнее о функции поиске атаки"
