@@ -1835,16 +1835,16 @@ msgid "Covered by"
 msgstr "Прикритий"
 
 msgid "If your clan uses TeamSpeak, please fill url (with port, if needed)."
-msgstr "Если клан использует TeamSpeak, укажите здесь его адрес (с портом, если нужно)"
+msgstr "Якщо клан використовує TeamSpeak, будь ласка, вкажіть тут його повну адресу URL (з портом, якщо це необхідно)"
 
 msgid "For example: my-ts.org:9988"
-msgstr "Например: my-ts.org:9988"
+msgstr "Наприклад: my-ts.org:9988"
 
 msgid "Fill name of TeamSpeak channel for guests."
-msgstr "Укажите имя канала TeamSpeak для гостей."
+msgstr "Вкажіть ім'я каналу TeamSpeak для гостей."
 
 msgid "Keep this field empty, if your clan don't uses TeamSpeak"
-msgstr "Оставьте поле пустым, если TeamSpeak не используется"
+msgstr "Залиште поле порожнім, якщо TeamSpeak не використовується"
 
 msgid "or default channel for guests"
-msgstr "или для гостей используется канал по умолчанию"
+msgstr "або для гостей використовується канал за замовчуванням"
