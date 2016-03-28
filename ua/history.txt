@@ -1,4 +1,12 @@
-# this string for change in commit to mark "include content"
+# this string for change in commit to mark "include content".
+----------
+28.03.2016 Поддержка TeamSpeak в контактах клана.
+
+contacts, TeamSpeak, stronghold, cover
+
+Вы можете указать адрес TeamSpeak сервера в контактах своего клана для союза защиты Укрепрайона.
+Ваши союзники, нажав кнопку 'TeamSpeak' на странице ваших контактов, смогут сразу перейти в ваш ТС.
+
 ----------
 10.03.2016 Документація клан-панелі перенесена на платформу readthedocs.org
 
