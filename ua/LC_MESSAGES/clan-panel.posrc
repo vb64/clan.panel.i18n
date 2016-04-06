@@ -1848,3 +1848,6 @@ msgstr "Залиште поле порожнім, якщо TeamSpeak не вик
 
 msgid "or default channel for guests"
 msgstr "або для гостей використовується канал за замовчуванням"
+
+msgid "Number of days on shame board"
+msgstr "Число дней на доске позора"
