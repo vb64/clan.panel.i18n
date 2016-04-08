@@ -1,4 +1,4 @@
-# this string for change in commit to mark "include content"
+# this string for change in commit to mark "include content".
 ----------
 07.04.2016 Зміни в роботі "дошки ганьби" союзу захисту УР.
 
