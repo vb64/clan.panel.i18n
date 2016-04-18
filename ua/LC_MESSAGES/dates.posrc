@@ -7,6 +7,9 @@ msgstr "%02d г %02d хв"
 msgid "%d min"
 msgstr "%d хв"
 
+msgid "%d sec"
+msgstr "%d сек"
+
 msgid "January"
 msgstr "Січень"
 
