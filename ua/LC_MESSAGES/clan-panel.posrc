@@ -1854,3 +1854,16 @@ msgstr "Число днів на дошці ганьби"
 
 msgid "Manage union"
 msgstr "Управление союзом"
+
+msgid "Warning"
+msgstr "Внимание"
+
+msgid "With free plan, task list contains inaccuracies."
+msgstr "Список задач содержит неточности при бесплатном режиме обслуживания."
+
+msgid "To use the SH union in clan-panel is recommended to go to the 'Base' plan or turn on the free trial period."
+msgstr "Для использования союза защиты УР в клан-панели рекомендуется перейти на 'Базовый' режим или включить бесплатный пробный период."
+
+msgid "Read more"
+msgstr "Подробнее"
+
