@@ -1,0 +1,28 @@
+{% extends "main.html" %}
+
+{% block msg_subscribe %}
+Вы можете подписаться на получение ленты событий в виде <a onclick="this.target='target'" href="http://feeds.feedburner.com/Wargamingnet-clans-ru">RSS потока</a>, либо в виде <a onclick="this.target='target'" href="http://feedburner.google.com/fb/a/mailverify?uri=Wargamingnet-clans-ru&amp;loc=ru_RU">почтовой рассылки</a>. 
+{% endblock %}
+
+{% block msg_url %}
+Введите адрес <a target="_blank" href="http://{{game_zone}}/">официальной страницы клана</a> в поле ввода.
+{% endblock %}
+
+{% block msg_clanmember %}
+Если вы состоите в клане, вы можете <a href="{% url action_login %}?continue={% url action_user_clan %}">войти через Wargaming OpenID</a>, и ваш клан будет добавлен автоматически.
+{% endblock %}
+
+{% block msg_pricing %}
+Клан-панель полностью бесплатна для новых пользователей. Но для тех, кому необходимо больше возможностей, 
+<a href="{% url action_doc_page page='pricing' %}">"Базовый" и "Премиумный" режимы обслуживания</a> предлагают дополнительные функции за приемлемую цену. 
+{% endblock %}
+
+{% block msg_action %}
+<p>
+Cуществует демо-версия клан-панели, обслуживающая ограниченный набор кланов, без возможности добавить произвольный клан.
+Если вам неудобно ждать накопления данных по интересующему вас клану в клан-панели, то вы можете ознакомиться с обьемом и формой подачи уже накопленного массива статистических данных, посетив это демо-сайт.
+</p>
+<p>
+Сбор данных по представленным в демо-версии кланам ведется с декабря 2012 года. 
+</p>
+{% endblock %}

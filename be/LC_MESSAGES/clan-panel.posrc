@@ -1,0 +1,1817 @@
+﻿msgid "%m/%d/%Y"
+msgstr "%d.%m.%Y"
+
+msgid "Clan-panel"
+msgstr "Клан-панэль"
+
+msgid "%s changed nickname '%s' -> '%s'"
+msgstr "%s змяніў гульнявы нік '%s' -> '%s'"
+
+msgid "%s gained 'Ace Tanker' badge: %s"
+msgstr "%s атрымаў знак класнасці Майстар: %s"
+
+msgid "%s gained new top vehicle: '%s'"
+msgstr "%s набыў новы топ-танк: '%s'."
+
+msgid "%s gained new maximum experience: %d (previous: %d)"
+msgstr "%s паставіў новы асабісты рэкорд макс.опыта: %d (папярэдні: %d)."
+
+msgid "New clan member: %s (position: '%s')"
+msgstr "У клане новы ўдзельнік: %s (пасада: %s)."
+
+msgid "%s left the clan member"
+msgstr "Удзельнік %s пакінуў клан."
+
+msgid "%s change clan role from '%s' to '%s'"
+msgstr "%s перасунуты з пасады '%s' на пасаду '%s'."
+
+msgid "World of Tanks clans management"
+msgstr "World of Tanks: кіраванне кланамі"
+
+msgid "clan information"
+msgstr "інфармацыя аб клане"
+
+msgid "Created"
+msgstr "створаны"
+
+msgid "Data updated now"
+msgstr "Дадзеныя абнаўляюцца зараз"
+
+msgid "Data updated"
+msgstr "дадзеныя абноўленыя"
+
+msgid "Details by members"
+msgstr "Падрабязнасці па ўдзельнікам"
+
+msgid "Member"
+msgstr "Удзельнік"
+
+msgid "Total"
+msgstr "Усяго"
+
+msgid "Heavy"
+msgstr "цяжы"
+
+msgid "Medium"
+msgstr "СТ"
+
+msgid "SPG"
+msgstr "САУ"
+
+msgid "TD"
+msgstr "СТ-САУ"
+
+msgid "Details by vehicles"
+msgstr "Падрабязнасці па тэхніцы"
+
+msgid "Icon"
+msgstr "Контур"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Number"
+msgstr "колькасць"
+
+msgid "Members"
+msgstr "Удзельнікі"
+
+msgid "Heavy tanks"
+msgstr "цяжкія танкі"
+
+msgid "Medium tanks"
+msgstr "сярэднія танкі"
+
+msgid "Tank Destroyers"
+msgstr "СТ САУ"
+
+msgid "Light tanks"
+msgstr "лёгкія танкі"
+
+msgid "Self propelled guns"
+msgstr "САУ"
+
+msgid "types:"
+msgstr "тыпаў:"
+
+msgid "%d (from %d) clan members have %d top vehicles."
+msgstr "%d (из %d) удзельнікаў клана маюць %d адзінак топавай тэхнікі."
+
+msgid "Clan events"
+msgstr "Падзеі ў клане"
+
+msgid "Chief"
+msgstr "камандзір"
+
+msgid "Commander"
+msgstr "камандуючы"
+
+msgid "Executive Officer"
+msgstr "намеснік камандуючага"
+
+msgid "Recruitment Officer"
+msgstr "Афіцэр па кадрах"
+
+msgid "Quartermaster"
+msgstr "афіцэр забеспячэння"
+
+msgid "Intelligence Officer"
+msgstr "афіцэр выведкі"
+
+msgid "Combat Officer"
+msgstr "камандзір падраздзялення"
+
+msgid "Personnel Officer"
+msgstr "афіцэр штаба"
+
+msgid "Junior Officer"
+msgstr "малодшы афіцэр"
+
+msgid "Private"
+msgstr "баец"
+
+msgid "Recruit"
+msgstr "навабранец"
+
+msgid "Reservist"
+msgstr "рэзервіст"
+
+msgid "Leader"
+msgstr "камандзір"
+
+msgid "Vice-leader"
+msgstr "Нам.камандзіра"
+
+msgid "Recruiter"
+msgstr "вярбоўнік"
+
+msgid "Treasurer"
+msgstr "казначэй"
+
+msgid "Diplomat"
+msgstr "дыпламат"
+
+msgid "Commandant"
+msgstr "палявы"
+
+msgid "Officer"
+msgstr "афіцэр"
+
+msgid "Sergeant"
+msgstr "сяржант"
+
+msgid "account information"
+msgstr "дадзеныя аб гульцу"
+
+msgid "Member of clan:"
+msgstr "Удзельнічае ў клане:"
+
+msgid "Battles"
+msgstr "Баі"
+
+msgid "Victories, %"
+msgstr "перамогі, %"
+
+msgid "Victories"
+msgstr "перамогі"
+
+msgid "Days"
+msgstr "Дзён"
+
+msgid "Maximum experience"
+msgstr "максімальны вопыт"
+
+msgid "Activity for the period"
+msgstr "Актыўнасць за перыяд"
+
+msgid "Battles for the period"
+msgstr "Баі за перыяд"
+
+msgid "News"
+msgstr "навіны"
+
+msgid "Top vehicles"
+msgstr "топ тэхніка"
+
+msgid "Members with tops"
+msgstr "Удзельнікі з топами"
+
+msgid "Members without tops"
+msgstr "Удзельнікі без топаў"
+
+msgid "Members without top vehicles"
+msgstr "Удзельнікі без топавай тэхнікі"
+
+msgid "Clan"
+msgstr "Клан"
+
+msgid "Account history"
+msgstr "гісторыя акаўнта"
+
+msgid "History"
+msgstr "гісторыя"
+
+msgid "Activity"
+msgstr "актыўнасць"
+
+msgid "Top vehicle: '%s'"
+msgstr "Топ танк: '%s'"
+
+msgid "Maximum experience: %d -> %d"
+msgstr "Максімальны вопыт за бой: %d -> %d"
+
+msgid "Clan member: %s (position: '%s')"
+msgstr "чалец клана: %s (должность: '%s')"
+
+msgid "Left the clan %s"
+msgstr "пакінуў клан %s"
+
+msgid "Change clan %s role from '%s' to '%s'"
+msgstr "У клане %s змяніў пасаду '%s' на '%s'"
+
+msgid "Home"
+msgstr "на галоўную"
+
+msgid "Hi"
+msgstr "прывітанне"
+
+msgid "Sign out"
+msgstr "выйсці"
+
+msgid "Sign in"
+msgstr "увайсці"
+
+msgid "Wargaming.net clans news"
+msgstr "навіны кланаў Wargaming.net"
+
+msgid "News of the Wargaming.net clans from last week"
+msgstr "навіны кланаў Wargaming.net за апошні тыдзень"
+
+msgid "Russia"
+msgstr "Расія"
+
+msgid "North America"
+msgstr "Паўночная Амерыка"
+
+msgid "Europe"
+msgstr "Еўропа"
+
+msgid "Southeast Asia"
+msgstr "Паўднёва-Усходняя Азія"
+
+msgid "Management"
+msgstr "кіраванне"
+
+msgid "Clan settings"
+msgstr "налады клана"
+
+msgid "Save settings"
+msgstr "захаваць налады"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Account"
+msgstr "акаўнт"
+
+msgid "Only clanmates can visit my pages"
+msgstr "Мае старонкі могуць праглядаць толькі сакланаўцы"
+
+msgid "Account settings"
+msgstr "налады акаўнта"
+
+msgid "Settings"
+msgstr "налады "
+
+msgid "Email address"
+msgstr "Email адрас"
+
+msgid "email verification"
+msgstr "Пацверджанне адрасу email"
+
+msgid "clan news"
+msgstr "навіны клана"
+
+msgid "Vehicles"
+msgstr "тэхніка"
+
+msgid "Which vehicles are present in your garage now (except top-tanks)?"
+msgstr "Якая тэхніка маецца ў вас у ангары цяпер (акрамя топ-танкаў)?"
+
+msgid "Vehicles in the garage (according information from player) at"
+msgstr "Тэхніка ў ангары (па дадзеных гульца) на"
+
+msgid "World of Tanks and Wargaming.net are registered trademarks or trademarks of Wargaming.net LLP."
+msgstr "World of Tanks і Wargaming.net з'яўляюцца зарэгістраванымі гандлёвымі маркамі Wargaming.net LLP."
+
+msgid "This website is in no way associated with Wargaming.net"
+msgstr "Гэты сайт ніяк не звязаны з Wargaming.net."
+
+msgid "The player did not provided data on their non-top tanks"
+msgstr "Гулец не падаў дадзеных аб сваіх ня топавых танках"
+
+msgid "Position"
+msgstr "Пасада"
+
+msgid "today"
+msgstr "сёння"
+
+msgid "Profile"
+msgstr "профіль"
+
+msgid "Age, days"
+msgstr "Ўзрост, дні"
+
+msgid "Your clan rss feed url"
+msgstr "Адрас RSS канала навін вашага клана"
+
+msgid "%s [%s] clan news"
+msgstr "%s [%s] навіны клана"
+
+msgid "News of the %s [%s] clan"
+msgstr "Стужка навінаў клана %s [%s]"
+
+msgid "Demo mode"
+msgstr "Дэма-рэжым"
+
+msgid "Free plan"
+msgstr "бясплатны рэжым"
+
+msgid "Base plan"
+msgstr "базавы рэжым"
+
+msgid "Premium plan"
+msgstr "прэміум рэжым"
+
+msgid "The next update will be available through"
+msgstr "Вы зможаце абнавіць дадзеныя праз"
+
+msgid "You can now update data for this clan"
+msgstr "Вы можаце абнавіць дадзеныя клана зараз"
+
+msgid "Expired"
+msgstr "Заканчваецца"
+
+msgid "The data will be updated throughout the day"
+msgstr "Дадзеныя будуць абноўлены на працягу сутак"
+
+msgid "hour(s)"
+msgstr "гадз."
+
+msgid "Update data"
+msgstr "абнавіць дадзеныя"
+
+msgid "Upgrade to base plan"
+msgstr "Палепшыць да базавага рэжыму"
+
+msgid "Upgrade to premium plan"
+msgstr "Палепшыць да прэміум рэжыму"
+
+msgid "Refresh data"
+msgstr "абнавіць дадзеныя"
+
+msgid "The task is queued in"
+msgstr "Задача пастаўлена ў чаргу"
+
+msgid "Find clan"
+msgstr "знайсці клан"
+
+msgid "Clan page URL"
+msgstr "Адрас старонкі клана"
+
+msgid "Looks like wrong link"
+msgstr "Падобна на тое, уведзены няслушны адрас"
+
+msgid "Can't get information about [%s] clan (id %s) from WorldOfTanks server"
+msgstr "Не магу атрымаць дадзеныя аб клане [%s] (id %s) з сервера WorldOfTanks"
+
+msgid "WOT server '%s' not supported"
+msgstr "сервер '%s' не падтрымліваецца сэрвісам"
+
+msgid "Clan has been added to task queue"
+msgstr "Клан дададзены ў чаргу задач"
+
+msgid "Wot clan statistics"
+msgstr "статыстыка клана WOT"
+
+msgid "Prolongation of the base plan"
+msgstr "Падаўжэнне базавага рэжыму"
+
+msgid "Prolongation of the premium plan"
+msgstr "Падаўжэнне прэміум рэжыму"
+
+msgid "Quantity of the top vehicles"
+msgstr "колькасць топаў, шт."
+
+msgid "Too many selected items in list: %s. Please select only the most suitable."
+msgstr "Занадта шмат элементаў абрана ў спісе: %s. Выберыце толькі найбольш прыдатныя."
+
+msgid "Badge"
+msgstr "Знак"
+
+msgid "Tank companies"
+msgstr "танкавыя роты"
+
+msgid "Companies"
+msgstr "Роты"
+
+msgid "Company"
+msgstr "Рота"
+
+msgid "Rename"
+msgstr "перайменаваць"
+
+msgid "Rename company"
+msgstr "перайменаваць роту"
+
+msgid "Add members"
+msgstr "дадаць удзельнікаў"
+
+msgid "Add selected"
+msgstr "дадаць выбраных"
+
+msgid "For selected members"
+msgstr "адзначаных удзельнікаў"
+
+msgid "Select action"
+msgstr "выберыце дзеянне"
+
+msgid "Remove from company"
+msgstr "Выдаліць з роты"
+
+msgid "Remove from key stuff"
+msgstr "Выдаліць з асноўнага складу"
+
+msgid "Add to key stuff"
+msgstr "Дадаць у асноўны склад"
+
+msgid "Save members roles in setup"
+msgstr "Захаваць штатны расклад сэтапа"
+
+msgid "Execute"
+msgstr "выканаць"
+
+msgid "Select members for company"
+msgstr "Выберыце удзельнікаў для роты"
+
+msgid "New setup"
+msgstr "новы сэтап"
+
+msgid "Company members"
+msgstr "Удзельнікі роты"
+
+msgid "Remove company"
+msgstr "выдаліць роту"
+
+msgid "Company setups"
+msgstr "ротныя сэтапы"
+
+msgid "Company setup"
+msgstr "ротны сэтап"
+
+msgid "Back to company edit"
+msgstr "Вярнуцца ў рэдактар роты"
+
+msgid "Back to setup view"
+msgstr "Вярнуцца ў прагляд сетапа"
+
+msgid "Back to clan management page"
+msgstr "Назад да кіравання кланам"
+
+msgid "Current setup for company cannot be removed"
+msgstr "Бягучы ротны сетап выдаліць нельга"
+
+msgid "Save"
+msgstr "захаваць"
+
+msgid "Remove setup"
+msgstr "выдаліць сэтап"
+
+msgid "New company"
+msgstr "Новая рота"
+
+msgid "For daily automatic updates of data, you can switch to the base plan"
+msgstr "Для штодзённага аўтаматычнага абнаўлення дадзеных, вы можаце ўключыць базавы рэжым абслугоўвання"
+
+msgid "With premium mode, you can view detailed info about models of tanks, which used by player, for these periods"
+msgstr "У прэміум рэжыме абслугоўвання клана, тут будуць даступныя дэталёвыя дадзеныя аб ліку баёў на кожным з танкаў, выкарыстаных гульцом у гэтыя перыяды"
+
+msgid "Tag"
+msgstr "Тэг"
+
+msgid "Form a company"
+msgstr "сфармаваць роту"
+
+msgid "Select members for new company"
+msgstr "Выберыце удзельнікаў новай роты"
+
+msgid "Description"
+msgstr "апісанне"
+
+msgid "Default company setup"
+msgstr "Ротны сэтап па змаўчанні"
+
+msgid "Type"
+msgstr "Тып"
+
+msgid "Tier"
+msgstr "Узровень"
+
+msgid "absolute"
+msgstr "абсалютны"
+
+msgid "champion"
+msgstr "чэмпіёнскі"
+
+msgid "middle"
+msgstr "сярэдні"
+
+msgid "junior"
+msgstr "юніёрскі"
+
+msgid "No tank has been selected"
+msgstr "Не выбрана ніводнага танка"
+
+msgid "Company TAG must bee latin character or digit"
+msgstr "Ротны Тэг павінен быць з адной лічбы ці лацінскай літары"
+
+msgid "Cancel"
+msgstr "адмова"
+
+msgid "Apply"
+msgstr "Ужыць"
+
+msgid "Common data"
+msgstr "агульныя дадзеныя"
+
+msgid "Click on name or tamk icon for edit or delete setup"
+msgstr "Клікніце на назве ці абразку танка для рэдагавання або выдалення сэтапа"
+
+msgid "[C]"
+msgstr "[Р]"
+
+msgid "Duplicate company tag"
+msgstr "Паўтаральны тэг роты"
+
+msgid "Membership in companies (by tags)"
+msgstr "Удзел у ротах (па тэгах)"
+
+msgid "Number of battles for last 7 days"
+msgstr "Колькасць баёў за апошнія 7 дзён"
+
+msgid "Number of battles for last 30 days"
+msgstr "Колькасць баёў за апошнія 30 дзён"
+
+msgid "Win rate in battles for last 7 days"
+msgstr "Працэнт перамог за апошнія 7 дзён"
+
+msgid "Win rate in battles for last 30 days"
+msgstr "Працэнт перамог за апошнія 30 дзён"
+
+msgid "Total number of battles on account"
+msgstr "Агульная колькасць баёў на акаўнце"
+
+msgid "Total win rate on account"
+msgstr "Агульны працэнт перамог на акаўнце"
+
+msgid "Total win rate on vehicle / Total number of battles on vehicle"
+msgstr "Агульны працэнт перамог на танку / Агульная колькасць баёў на танку"
+
+msgid "User's status from clan-panel profile"
+msgstr "Статус карыстальніка з яго профілю ў клан-панэлі"
+
+msgid "How many days ago, a user has updated his profile in clan-panel"
+msgstr "Колькі дзён таму карыстальнік абнаўляў свой профіль у клан-панэлі"
+
+msgid "Wrong value '%s' for tank '%s'. Correct value 1 ... 15"
+msgstr "няправільнае значэнне '%s' для танка '%s'. Дапушчальныя значэнні 1 ... 15"
+
+msgid "Wrong total number of tanks in setup: %d. Must be 1 ... 15"
+msgstr "Няправільнае агульная колькасць танкаў у сэтапе: %d. Дапушчальныя значэнні 1 ... 15"
+
+msgid "Edit vehicles"
+msgstr "рэдагаваць тэхніку"
+
+msgid "setup"
+msgstr "сэтап"
+
+msgid "Stuff list"
+msgstr "Штатны расклад"
+
+msgid "Summary"
+msgstr "Зводка"
+
+msgid "By models of tanks"
+msgstr "Па мадэлям танкаў"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Tops"
+msgstr "Топы"
+
+msgid "Membership in clan, days"
+msgstr "Сяброўства ў клане, дні"
+
+msgid "Show/Hide"
+msgstr "Схаваць/Паказаць"
+
+msgid "Attendance"
+msgstr "Наведвалка"
+
+msgid "Clan actions"
+msgstr "кланавыя мерапрыемствы"
+
+msgid "New report"
+msgstr "Новая справаздача"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Duration"
+msgstr "працягласць"
+
+msgid "commander"
+msgstr "камандзір"
+
+msgid "Compiler"
+msgstr "падрыхтаваў"
+
+msgid "Approve"
+msgstr "зацвердзіць"
+
+msgid "Approved"
+msgstr "Зацвердзіў"
+
+msgid "Note"
+msgstr "Заўвага"
+
+msgid "Training"
+msgstr "трэніроўка"
+
+msgid "CW battles"
+msgstr "ГК баі"
+
+msgid "Absolute company"
+msgstr "абсалютная рота"
+
+msgid "Not absolute company"
+msgstr "Не абсалютная рота"
+
+msgid "Stronghold"
+msgstr "умацаваны раён"
+
+msgid "New clan action"
+msgstr "Новае кланавае мерапрыемства"
+
+msgid "Clan action"
+msgstr "кланавае мерапрыемства"
+
+msgid "Start"
+msgstr "Пачатак"
+
+msgid "Finish"
+msgstr "канец"
+
+msgid "Select participants"
+msgstr "выберыце удзельнікаў"
+
+msgid "Participants"
+msgstr "Удзельнікі"
+
+msgid "Create report"
+msgstr "стварыць справаздачу"
+
+msgid "Time zone"
+msgstr "Гадзінны пояс"
+
+msgid "training"
+msgstr "трэніроўка"
+
+msgid "CW"
+msgstr "ГК"
+
+msgid "Participated in CW battles"
+msgstr "Удзельнічаў у ГК баях"
+
+msgid "absolute company"
+msgstr "абсалютная рота"
+
+msgid "not absolute company"
+msgstr "не абсалютная рота"
+
+msgid "stronghold"
+msgstr "умацаваны раён"
+
+msgid "Victories cannot be more than battles"
+msgstr "Перамог не можа быць больш, чым баёў"
+
+msgid "Action needs to have the one commander"
+msgstr "Мерапрыемства павінна мець камандзіра"
+
+msgid "The date and time displayed on the time zone:"
+msgstr "Дата і час адлюстроўваецца па гадзіннаму поясу:"
+
+msgid "Add participants of the action"
+msgstr "Дадаць удзельнікаў мерапрыемства"
+
+msgid "Back to action edit"
+msgstr "Вярнуцца ў рэдактар мерапрыемства"
+
+msgid "Remove entire report"
+msgstr "Выдаліць усю справаздачу"
+
+msgid "Remove selected members and replays from report"
+msgstr "Выдаліць выбраных удзельнікаў і Рэплэі са справаздачы"
+
+msgid "Enter comment for rating (start with '-', if rating is negative)"
+msgstr "Калі ласка, увядзіце каментар да адзнакі (пачніце з '-', калі адзнака адмоўная)"
+
+msgid "Rollback to editing"
+msgstr "Вярнуцца да рэдагавання"
+
+msgid "Reports"
+msgstr "справаздачы"
+
+msgid "CA"
+msgstr "КМ"
+
+msgid "Participate in clan events"
+msgstr "Удзел у кланавых мерапрыемствах"
+
+msgid "Over the past %d days has been involved in %d of the %d clan events"
+msgstr "за апошнія %d дзён ўдзельнічаў у %d з %d кланавых мерапрыемстваў"
+
+msgid "Activity of commanders"
+msgstr "актыўнасць камандзіраў"
+
+msgid "Trn"
+msgstr "Трн"
+
+msgid "Abs"
+msgstr "Абс"
+
+msgid "Oth"
+msgstr "Прч"
+
+msgid "SH"
+msgstr "УР"
+
+msgid "Including"
+msgstr "У тым ліку"
+
+msgid "Total number of events, lead by commander"
+msgstr "Агульная колькасць мерапрыемстваў пад кіраўніцтвам камандзіра"
+
+msgid "Number of training sessions, lead by commander"
+msgstr "Колькасць трэніровак пад кіраўніцтвам камандзіра"
+
+msgid "Number of CW tournaments, lead by commander"
+msgstr "Колькасць турніраў на ГК пад кіраўніцтвам камандзіра"
+
+msgid "Number of tournaments in random battles between absolute tank companies, lead by commander"
+msgstr "Колькасць турніраў сярод рандомных абсалютных рот пад кіраўніцтвам камандзіра"
+
+msgid "Number of tournaments in random battles between non-absolute tank companies, lead by commander"
+msgstr "Колькасць турніраў сярод рандомных не абсалютных рот пад кіраўніцтвам камандзіра"
+
+msgid "Number of tournaments in 7/42 format, lead by commander"
+msgstr "Колькасць турніраў у фармаце 7/42 пад кіраўніцтвам камандзіра"
+
+msgid "Number of tournaments in Stronghold, lead by commander"
+msgstr "Колькасць турніраў ва ўмацаваным раёне пад кіраўніцтвам камандзіра"
+
+msgid "By days"
+msgstr "па днях"
+
+msgid "%sToday "
+msgstr "%sСёння "
+
+msgid "%sStart of data collection "
+msgstr "%sПачатак збору дадзеных "
+
+msgid "%sCustom border for data collection "
+msgstr "%sКарыстальніцкая мяжа збору дадзеных "
+
+msgid "%sBattles: %d Victories: %d(%d%%) "
+msgstr "%sБаёў: %d Перамог: %d(%d%%) "
+
+msgid "Full history activity of account"
+msgstr "Поўная гісторыя актыўнасці акаўнта"
+
+msgid "Complete history of battles on the tank"
+msgstr "Поўная гісторыя баёў на танку"
+
+msgid "Account activity"
+msgstr "Актыўнасць акаўнта"
+
+msgid "Replays"
+msgstr "Рэплэі"
+
+msgid "Add replay(s)"
+msgstr "Дадаць рэплэі"
+
+msgid "Map"
+msgstr "Мапа"
+
+msgid "Tank"
+msgstr "Танк"
+
+msgid "Submit"
+msgstr "Адаслаць"
+
+msgid "Select replay(s) for upload"
+msgstr "Выберыце рэплэі для загрузкі"
+
+msgid "Victory"
+msgstr "Перамога"
+
+msgid "Countdown to deleting, hours"
+msgstr "Час да выдалення, гадзіны"
+
+msgid "Add another .wotreplay file"
+msgstr "Дадаць яшчэ адзін .wotreplay файл"
+
+msgid "during the last 30 days"
+msgstr "за апошнія 30 дзён"
+
+msgid "from scratch"
+msgstr "у рэдактары"
+
+msgid "from .wotreplay file"
+msgstr "з файла .wotreplay"
+
+msgid "Select .wotreplay file for new report"
+msgstr "Выберыце .wotreplay файл для новай справаздачы"
+
+msgid "In what timezone this file was created?"
+msgstr "У якім часавым поясе запісаны гэты файл?"
+
+msgid "In what timezone these files was created?"
+msgstr "У якім часавым поясе запісаны гэтыя файлы?"
+
+msgid "Contacts"
+msgstr "кантакты"
+
+msgid "Read about functions of attendance control"
+msgstr "Пачытаць пра функцыю кантролю наведвальнасці"
+
+msgid "Compare plans"
+msgstr "параўнанне рэжымаў"
+
+msgid "Available languages"
+msgstr "даступныя мовы"
+
+msgid "Site news"
+msgstr "навіны сайта"
+
+msgid "More news"
+msgstr "Іншыя навіны"
+
+msgid "Read"
+msgstr "Чытаць"
+
+msgid "Never"
+msgstr "Ніколі"
+
+msgid "Back to company view"
+msgstr "Вярнуцца да спісу роты"
+
+msgid "Read about functions of clan's companies"
+msgstr "Пачытаць пра працу з кланавымі ротамі"
+
+msgid "Help"
+msgstr "Дапамога"
+
+msgid "All"
+msgstr "Усе"
+
+msgid "Personnel"
+msgstr "Кадры"
+
+msgid "Tops purchase"
+msgstr "набыццё топаў"
+
+msgid "Experience"
+msgstr "вопыт"
+
+msgid "Aces"
+msgstr "Майстры"
+
+msgid "Nicks"
+msgstr "Нікі"
+
+msgid "Member's dossiers"
+msgstr "Асабістыя справы ўдзельнікаў"
+
+msgid "Member's dossier"
+msgstr "Асабістая справа ўдзельніка"
+
+msgid "Days in clan"
+msgstr "Дзён у клане"
+
+msgid "Current status"
+msgstr "Бягучы статус"
+
+msgid "Dossier"
+msgstr "дасье"
+
+msgid "There is member's dossier"
+msgstr "Ёсць запісы ў асабістай справе ўдзельніка"
+
+msgid "CW activity for the period"
+msgstr "Актыўнасць на ГК за перыяд"
+
+msgid "Full history of the CW activity for account"
+msgstr "Поўная гісторыя актыўнасці акаўнта на ГК"
+
+msgid "Activity in CW battles for last %d days"
+msgstr "Актыўнасць у баях на ГК за апошнія %d дзён"
+
+msgid "Player vehicles"
+msgstr "Тэхніка гульца"
+
+msgid "days remaining"
+msgstr "Засталося дзён"
+
+msgid "Exploring World of Tanks clan"
+msgstr "Загрузка дадзеных клана World of Tanks"
+
+msgid "Please, complete a small puzzle by dragging the missing elements into place"
+msgstr "Калі ласка, завершыце невялікі пазл, перацягнуўшы адсутнічаюць элементы на свае месцы"
+
+msgid "Add clan to database"
+msgstr "дадаць клан"
+
+msgid "Error on exploring World of Tanks clan"
+msgstr "Памылка пры загрузцы дадзеных клана World of Tanks"
+
+msgid "I can not get info about clan with ID"
+msgstr "Не магу атрымаць дадзеныя для клана з ID"
+
+msgid "Return to main page"
+msgstr "Вярнуцца на галоўную старонку"
+
+msgid "Initial data loading"
+msgstr "Першая загрузка дадзеных"
+
+msgid "Loading data for a clan may take few minutes, and depend on the current load on the server"
+msgstr "Загрузка дадзеных аб клане можа доўжыцца некалькі хвілін і залежыць ад бягучай загрузкі сервера"
+
+msgid "At the moment there is no news"
+msgstr "На дадзены момант навінаў няма"
+
+msgid "Data will be updated for few minutes"
+msgstr "Дадзеныя будуць абноўлены на працягу некалькіх хвілін"
+
+msgid "Free trial"
+msgstr "бясплатны трыял"
+
+msgid "Activate the trial period"
+msgstr "Актываваць пробны перыяд"
+
+msgid "Your tanks in hangar"
+msgstr "Вашы танкі ў ангары"
+
+msgid "Replay view"
+msgstr "прагляд рэплэя"
+
+msgid "Please, wait for a few minutes, processing"
+msgstr "Калі ласка, пачакайце крыху, ідзе апрацоўка дадзеных"
+
+msgid "Download .wotreplay file"
+msgstr "Спампаваць .wotreplay файл"
+
+msgid "Player"
+msgstr "Гулец"
+
+msgid "Version"
+msgstr "версія"
+
+msgid "Result"
+msgstr "Вынік"
+
+msgid "Unknown"
+msgstr "невядома"
+
+msgid "Draw"
+msgstr "нічыя"
+
+msgid "Defeat"
+msgstr "Параза"
+
+msgid "Battle chat"
+msgstr "Баявы чат"
+
+msgid "Ally"
+msgstr "Хаўруснікі"
+
+msgid "Enemy"
+msgstr "Супернік"
+
+msgid "Alive"
+msgstr "выжыў"
+
+msgid "Experience points"
+msgstr "ачкі вопыту"
+
+msgid "Damage"
+msgstr "Шкода"
+
+msgid "Shots"
+msgstr "Стрэлы"
+
+msgid "Capture"
+msgstr "Захоп"
+
+msgid "Potential damage received"
+msgstr "Патэнцыйная прынятая шкода"
+
+msgid "Mileage"
+msgstr "Прабег"
+
+msgid "Killed"
+msgstr "Забіта"
+
+msgid "Damaged"
+msgstr "Пашкоджана"
+
+msgid "Spotted"
+msgstr "Выяўлена"
+
+msgid "Dealt"
+msgstr "Нанесена"
+
+msgid "Assisted radio"
+msgstr "Па засвету"
+
+msgid "Assisted track"
+msgstr "Па збітым тракавым пасам"
+
+msgid "Direct hits"
+msgstr "Трапленні"
+
+msgid "Piercings"
+msgstr "прабіцці"
+
+msgid "Dropped capture points"
+msgstr "Збітыя ачкі захопу"
+
+msgid "Capture points"
+msgstr "Ачкі захопу"
+
+msgid "Extended data are not available for this .wotreplay file"
+msgstr "Для гэтага рэплэя пашыраныя дадзеныя недаступныя"
+
+msgid "Return back to report"
+msgstr "Вярнуцца ў справаздачу"
+
+msgid "Explosion hits"
+msgstr "трапленняў сплэшам"
+
+msgid "To obtain information about the contents of the column, place the mouse pointer on the column header"
+msgstr "Для атрымання падказкі пра змесціва слупка, навядзіце курсор мышы на загаловак слупка"
+
+msgid "Discuss on Forum"
+msgstr "Абмеркаваць на форуме"
+
+msgid "Try again"
+msgstr "Паспрабаваць яшчэ раз"
+
+msgid "OpenID error"
+msgstr "Памылка OpenID"
+
+msgid "OpenID verification failed"
+msgstr "Адмова ад аўтарызацыі па OpenID"
+
+msgid "These periods are calculated starting from the"
+msgstr "Звесткі за перыяды падлічаны пачынаючы з"
+
+msgid "Information about your vehicles are temporarily unavailable"
+msgstr "Дадзеныя аб вашай тэхніцы часова недасяжныя"
+
+msgid "Ace tanker: %s"
+msgstr "Знак Майстар: %s"
+
+msgid "Online"
+msgstr "Анлайн"
+
+msgid "Clan's online"
+msgstr "Анлайн клана"
+
+msgid "Read about clan's online statistic"
+msgstr "Чытаць пра статыстыку кланавага анлайну"
+
+msgid "%sActive members: %d Average number of battles per member: %0.2f "
+msgstr "%sАктыўных удзельнікаў: %d Сярэдні лік баёў на ўдзельніка: %0.2f "
+
+msgid "Active members"
+msgstr "актыўныя ўдзельнікі"
+
+msgid "Current online activity"
+msgstr "Бягучая актыўнасць ўдзельніка"
+
+msgid "Data are not available"
+msgstr "дадзеныя недасяжныя"
+
+msgid "Defense of Stronghold"
+msgstr "Абарона ўмацаванага раёна"
+
+msgid "Shedule of stronghold's battles for union"
+msgstr "Расклад бітваў за УР саюза"
+
+msgid "You are member of union, coordinated by"
+msgstr "Вы складаецеся ў саюзе, які каардынуе"
+
+msgid "You has sent invites for the next clans"
+msgstr "Вы даслалі запрашэння наступным кланам"
+
+msgid "Dismiss the union"
+msgstr "распусціць саюз"
+
+msgid "Only clan's leader or vice-leader can dismiss union."
+msgstr "Толькі камандзір ці намеснік можа распусціць саюз"
+
+msgid "Leave union"
+msgstr "пакінуць саюз"
+
+msgid "Only clan's leader or vice-leader can leave union."
+msgstr "Толькі камандзір ці намеснік можа пакінуць саюз"
+
+msgid "You have invites to next Unions"
+msgstr "У вас ёсць запрашэнні ў наступныя саюзы"
+
+msgid "You have not invitations to any Union."
+msgstr "У вас няма запрашэнняў у саюзы"
+
+msgid "Create Union"
+msgstr "стварыць саюз"
+
+msgid "You can accept invite from existing union or create new union, coordinated by you."
+msgstr "Вы можаце прыняць запрашэнне ў існуючы саюз ці стварыць новы саюз, які будзеце каардынаваць самі."
+
+msgid "Clan's leader or vice-leader can create new stronghold's union or join to existing union."
+msgstr "Камандзір клана ці намеснік можа стварыць новы саюз для абароны умацаваных раёнаў або далучыцца да існага саюзу."
+
+msgid "You must have <strong>level 5 stronghold and the defense period must be activated.</strong>"
+msgstr "У вас павінен быць <strong>ўмацаваны раён 5 ўзроўню і павінен быць усталяваны перыяд абароны.</strong>"
+
+msgid "Invite clan"
+msgstr "Запрасіць клан"
+
+msgid "Remove"
+msgstr "Выдаліць"
+
+msgid "Join"
+msgstr "Уступіць"
+
+msgid "Actuality"
+msgstr "Актуальнасць"
+
+msgid "Coord"
+msgstr "Каард"
+
+msgid "Level"
+msgstr "Узровень"
+
+msgid "Directions"
+msgstr "Напрамкі"
+
+msgid "OffDay"
+msgstr "Выходны"
+
+msgid "Vacation"
+msgstr "Нейтралітэт"
+
+msgid "Defence"
+msgstr "абарона"
+
+msgid "Frozen"
+msgstr "Замарожаны"
+
+msgid "Invited clan already have union membership."
+msgstr "Запрошаны клан ўжо складаецца ў саюзе."
+
+msgid "Internal error. Can't find invited clan in DB."
+msgstr "Унутраная памылка. Не магу знайсці запрашаўся клан у БД."
+
+msgid "Invite  to union clan"
+msgstr "Запрасіць у саюз клан"
+
+msgid "Stronghold level"
+msgstr "умацаваны раён ўзроўню"
+
+msgid "Defense period"
+msgstr "Перыяд абароны"
+
+msgid "Invited clan must have level V stronghold and defence period must be set."
+msgstr "Запрошаны клан павінен мець ўмацаваны раён ад V ўзроўню і актываваны перыяд абароны."
+
+msgid "Can't read stronghold's data from wargaming.net"
+msgstr "Не магу прачытаць дадзеныя ўмацаванага раёна на wargaming.net"
+
+msgid "You must be union coordinator for invites sending."
+msgstr "Для рассылання запрашэнняў вы павінны быць каардынатарам саюза."
+
+msgid "Defense period not set"
+msgstr "Перыяд абароны не ўстаноўлены"
+
+msgid "Battles for Stronghold is not available. Command center is damaged, or defense period not set"
+msgstr "Бітвы за умацаваны раён недаступныя. Камандны цэнтр пашкоджаны, або не ўстаноўлены перыяд абароны"
+
+msgid "is cover you."
+msgstr "прыкрывае вас."
+
+msgid "is attack you."
+msgstr "атакуе вас."
+
+msgid "No one is attacking you."
+msgstr "Ніхто не атакуе вас."
+
+msgid "No battles"
+msgstr "Няма баёў"
+
+msgid "Danger! No cover!"
+msgstr "Небяспека! Няма прыкрыцця!"
+
+msgid "You are cover"
+msgstr "вы прыкрываеце"
+
+msgid "You are attack"
+msgstr "вы атакуеце"
+
+msgid "less than minute"
+msgstr "менш хвіліны"
+
+msgid "minutes: %d"
+msgstr "хвілін: %d"
+
+msgid "more than a day"
+msgstr "больш за суткі"
+
+msgid "Data actuality"
+msgstr "Актуальнасць дадзеных"
+
+msgid "List of clans"
+msgstr "Спіс кланаў"
+
+msgid "Today"
+msgstr "Сёння"
+
+msgid "Consolidated schedule"
+msgstr "зводны расклад"
+
+msgid "Tasks for ally"
+msgstr "Задачы для саюзніка"
+
+msgid "[%s] are cover"
+msgstr "[%s] прыкрывае"
+
+msgid "[%s] are attack"
+msgstr "[%s] атакуе"
+
+msgid "is cover [%s]."
+msgstr "прыкрывае [%s]"
+
+msgid "is attack [%s]."
+msgstr "атакуе [%s]."
+
+msgid "Click on clan's tag for view ally's shedule within the union, click on defense period for view the task list and shedule of defenses for ally."
+msgstr "Клікніце па клан-тэгу для для прагляду раскладу баёў саюзніка, клікніце на перыядзе абароны для прагляду спісу задач і раскладу абарон УР саюзніка."
+
+msgid "Place cursor over day's cell for detailed information for that day."
+msgstr "Навядзіце курсор на ячейку дня ў календары для атрымання падрабязнай інфармацыі аб гэтым дні."
+
+msgid "Not covered"
+msgstr "не прыкрытыя"
+
+msgid "Attacked"
+msgstr "атакаваныя"
+
+msgid "Covered"
+msgstr "прыкрытыя"
+
+msgid "Legend for calendar's cells"
+msgstr "Абазначэння для ячэек календара"
+
+msgid "green digit"
+msgstr "зялёная лічба"
+
+msgid "Number of not covered allies, available for attacks at that day"
+msgstr "Лік непрыкрытым саюзнікаў, даступных для нападаў у гэты дзень"
+
+msgid "red digit"
+msgstr "чырвоная лічба"
+
+msgid "Number of allies who were attacked on this day by clans outside the union"
+msgstr "Лік саюзнікаў, атакаваных ў гэты дзень кланамі, якія не ўваходзяць у саюз"
+
+msgid "Number of covers from the clan to allies at that day"
+msgstr "Колькасць саюзнікаў, якіх клан прыкрывае ў гэты дзень"
+
+msgid "Number of attacks at that day from the clan to clans outside the union"
+msgstr "Колькасць нападаў на кланы, якія не ўваходзяць у саюз"
+
+msgid "Cover, off day or vacation"
+msgstr "Прыкрыццё саюзнікаў, выхадны або нейтралітэт"
+
+msgid "Opened day. Can be attacked by ally or enemy"
+msgstr "Атакі, прыкрыцця, выхаднога і нэйтралітэту няма, могуць паставіць атаку ворагі або прыкрыцьцё саюзнікі."
+
+msgid "Attacked by clan outside the union"
+msgstr "Атакаваны кланам, які не ўваходзіць у саюз"
+
+msgid "Number of allies, covered by clan"
+msgstr "Колькасць хаўруснікаў, прыкрытых кланам"
+
+
+
+
+msgid "Number of covers from allies"
+msgstr "Число прикрытий клана союзниками"
+
+msgid "Number of attacks to enemies"
+msgstr "Число атак на кланы вне союза"
+
+msgid "Number of attacks from enemies"
+msgstr "Число атак от кланов вне союза"
+
+msgid "When you participate in the battle for the Stronghold, your building can attack and plunder the stronger clans."
+msgstr "Когда вы участвуете в сражениях за Укрепрайон, то ваши здания могут атаковать и разграбить более сильные кланы."
+
+msgid "To prevent this, you can join an alliance with several clans and attack each other, to prevent the possibility to be attacked by enemies."
+msgstr "Чтобы предотвратить это, вы можете обьединиться в союз с несколькими кланами и атаковать друг друга, чтобы не дать врагам возможности для атаки."
+
+msgid "This site will help you coordinate your mutual attacks by automatically creating a schedule for each fighting ally."
+msgstr "Этот сайт поможет вам скоординировать ваши взаимные атаки, автоматически создавая расписание боев для каждого союзника."
+
+msgid "This site will help you <strong>coordinate your mutual attacks</strong> by automatically creating a schedule for each fighting ally."
+msgstr "Этот сайт поможет вам <strong>скоординировать ваши взаимные атаки</strong>, автоматически создавая расписание боев для каждого союзника."
+
+msgid "Improve your Stronghold and join us. Advansed Stronghold gives delicious cookies for all members of your clan!"
+msgstr "Улучшайте ваш Укрепрайон и присоединяйтесь. В развитых Укрепрайонах есть вкусные печеньки для всех участников вашего клана!"
+
+msgid "Less than 24 hours"
+msgstr "Менее 24 часов"
+
+msgid "Yet can't be attacked"
+msgstr "Пока не могут быть атакованы"
+
+msgid "Next attack on clan [%s] (%02d %s) will be available %02d h %02d m later"
+msgstr "Следующая атака на клан [%s] (%02d %s) станет доступна через %02d ч %02d м"
+
+msgid "Update stronghold's data"
+msgstr "Обновить данные УР"
+
+msgid "Join to union or create new"
+msgstr "Вступить в союз или создать свой"
+
+msgid "Tasks for clan"
+msgstr "Задачи для клана"
+
+msgid "Can receive protection from following clans"
+msgstr "Могут прикрыть следующие кланы"
+
+msgid "Next clans can't protect"
+msgstr "Эти кланы не могут прикрыть"
+
+msgid "No one can protect"
+msgstr "Никто не может прикрыть в этот день"
+
+msgid "Stronghold frozen"
+msgstr "Укрепрайон заморожен"
+
+msgid "Neutrality"
+msgstr "Нейтралитет"
+
+msgid "Same defense period"
+msgstr "Одинаковый период обороны"
+
+msgid "Maximum number of attack at this day"
+msgstr "Максимум боев в этот день"
+
+msgid "Will protect soon"
+msgstr "Скоро будут прикрывать"
+
+msgid "Made protection recently"
+msgstr "Недавно прикрывали"
+
+msgid "Will be able to protect after"
+msgstr "Смогут прикрывать через"
+
+msgid "Click on battle time of unprotected day, to view allies, who can protect"
+msgstr "Кликните на времени боя не прикрытого дня, чтобы узнать, кто может прикрыть"
+
+msgid "Number of ally, which can be protected at that day"
+msgstr "Число союзников, которых можно прикрыть в этот день"
+
+msgid "Click on cell with green digit to view clans, which can be protected"
+msgstr "Кликните на ячейке с зеленой цифрой, чтобы просмотреть список кланов, которые нужно прикрыть в этот день"
+
+msgid "Schedule of stronghold's defenses for"
+msgstr "Расписание защит укрепрайона для"
+
+msgid "Protect for allies"
+msgstr "Прикрытие союзников"
+
+msgid "Allies can't be protected, because the vacation period is active. Will be finished after"
+msgstr "Союзников нельзя прикрывать, потому что включен нейтралитет. Закончится через"
+
+msgid "Now, all tasks for protecting allies are complete"
+msgstr "Сейчас все доступные клану прикрытия союзников сделаны"
+
+msgid "Make attack to the allies according to the list below."
+msgstr "Поставьте атаки на союзников согласно списку ниже."
+
+msgid "You can not attack a same clan more than once"
+msgstr "Вы не можете атаковать один клан более одного раза"
+
+msgid "You can not attack a few clans in one day and the hour"
+msgstr "Вы не можете атаковать несколько кланов в один день и час"
+
+msgid "select one option, if their proposed several"
+msgstr "выберите один вариант, если их предложено несколько"
+
+msgid "Defense settings"
+msgstr "Настройки обороны"
+
+msgid "Defense settings will be changed"
+msgstr "Настройки обороны изменятся"
+
+msgid "Set changes in defense period of"
+msgstr "Установка изменений периода обороны"
+
+msgid "From which date the changes will be introduced."
+msgstr "С какой даты будут введены изменения."
+
+msgid "Leave blank, to cancel changes in defense period."
+msgstr "Оставьте пустым, для отмены изменений периода обороны."
+
+msgid "Select new off day"
+msgstr "Выберите новый выходной"
+
+msgid "Current"
+msgstr "Текущий"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "Select old and new hour of defense start, as you see it in game"
+msgstr "Выберите текущий и новый час начала обороны, как вы видите их в игре"
+
+msgid "off day will change from %s to %s "
+msgstr "выходной изменится с %s на %s "
+
+msgid "defense start hour will change from %02d:00 to %02d:00"
+msgstr "час начала обороны изменится с %02d:00 на %02d:00"
+
+msgid "These clans will change defense settings soon"
+msgstr "Эти кланы скоро изменят настройки обороны"
+
+msgid "Changes"
+msgstr "Изменения"
+
+msgid "Restore membership"
+msgstr "Восстановить участие"
+
+msgid "Suspend membership"
+msgstr "Приостановить участие"
+
+msgid "Membership is suspended"
+msgstr "Членство в союзе приостановлено"
+
+msgid "This means that the clan is not included in the tasks of providing cover for the Allies"
+msgstr "Это означает, что клан не учитывается при постановке задач на прикрытие союзников"
+
+msgid "Existing cover is still displayed"
+msgstr "Существующие прикрытия отображаются по прежнему"
+
+msgid "You can restore the union membership by clicking the appropriate button at the bottom of the page"
+msgstr "Вы можете восстановить членство в союзе, нажав соответствующую кнопку внизу страницы"
+
+msgid "Are you want to leave union, which coordinates"
+msgstr "Хотите выйти из союза, который координирует"
+
+msgid "Remove from union clan"
+msgstr "Удалить из союза клан"
+
+msgid "Defense"
+msgstr "Оборона"
+
+msgid "Attack"
+msgstr "Атака"
+
+msgid "Battle against enemy"
+msgstr "Битва с врагами"
+
+msgid "Battles inside the union are marked in green."
+msgstr "Бои внутри союза отмечены зеленым."
+
+msgid "You do not have fight in these battles."
+msgstr "Вы не должны заходить в такие бои."
+
+msgid "Number of not covered defenses"
+msgstr "Число не прикрытых защит укрепрайона"
+
+msgid "If the day doesn't change, select current day."
+msgstr "Если выходной не меняется, выберите текущий выходной"
+
+msgid "For example for the date of March 10, 2015 the value of the field should be 2015-03-10."
+msgstr "Например, для даты 10 марта 2015, значение поля должно быть 2015-03-10."
+
+msgid "If the defense period doesn't change, select current period."
+msgstr "Если период обороны не меняется, выберите текущий период."
+
+msgid "Automatically detected on the site"
+msgstr "Автоматически определено сайтом"
+
+msgid "Fill data"
+msgstr "Заполнить данные"
+
+msgid "This data was detected automatically."
+msgstr "Эти данные были обнаружены сайтом автоматически."
+
+msgid "Please, fill complete data about these changes in special form at this site."
+msgstr "Пожалуйста, заполните полные данные об этих изменениях в специальной форме на этом сайте."
+
+msgid "after"
+msgstr "через"
+
+msgid "Participated in Stronghold's skirmishes and battles"
+msgstr "Участие в сражениях и вылазках Укрепрайона"
+
+msgid "Full history of the SH activity for account"
+msgstr "Полная история активности аккаунта в УР"
+
+msgid "SH activity for the period"
+msgstr "Активность в УР за период"
+
+msgid "Activity in Stronghold's battles and skirmishes for last %d days"
+msgstr "Активность в сражениях и вылазках в Укрепрайоне за последние %d дней"
+
+msgid "Number of available clan's tasks"
+msgstr "Число доступных задач по прикрытию союзников"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Received"
+msgstr "Получил"
+
+msgid "Gave"
+msgstr "Отдал"
+
+msgid "Board of Shame"
+msgstr "Доска позора"
+
+msgid "These clans do not perform tasks to provide cover for allies"
+msgstr "Эти кланы не выполняют задачи по прикрытию союзников"
+
+msgid "Update list of members and roles"
+msgstr "Обновить список участников и их должностей"
+
+msgid "Allies"
+msgstr "Союзники"
+
+msgid "Ally team total: shots, hits, piercings"
+msgstr "Команда союзников: выстрелы, попадания, пробития"
+
+msgid "Enemies"
+msgstr "Противники"
+
+msgid "Enemy team total: shots, hits, piercings"
+msgstr "Команда противников: выстрелы, попадания, пробития"
+
+msgid "Where is our respawn?"
+msgstr "Какой у нас респ?"
+
+msgid "Locations of bases at map"
+msgstr "Положение баз на карте"
+
+msgid "Clan1"
+msgstr "Клан1"
+
+msgid "Clan2"
+msgstr "Клан2"
+
+msgid "Position of the clans at the screen of formation of the team for CW battle"
+msgstr "Положение кланов на экране формирования состава команды для боя на ГК"
+
+msgid "Position of the team's bases at the map"
+msgstr "Положение баз команд на карте"
+
+msgid "Recent attacks"
+msgstr "Недавние атаки"
+
+msgid "You can't invite new members in this union. Maximum number of invites and members are reached."
+msgstr "Нельзя приглашать новых участников в этот союз. Достигнуто максимальное число участников и приглашений."
+
+msgid "You can invite clans"
+msgstr "Вы можете пригласить кланов"
+
+msgid "Graph of the defense period for members of union."
+msgstr "Распределение времени обороны участников по часам суток"
+
+msgid "Locate cursor over bar of hour for view members with this time."
+msgstr "Наведите курсор на столбик часа для просмотра участников"
+
+msgid "Contact information for"
+msgstr "Контактные данные для"
+
+msgid "Fill data for allies to contact you."
+msgstr "Укажите свои контакты для союзников."
+
+msgid "For example: clan's voice chat address, nicknames of clanmates for contact and so on."
+msgstr "Например, адрес сервера голосового чата, ники контактных лиц в игре и скайпе и т.п."
+
+msgid "Fill contact information"
+msgstr "Заполнить контактные данные"
+
+msgid "Attack another clan at this time"
+msgstr "Атакует другой клан в это время"
+
+msgid "Offday will be changed"
+msgstr "Выходной изменится"
+
+msgid "Defense hour will be changed"
+msgstr "Час обороны изменится"
+
+msgid "Will be moved"
+msgstr "Сдвинется"
+
+msgid "ahead"
+msgstr "вперед"
+
+msgid "ago"
+msgstr "назад"
+
+msgid "Date of changes must be specified"
+msgstr "Должна быть указана дата изменений"
+
+msgid "At least one change must be specified"
+msgstr "Должно быть указано хотя бы одно изменение"
+
+msgid "Manual for defense of Stronghold"
+msgstr "Руководство по защите укрепрайона"
+
+msgid "Effectiveness of cover"
+msgstr "Эффективность прикрытия"
+
+msgid "The stronghold of your clan was plundered?"
+msgstr "Ваш укрепрайон разграбили?"
+
+msgid "Let's defend!"
+msgstr "Поможем защитить!"
+
+msgid "Search for SH attacks"
+msgstr "Поиск атак УР"
+
+msgid "SH level"
+msgstr "Уровень УР"
+
+msgid "Defense hour"
+msgstr "Час обороны"
+
+msgid "Max position in rating"
+msgstr "Макс.позиция рейтинга"
+
+msgid "Find"
+msgstr "Найти"
+
+msgid "remain"
+msgstr "осталось"
+
+msgid "Next battle"
+msgstr "Следующий бой"
+
+msgid "Click on clan's tag to view list of days, when you can attack"
+msgstr "Кликните на клан-тег для просмотра дат, когда вы можете атаковать"
+
+msgid "Available attacks"
+msgstr "Доступно атак"
+
+msgid "No clans, which meet the conditions"
+msgstr "Нет кланов, соответствующих заданным условиям"
+
+msgid "Bildings"
+msgstr "Здания"
+
+msgid "You can't attack at this hour"
+msgstr "Вы не можете атаковать в этот час"
+
+msgid "Available attacks on"
+msgstr "Доступные атаки на"
+
+msgid "Position into WG rating"
+msgstr "Позиция в рейтинге WG"
+
+msgid "Average bilding's level"
+msgstr "Средний уровень зданий"
+
+msgid "Click to view tips for locations of bases into Clan War battles"
+msgstr "Нажмите для подсказки о расположении баз на картах в боях на ГК"
+
+msgid "This function available for paid plans."
+msgstr "Эта функция доступна только в платных режимах."
+
+msgid "Free premium trial"
+msgstr "Бесплатный триал премиум-режима"
+
+msgid "Rate"
+msgstr "Рейтинг"
+
+msgid "Average"
+msgstr "Средний"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "you will have an opportunity to plan attack at"
+msgstr "вы сможете запланировать атаку на"
+
+msgid "against the following clans"
+msgstr "против следующих кланов"
+
+msgid "Your membership in union has been suspended by coordinator. Please, ask coordinators about restoring membership."
+msgstr "Ваше участие в союзе приостановлено координатором. Пожалуйста, обратитесь к координатору для воостановления участия в союзе."
+
+msgid "Return"
+msgstr "Возврат"
+
+msgid "will be available for attacks"
+msgstr "будут доступны для атак"
+
+msgid "clan(s)"
+msgstr "клан(ов)"
+
+msgid "Previos"
+msgstr "Назад"
+
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+msgid "It might have been moved or deleted, or perhaps specified the wrong URL."
+msgstr "Возможно, она перемещена или удалена или вы указали неверный адрес URL."
+
+msgid "Calculator of payments"
+msgstr "Калькулятор выплат"
+
+msgid "Start date"
+msgstr "Начальная дата"
+
+msgid "End date"
+msgstr "Конечная дата"
+
+msgid "Points for clan action"
+msgstr "Очки за Посещалку"
+
+msgid "Points for CW battle"
+msgstr "Очки за бой на ГК"
+
+msgid "Points for SH battle"
+msgstr "Очки за бой в УР"
+
+msgid "Calculate"
+msgstr "Посчитать"
+
+msgid "Archeve of clan's news"
+msgstr "Архив новостей клана"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "Period, hours"
+msgstr "Период, часы"
+
+msgid "during hours"
+msgstr "в течение часов"
+
+msgid "Active members in the last"
+msgstr "Активные участники за последние"
+
+msgid "View"
+msgstr "Просмотр"
+
+msgid "I'm here"
+msgstr "Я здесь"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "not specified"
+msgstr "не указано"
+
+msgid "Clanmates on the map"
+msgstr "Соклановцы на карте"
+
+msgid "members list"
+msgstr "список участников"
+
+msgid "is marked on the map?"
+msgstr "отмечен на карте?"
+
+msgid "Show on the map"
+msgstr "Показать на карте"
+
+msgid "specify your location"
+msgstr "указать ваше местоположение"
