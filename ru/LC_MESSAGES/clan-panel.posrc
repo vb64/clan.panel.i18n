@@ -1881,3 +1881,21 @@ msgstr "Общие потери"
 
 msgid "skirmish"
 msgstr "вылазки"
+
+msgid "Union news"
+msgstr "Новости союза"
+
+msgid "[%s] change tag to [%s]"
+msgstr "[%s] изменил тэг на [%s]"
+
+msgid "[%s] joined to union. %s"
+msgstr "[%s] присоединился к союзу. %s"
+
+msgid "[%s] leaves the union. %s"
+msgstr "[%s] покинул союз. %s"
+
+msgid "[%s] suspends membership. %s"
+msgstr "[%s] приостановил участие. %s"
+
+msgid "[%s] restores membership. %s"
+msgstr "[%s] восстановил участие. %s"
