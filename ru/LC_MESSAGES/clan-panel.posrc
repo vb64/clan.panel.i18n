@@ -1899,3 +1899,24 @@ msgstr "[%s] приостановил участие. %s"
 
 msgid "[%s] restores membership. %s"
 msgstr "[%s] восстановил участие. %s"
+
+msgid "Analytics of defense hours"
+msgstr "Аналитика периодов обороны"
+
+msgid "Clans"
+msgstr "Кланы"
+
+msgid "Attacks"
+msgstr "Атаки"
+
+msgid "Covers"
+msgstr "Прикрытия"
+
+msgid "Efficiency"
+msgstr "Эффективность"
+
+msgid "Bids per clan"
+msgstr "Заявок на клан"
+
+msgid "Covers per defense hour"
+msgstr "Прикрытия по периодам обороны"
